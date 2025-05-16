@@ -134,7 +134,19 @@ TQB++ is designed for various LLMOps and evaluation workflows:
 If you use TQB++ in your research or work, please cite the original TQB and the TQB++ paper:
 
 ```bibtex
-@misc{koctinyqabenchmark,
+% This synthetic dataset and generator
+@misc{koctinyqabenchmark_pp_dataset,
+  author       = {Vincent Koc},
+  title        = {Tiny QA Benchmark++ (TQB++) Datasets and Toolkit},
+  year         = {2025},
+  publisher    = {Hugging Face & GitHub},
+  doi          = {10.57967/hf/5531},
+  howpublished = {\url{https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp}},
+  note         = {See also: \url{https://github.com/vincentkoc/tiny_qa_benchmark_pp}}
+}
+
+% Original core_en.json (52 in en)
+@misc{koctinyqabenchmark_original,
   author       = {Vincent Koc},
   title        = {tiny_qa_benchmark},
   year         = {2025},

@@ -113,15 +113,18 @@ Synthetically generated packs also include `id`, `lang` (language code), and `sh
 If you use TQB++ datasets or the generator toolkit in your research or work, please cite:
 
 ```bibtex
-@misc{koctinyqabenchmark_pp,
+% This synthetic dataset and generator
+@misc{koctinyqabenchmarkpp,
   author       = {Vincent Koc},
   title        = {Tiny QA Benchmark++ (TQB++) Datasets and Toolkit},
   year         = {2025},
   publisher    = {Hugging Face & GitHub},
+  doi          = {10.57967/hf/5531},
   howpublished = {\url{https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp}},
   note         = {See also: \url{https://github.com/vincentkoc/tiny_qa_benchmark_pp}}
 }
 
+% Original core_en.json (52 in en)
 @misc{koctinyqabenchmark_original,
   author       = {Vincent Koc},
   title        = {tiny_qa_benchmark},

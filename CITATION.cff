@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it as below."
+authors:
+  - family-names: "Koc"
+    given-names: "Vincent"
+    orcid: "https://orcid.org/0000-0002-6 Vincent Koc_ORCID_PLACEHOLDER"
+    # affiliation: "Comet ML, Inc." # Optional: Add if desired
+
+title: "Tiny QA Benchmark++ (TQB++) Datasets and Toolkit"
+version: 0.1.0 # Corresponds to the planned PyPI package version, update with releases
+doi: 10.57967/hf/5531 # DOI for the TQB++ dataset collection on Hugging Face
+date-released: 2025 # Year of planned release or first major public version
+
+# Optional: Information about the software repository itself
+repository-code: "https://github.com/vincentkoc/tiny_qa_benchmark_pp"
+url: "https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"
+license: Apache-2.0 # License for the toolkit/code aspects
+
+keywords:
+  - "LLM Evaluation"
+  - "QA Benchmarks"
+  - "Synthetic Data"
+  - "LLMOps"
+  - "Continuous Integration"
+  - "Smoke Testing"
+  - "Question Answering"
+  - "benchmark"
+
+# Preferred citation for the TQB++ dataset collection and toolkit
+preferred-citation:
+  type: generic # Using 'generic' as it's a collection of datasets and software
+  authors:
+  - family-names: "Koc"
+    given-names: "Vincent"
+    orcid: "https://orcid.org/0000-0002-6 Vincent Koc_ORCID_PLACEHOLDER"
+  title: "Tiny QA Benchmark++ (TQB++) Datasets and Toolkit"
+  year: 2025
+  institution:
+    name: "Hugging Face & GitHub"
+  url: "https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"
+  doi: 10.57967/hf/5531
+  notes: "See also: https://github.com/vincentkoc/tiny_qa_benchmark_pp"
+
+# Reference to the original Tiny QA Benchmark
+references:
+  - type: dataset
+    title: "tiny_qa_benchmark"
+    authors:
+      - family-names: "Koc"
+        given-names: "Vincent"
+        orcid: "https://orcid.org/0000-0002-6 Vincent Koc_ORCID_PLACEHOLDER"
+    year: 2025
+    institution:
+      name: "Hugging Face"
+    doi: "10.57967/hf/5417"
+    url: "https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark"
+
+# Placeholder for the JMLR paper - uncomment and fill when available
+# - type: article
+#   title: "Tiny QA Benchmark++: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests"
+#   authors:
+#     - family-names: "Koc"
+#       given-names: "Vincent"
+#       orcid: "https://orcid.org/0000-0002-6 Vincent Koc_ORCID_PLACEHOLDER"
+#   journal: "Journal of Machine Learning Research"
+#   year: 2025
+#   # volume: XX
+#   # issue: X
+#   # start-page: X
+#   # end-page: XX
+#   # doi: "DOI_FOR_PAPER_WHEN_AVAILABLE"
+#   # url: "URL_TO_PAPER_WHEN_AVAILABLE" 

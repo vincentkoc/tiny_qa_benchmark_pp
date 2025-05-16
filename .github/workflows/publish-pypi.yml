@@ -22,11 +22,13 @@ jobs:
         python-version: "3.x"
 
     - name: Install build dependencies
+      working-directory: ./tools/generator
       run: |
         python -m pip install --upgrade pip
         python -m pip install build
 
     - name: Build package
+      working-directory: ./tools/generator
       run: python -m build
 
     - name: Publish package to PyPI
@@ -36,4 +38,6 @@ jobs:
       # https://docs.pypi.org/trusted-publishers/adding-a-publisher/
       # If not using trusted publishing, you would configure 'password' with a PYPI_API_TOKEN secret:
       # with:
-      #   password: ${{ secrets.PYPI_API_TOKEN }} 
+      #   password: ${{ secrets.PYPI_API_TOKEN }}
+      with:
+        packages_dir: tools/generator/dist/
