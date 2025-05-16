@@ -50,10 +50,17 @@ jobs:
         mkdir -p metadata
 
         # Copy files from the main repository to the dataset repository structure
-        # Adjust paths if your data is in a different location in your source repo
         cp -r ../data/core_en/* ./data/core_en/
         cp -r ../data/packs/* ./data/packs/
-        cp -r ../metadata/* ./metadata/
+
+        # # Copy metadata directory contents if it exists and is not empty
+        # if [ -d ../metadata ] && [ "$(ls -A ../metadata)" ]; then
+        #   echo "Copying metadata directory contents..."
+        #   cp -r ../metadata/. ./metadata/
+        # else
+        #   echo "Warning: Source metadata directory ../metadata is missing or empty. Skipping metadata copy."
+        # fi
+
         # Copy the dedicated Hugging Face README as the main README.md for the dataset card
         if [ -f ../README_hg.md ]; then
           cp ../README_hg.md ./README.md
