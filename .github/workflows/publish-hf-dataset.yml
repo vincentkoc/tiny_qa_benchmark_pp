@@ -3,6 +3,7 @@ name: Publish Datasets to Hugging Face Hub
 on:
   release:
     types: [created]
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   publish-to-hf-hub:
@@ -34,6 +35,7 @@ jobs:
 
     - name: Push to Hub
       env:
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}
         HF_DATASET_REPO_ID: ${{ steps.dataset_info.outputs.repo_id }}
         RELEASE_VERSION: ${{ github.event.release.tag_name }}
       run: |
@@ -80,6 +82,7 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git commit -m "Update dataset from GitHub release $RELEASE_VERSION"
+          git remote set-url origin "https://oauth:${HF_TOKEN}@huggingface.co/datasets/${HF_DATASET_REPO_ID}"
           git push
           echo "Successfully pushed changes to Hugging Face Hub dataset $HF_DATASET_REPO_ID"
         else
