@@ -5,4 +5,4 @@ Permission is hereby granted to use, copy, and redistribute the enclosed JSON fi
 
 Any other use – including but not limited to training, fine-tuning, commercial redistribution, or inclusion in downstream datasets – is PROHIBITED without explicit written permission from the authors.
 
-The data were generated with the assistance of third-party language models (OpenAI GPT-o3).  No warranty is provided.
+The data were generated with the assistance of third-party language models (OpenAI GPT-o3). No warranty is provided.
