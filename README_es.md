@@ -25,7 +25,7 @@ Un conjunto de datos de evaluación ultraligero y un generador sintético <br>pa
 
 <div align="center">
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><img alt="Versión de PyPI" src="https://img.shields.io/pypi/v/tinyqabenchmarkpp"></a>
-    <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="Licencia" src="https://img.shields.io/github/license/vincentkoc/tiny_qa_benchmark_pp"></a>
+    <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="Licencia" src="https://img.shields.io/badge/Apache-2.0-green"></a>
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Conjunto de datos de Hugging Face" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a>
     <!-- Considera añadir una insignia de flujo de trabajo de GitHub Actions si tienes CI configurada -->
     <!-- ej.: <a href="YOUR_WORKFLOW_LINK"><img alt="Estado de la compilación" src="YOUR_WORKFLOW_BADGE_SVG_LINK"></a> -->

@@ -25,7 +25,7 @@ Un jeu de données d'évaluation ultra-léger et un générateur synthétique <b
 
 <div align="center">
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><img alt="Version PyPI" src="https://img.shields.io/pypi/v/tinyqabenchmarkpp"></a>
-    <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="Licence" src="https://img.shields.io/github/license/vincentkoc/tiny_qa_benchmark_pp"></a>
+    <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="Licence" src="https://img.shields.io/badge/Apache-2.0-green"></a>
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Jeu de données Hugging Face" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a>
     <!-- Envisagez d'ajouter un badge de workflow GitHub Actions si vous avez configuré la CI -->
     <!-- ex: <a href="YOUR_WORKFLOW_LINK"><img alt="État de la construction" src="YOUR_WORKFLOW_BADGE_SVG_LINK"></a> -->

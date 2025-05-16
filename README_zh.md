@@ -25,7 +25,7 @@
 
 <div align="center">
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><img alt="PyPI 版本" src="https://img.shields.io/pypi/v/tinyqabenchmarkpp"></a>
-    <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="许可证" src="https://img.shields.io/github/license/vincentkoc/tiny_qa_benchmark_pp"></a>
+    <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="许可证" src="https://img.shields.io/badge/Apache-2.0-green"></a>
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Hugging Face 数据集" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a>
     <!-- 如果您配置了 CI，请考虑添加 GitHub Actions 工作流徽章 -->
     <!-- 例如：<a href="YOUR_WORKFLOW_LINK"><img alt="构建状态" src="YOUR_WORKFLOW_BADGE_SVG_LINK"></a> -->
