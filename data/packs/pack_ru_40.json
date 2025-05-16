@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Сколько будет 7 × 8?",
+    "label": "56",
+    "context": "7 × 8 равно 56.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "sha256": "07995551592a770d95de4a43a0f6d17ce40c8330c093205aeef9bf1fc5e5d482",
+    "id": "5e480533",
+    "lang": "ru"
+  },
+  {
+    "text": "Какова столица Франции?",
+    "label": "Париж",
+    "context": "Столицей Франции является Париж.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "e0940097974033f5931509e864c798f5f44f6588af27356cca366cc51fca836a",
+    "id": "19673aca",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто был первым президентом США?",
+    "label": "Джордж Вашингтон",
+    "context": "Первым президентом США был Джордж Вашингтон.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "sha256": "a74d3e63f35bee19512ba8564feb76e9fb18b0e21b6948dfdf75b89f774d1066",
+    "id": "1f3fb1cc",
+    "lang": "ru"
+  },
+  {
+    "text": "Каков химический символ воды?",
+    "label": "H2O",
+    "context": "Химическая формула воды — H2O.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "sha256": "7562bf0a08a6d3c9cc94566fe9b32b96b1cc121faca8a76259d94e6f57617fc3",
+    "id": "b4db8299",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто написал роман «Война и мир»?",
+    "label": "Лев Толстой",
+    "context": "Роман Война и мир написал Лев Толстой.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "sha256": "014d661383e5b8b59045631111b4b6c0ec079ea003576f01c205d661fb47209a",
+    "id": "e1831b51",
+    "lang": "ru"
+  },
+  {
+    "text": "Как называется процесс, с помощью которого растения синтезируют питательные вещества?",
+    "label": "фотосинтез",
+    "context": "Фотосинтез — процесс, с помощью которого растения производят питательные вещества.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "easy"
+    },
+    "sha256": "538115b85d878aa43b3f8144edd0932347e2717416da979a579dfd8a314acd07",
+    "id": "eb200962",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто написал «Лунную сонату»?",
+    "label": "Людвиг ван Бетховен",
+    "context": "Лунную сонату написал Людвиг ван Бетховен.",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "sha256": "9ec4b6a75cf5d79710e72cd9152ba7a5f18d5b4ec422acd51e73bd6014418f47",
+    "id": "d9d70a6a",
+    "lang": "ru"
+  },
+  {
+    "text": "Какой океан является крупнейшим на Земле?",
+    "label": "Тихий океан",
+    "context": "Тихий океан является крупнейшим океаном на Земле.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "7c85b28b3a7eeecf1511a8969ab17885bffe42891e97773cc2a3071df4db280a",
+    "id": "49c8dccd",
+    "lang": "ru"
+  },
+  {
+    "text": "Чему равен x, если 2x + 5 = 13?",
+    "label": "4",
+    "context": "Решение уравнения 2x + 5 = 13 даёт x = 4.",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "sha256": "152c04d86355ce65ce509055ea48c414487084f8d60f8278b6c2444572a05fd1",
+    "id": "fabcdc2d",
+    "lang": "ru"
+  },
+  {
+    "text": "Какова скорость света в вакууме (км/с)?",
+    "label": "300000 км/с",
+    "context": "Скорость света в вакууме составляет 300000 км/с.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "hard"
+    },
+    "sha256": "4b510ef55743c6d43bd9424ba2cbcdd23a06215d712ed3db3546b41b40b046ef",
+    "id": "e75a071b",
+    "lang": "ru"
+  },
+  {
+    "text": "В каком году началась Вторая мировая война?",
+    "label": "1939",
+    "context": "Вторая мировая война началась в 1939.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "cbc55f9ed42616cd888f5a2b5c8e0426f77dd7c9bd14aa0e034367f3d9ea28be",
+    "id": "c8191b59",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто написал картину «Мона Лиза»?",
+    "label": "Леонардо да Винчи",
+    "context": "Мону Лизу нарисовал Леонардо да Винчи.",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "sha256": "fc5be31bd93fe195cc2fedbb4e2cf0de553f693be4b6f158289eb0d24d1c2160",
+    "id": "d8e2b5d0",
+    "lang": "ru"
+  },
+  {
+    "text": "Какой pH у чистой воды?",
+    "label": "7",
+    "context": "pH чистой воды равен 7.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "medium"
+    },
+    "sha256": "c9337c3585614494a7a9b8f9c5525d2738baeeab74b5963128015dbdff5c996b",
+    "id": "58714817",
+    "lang": "ru"
+  },
+  {
+    "text": "Какая страна выиграла чемпионат мира по футболу 2018 года?",
+    "label": "Франция",
+    "context": "Чемпионом мира по футболу 2018 года стала Франция.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "medium"
+    },
+    "sha256": "a69b5f0fdccf45eb4ee07c04013ef0f9eb045d35f09dce5f6f40f750a0cc0cb7",
+    "id": "db22e0f6",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто автор серии книг «Гарри Поттер»?",
+    "label": "Джоан Роулинг",
+    "context": "Гарри Поттер написал Джоан Роулинг.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "sha256": "01a7de866c21d63ad9b1c6e335d7dc9b91f4e8fe4a7c2284dd950ff17af95d36",
+    "id": "b15eccd0",
+    "lang": "ru"
+  },
+  {
+    "text": "Какая река считается самой длинной в мире?",
+    "label": "Нил",
+    "context": "Нил является самой длинной рекой в мире.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "a68cc1e35541e200cc0b82e4e0aadae428e6667befed4ed8b7cc9c0e41be8e3d",
+    "id": "f9d5d761",
+    "lang": "ru"
+  },
+  {
+    "text": "Для разработки под Android в основном используется какой язык?",
+    "label": "Java",
+    "context": "Для разработки под Android в основном используется Java.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "sha256": "1c037f1e89775b3f9643c74f941fa077ad112c857ae00c7806c3e832e58c0a81",
+    "id": "151c762c",
+    "lang": "ru"
+  },
+  {
+    "text": "Какой элемент имеет атомный номер 6?",
+    "label": "Углерод",
+    "context": "Элемент с атомным номером 6 — это Углерод.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "medium"
+    },
+    "sha256": "d195f2f9848b7c189b92ab7d3094294bdd0662543a3da429897283dbf9e5f099",
+    "id": "05daa31b",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто снял фильм «Титаник»?",
+    "label": "Джеймс Кэмерон",
+    "context": "Фильм Титаник снял Джеймс Кэмерон.",
+    "tags": {
+      "category": "movies",
+      "difficulty": "medium"
+    },
+    "sha256": "0525e9bd473ed418db29c6ab08a03a3e40d93d547344b399cc77a3a21f5f4ae7",
+    "id": "f984c5ad",
+    "lang": "ru"
+  },
+  {
+    "text": "Какая планета самая большая в Солнечной системе?",
+    "label": "Юпитер",
+    "context": "Юпитер является крупнейшей планетой Солнечной системы.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "easy"
+    },
+    "sha256": "dcd38b00ea18e0bbb2b23ca4132a2543a88803a1fa37a0ca8570a272dd1b21ed",
+    "id": "9dc406ba",
+    "lang": "ru"
+  },
+  {
+    "text": "Что означает аббревиатура CPU?",
+    "label": "Central Processing Unit",
+    "context": "CPU расшифровывается как Central Processing Unit.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "sha256": "a2bb21e4055efe3890d99c51e0943a281d5648d159bf06cfcb78ee5abd2869d4",
+    "id": "2029e5aa",
+    "lang": "ru"
+  },
+  {
+    "text": "Сколько хромосом содержится в человеческой клетке?",
+    "label": "46",
+    "context": "В человеческой клетке содержится 46 хромосом.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "hard"
+    },
+    "sha256": "3c42e39faa2500a19429e4aeed2426ed916c2ae2727b9a4f5a2dd0be0a1e8950",
+    "id": "6357cdbc",
+    "lang": "ru"
+  },
+  {
+    "text": "Какая страна является самым маленьким государством по площади?",
+    "label": "Ватикан",
+    "context": "Самое маленькое государство по площади — это Ватикан.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "hard"
+    },
+    "sha256": "3d72c58e6076af6a0d374be29db3ed3cb962ce305d0ce88b08bf3cc280cdc616",
+    "id": "7b59ae12",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто первым совершил одиночный беспосадочный перелет через Атлантику?",
+    "label": "Чарльз Линдберг",
+    "context": "Первым человеком, совершившим одиночный беспосадочный перелёт через Атлантику, был Чарльз Линдберг.",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "sha256": "d5b404f910bba4845a13521e4d6aba155288474b3f83bb892bf69db85ce5e1aa",
+    "id": "f58a7cb3",
+    "lang": "ru"
+  },
+  {
+    "text": "Чему равна производная функции sin(x)?",
+    "label": "cos(x)",
+    "context": "Производная функции sin(x) равна cos(x).",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "sha256": "0ef1a9c0c6b8c7e55de0c4e0a79255dcd34eb544e2555ac5f778a62c6c201f36",
+    "id": "81ec60cd",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто написал роман «Преступление и наказание»?",
+    "label": "Фёдор Достоевский",
+    "context": "Роман Преступление и наказание написал Фёдор Достоевский.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "sha256": "0e7f59bd1209e00cbc7ca91e112c50453c9eff49fe3c9af7628bcf200a25e85b",
+    "id": "cf870799",
+    "lang": "ru"
+  },
+  {
+    "text": "Сколько игроков от каждой команды находятся на площадке в баскетболе?",
+    "label": "5",
+    "context": "В баскетболе на площадке находится 5 игроков от команды.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "sha256": "a12f374399ecd3b3d489c18c26b09046b4a6fc874aeb1261623131b3e2c6a4e3",
+    "id": "cb861770",
+    "lang": "ru"
+  },
+  {
+    "text": "Какой благородный газ самый тяжелый?",
+    "label": "Радон",
+    "context": "Радон является самым тяжелым благородным газом.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "medium"
+    },
+    "sha256": "6a684471a43c518f860c9f8b9000aca66b04c968a1d9d72d2e1aabe9c4e66b0b",
+    "id": "07c12cf7",
+    "lang": "ru"
+  },
+  {
+    "text": "Какая пустыня считается крупнейшей в мире?",
+    "label": "Сахара",
+    "context": "Самая большая пустыня в мире — Сахара.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "d10229cd7f404907e32213d533908d3f358bed6cbf1b330bde417024c8cebb41",
+    "id": "23f45274",
+    "lang": "ru"
+  },
+  {
+    "text": "Что объясняет синий цвет неба?",
+    "label": "рассеяние Рэлея",
+    "context": "Синий цвет неба объясняется эффектом рассеяния Рэлея.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "hard"
+    },
+    "sha256": "6011ac061202f0028fffe487ecfeeef0a6670b3b4f96f9318801806964dd129b",
+    "id": "3aabcaa4",
+    "lang": "ru"
+  },
+  {
+    "text": "Какая группа крови считается универсальным донором?",
+    "label": "O-",
+    "context": "Группой крови универсального донора является O-.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "hard"
+    },
+    "sha256": "7b586f876030b2581bc950babd13cd59b130b0e8af57d4715fa858876d5576ab",
+    "id": "ec63b300",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто написал «Шесть сюит для виолончели соло»?",
+    "label": "Иоганн Себастьян Бах",
+    "context": "Шесть сюит для виолончели соло написал Иоганн Себастьян Бах.",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "sha256": "2f91fee35abcc3ea1b659abcd57830b6e7279b6673f4696a23a1207e843a9d64",
+    "id": "86890c39",
+    "lang": "ru"
+  },
+  {
+    "text": "Что означает HTTP?",
+    "label": "HyperText Transfer Protocol",
+    "context": "HTTP расшифровывается как HyperText Transfer Protocol.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "hard"
+    },
+    "sha256": "4fdb2bcd51acd57f35868c79372d2ac6ff16acb619e81345106067614cee8e99",
+    "id": "96ef30c3",
+    "lang": "ru"
+  },
+  {
+    "text": "В каком континенте находится Бразилия?",
+    "label": "Южная Америка",
+    "context": "Бразилия расположена в Южной Америке.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "58d509ea71a1263f82701c337367454bbb24c53d352ae97da107752268d78f4b",
+    "id": "8c59c4c9",
+    "lang": "ru"
+  },
+  {
+    "text": "В каком году была построена Берлинская стена?",
+    "label": "1961",
+    "context": "Берлинская стена была построена в 1961.",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "sha256": "358fa7782e7cfdb3699c3a1dc47c323ff733d016f6659f5bf4e43e67f21e44c4",
+    "id": "e182174e",
+    "lang": "ru"
+  },
+  {
+    "text": "Чему равна сумма внутренних углов треугольника?",
+    "label": "180°",
+    "context": "Сумма внутренних углов треугольника равна 180°.",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "sha256": "14b6a5c145591c7f7bd1d00ef646ad36ef04a1a9453a66da834bd131167e4f42",
+    "id": "b5a322dd",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто считается отцом информатики?",
+    "label": "Алан Тьюринг",
+    "context": "Алан Тьюринг считается отцом информатики.",
+    "tags": {
+      "category": "computer science",
+      "difficulty": "hard"
+    },
+    "sha256": "fa70b49362b4202370f437f75ab396307dc9144279974d2bb061134db8010a79",
+    "id": "85b9199a",
+    "lang": "ru"
+  },
+  {
+    "text": "Какие органы отвечают за фильтрацию крови?",
+    "label": "почки",
+    "context": "Почки отвечают за фильтрацию крови.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "easy"
+    },
+    "sha256": "608cc434012c6711db599f964ddeef29eab8f5b00a21fd183170daced9e10fa8",
+    "id": "8dfa58c4",
+    "lang": "ru"
+  },
+  {
+    "text": "В какой пьесе Уильяма Шекспира фигурируют Ромео и Джульетта?",
+    "label": "Ромео и Джульетта",
+    "context": "Пьеса Ромео и Джульетта написана Уильямом Шекспиром.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "sha256": "a63ce9fbfff2d5c68e72e00b316286c86e23c105445095576c443568c0fd20fd",
+    "id": "03b3818c",
+    "lang": "ru"
+  },
+  {
+    "text": "Сколько турниров Большого шлема проводится в году?",
+    "label": "4",
+    "context": "В теннисном сезоне проводится 4 турнира Большого шлема.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "sha256": "0d9be7a6a58380fc36ac8c358f4bdb0c89910065c13042e63242d966e0a471ee",
+    "id": "a3771414",
+    "lang": "ru"
+  },
+  {
+    "text": "Какая галактика самая близкая к Млечному Пути?",
+    "label": "Андромеда",
+    "context": "Ближайшей к Млечному Пути галактикой является Андромеда.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "medium"
+    },
+    "sha256": "7090af1891d3ff7cabcf971098cf9337a9ecb1ef8b66aabf962fcd5b9ff4b5a4",
+    "id": "54709fb1",
+    "lang": "ru"
+  },
+  {
+    "text": "Как называется хлорид натрия в быту?",
+    "label": "поваренная соль",
+    "context": "Хлорид натрия широко известен как поваренная соль.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "easy"
+    },
+    "sha256": "cebeb789ddca13c3b180b570e3dd23a9c6e9a12dbb123bc44edf6a09abf755fd",
+    "id": "c8ba1e8f",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто предложил теорию относительности?",
+    "label": "Альберт Эйнштейн",
+    "context": "Теорию относительности предложил Альберт Эйнштейн.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "easy"
+    },
+    "sha256": "59aceb4674930676d7aabe37a68d8d3544705a17cf5b110898e60e15b10a889e",
+    "id": "80374414",
+    "lang": "ru"
+  },
+  {
+    "text": "Как называется самая высокая гора в мире?",
+    "label": "Эверест",
+    "context": "Самая высокая гора в мире — это Эверест.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "2e62d3c9e7df1f6dcbc8718f3711adeae9814ccd2bec39f5cd8185f9e32c9f6e",
+    "id": "793c67d1",
+    "lang": "ru"
+  },
+  {
+    "text": "Какой голландский художник отрезал себе ухо?",
+    "label": "Винсент Ван Гог",
+    "context": "Винсент Ван Гог отрезал себе ухо.",
+    "tags": {
+      "category": "art",
+      "difficulty": "hard"
+    },
+    "sha256": "44aaa0dfbbc6109023557c93436dbc07708a16af892a1b7a3bfaa7f6dcd59426",
+    "id": "c0637604",
+    "lang": "ru"
+  },
+  {
+    "text": "Где произошла битва при Ватерлоо?",
+    "label": "Ватерлоо",
+    "context": "Битва при Ватерлоо произошла в Ватерлоо.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "f1c1a054fe62fe2b7f97d2409602541453bd35f6906c06926bbbe596649a93d8",
+    "id": "0a00153e",
+    "lang": "ru"
+  },
+  {
+    "text": "Чему равен факториал числа 5?",
+    "label": "120",
+    "context": "Факториал числа 5 равен 120.",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "sha256": "33ca9ddd21242aa048ff6b1b111a531cf99536a853250f1e19381d1de44eeaea",
+    "id": "d299d314",
+    "lang": "ru"
+  },
+  {
+    "text": "Какую компанию создала iPhone?",
+    "label": "Apple",
+    "context": "iPhone был создан компанией Apple.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    "sha256": "dad51a9dfca8f115a7e74d2b7c982d722affa2dcb771cd9c93bced342c938692",
+    "id": "10d56b97",
+    "lang": "ru"
+  },
+  {
+    "text": "Какая органелла считается энергетической станцией клетки?",
+    "label": "митохондрия",
+    "context": "Митохондрия считается энергетической станцией клетки.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "easy"
+    },
+    "sha256": "e857c77ef025813d76865e1226bfd799475180fd2bc0af47b35baee4156c9838",
+    "id": "b672afa0",
+    "lang": "ru"
+  },
+  {
+    "text": "Кто написал «Маленького принца»?",
+    "label": "Антуан де Сент-Экзюпери",
+    "context": "Книгу Маленький принц написал Антуан де Сент-Экзюпери.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "sha256": "d3f220e546523cd8293ad9fe895e882611f67775985d8945803a9b243e71cc93",
+    "id": "4cb856d5",
+    "lang": "ru"
+  }
+]

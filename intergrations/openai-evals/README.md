@@ -66,7 +66,7 @@ Run from the repository root: `python convert_core_en.py`
 
 The YAML files for the data packs (e.g., `intergrations/openai-evals/pack_en_10.yaml`) point to their respective `.json` files in the `data/packs/` directory (e.g., `data/packs/pack_en_10.json`).
 
-As per the main TQB++ `README_hg.md`, these pack files are expected to be in JSONL format (one JSON object per line), but with `text` (question) and `label` (answer) fields, not the `input`/`ideal` structure required by `evals.elsuite.basic.match:Match`.
+As per the main TQB++ `README_hg.md`, these pack files are expected to be in JSONL format (one JSON object per line), but with `text` (question) and `label` fields, not the `input`/`ideal` structure required by `evals.elsuite.basic.match:Match`.
 
 **Therefore, each pack file you intend to use must also be converted.**
 
@@ -141,7 +141,7 @@ Repeat these two steps for every pack dataset you wish to evaluate.
 
 This directory contains the following YAML configuration files. Ensure the data preparation steps above have been completed for the datasets you intend to use.
 
-*   `core_en.yaml` (evaluates `data/core_en/core_en.jsonl` after conversion)
+*   `core_en.yaml` (evaluates `core_en.jsonl` already converted)
 *   `pack_ar_40.yaml`
 *   `pack_de_40.yaml`
 *   `pack_en_10.yaml`
@@ -152,7 +152,8 @@ This directory contains the following YAML configuration files. Ensure the data 
 *   `pack_fr_40.yaml`
 *   `pack_ja_40.yaml`
 *   `pack_ko_40.yaml`
-*   `pack_pt_40.yaml` (Note: points to `data/packs/pack_pt_40.json.json` by default)
+*   `pack_pt_40.yaml`
+*   `pack_ru_40.yaml`
 *   `pack_tr_40.yaml`
 *   `pack_zh_cn_40.yaml`
 *   `pack_zh_hant_40.yaml`
