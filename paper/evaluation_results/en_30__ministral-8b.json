@@ -1,0 +1,430 @@
+{
+  "model": "openrouter/mistralai/ministral-8b",
+  "n": 30,
+  "dataset_language": "en",
+  "accuracy_em": 0.9,
+  "accuracy_lev>=0.75": 0.9,
+  "latency_p50": 0.2365,
+  "detail": [
+    {
+      "id": "81018c68",
+      "question": "What is the capital of France?",
+      "gold": "Paris",
+      "pred": "Paris",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.331,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ecad5940",
+      "question": "Who proposed the theory of relativity?",
+      "gold": "Albert Einstein",
+      "pred": "Albert Einstein",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.618,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d1acddd0",
+      "question": "What is the chemical symbol for water?",
+      "gold": "H2O",
+      "pred": "H\u2082O",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.282,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9afcfd72",
+      "question": "Who painted the Mona Lisa?",
+      "gold": "Leonardo da Vinci",
+      "pred": "Leonardo da Vinci",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.28,
+      "tags": {
+        "category": "art",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9a1813c1",
+      "question": "What is 7 * 8?",
+      "gold": "56",
+      "pred": "56",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.228,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "323a811d",
+      "question": "In which continent is Kenya located?",
+      "gold": "Africa",
+      "pred": "Africa",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.238,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0f8e5c19",
+      "question": "What is the largest planet in our Solar System?",
+      "gold": "Jupiter",
+      "pred": "Jupiter",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.217,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ffc8d747",
+      "question": "Who is known as the father of computers?",
+      "gold": "Charles Babbage",
+      "pred": "Charles Babbage",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.262,
+      "tags": {
+        "category": "technology",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "4cdb6fe1",
+      "question": "What year did the Titanic sink?",
+      "gold": "1912",
+      "pred": "1912",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.241,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e49b3368",
+      "question": "What is the boiling point of water in Celsius?",
+      "gold": "100\u00b0C",
+      "pred": "100",
+      "em": 0,
+      "lev_ratio": 0.6,
+      "latency_s": 0.23,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6766f264",
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "gold": "Jane Austen",
+      "pred": "Jane Austen",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.407,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d4ff7c71",
+      "question": "What is the square root of 144?",
+      "gold": "12",
+      "pred": "12",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.251,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "71692dfe",
+      "question": "Which element has atomic number 6?",
+      "gold": "Carbon",
+      "pred": "Carbon",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.235,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "31850589",
+      "question": "What is the currency of Japan?",
+      "gold": "Yen",
+      "pred": "Japanese Yen",
+      "em": 0,
+      "lev_ratio": 0.25,
+      "latency_s": 0.228,
+      "tags": {
+        "category": "economics",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "9e2da788",
+      "question": "Who discovered penicillin?",
+      "gold": "Alexander Fleming",
+      "pred": "Alexander Fleming",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.408,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "515de1df",
+      "question": "What is the smallest prime number?",
+      "gold": "2",
+      "pred": "2",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.206,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "c40b2a5e",
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "gold": "Brazil",
+      "pred": "Rio de Janeiro",
+      "em": 0,
+      "lev_ratio": 0.143,
+      "latency_s": 0.221,
+      "tags": {
+        "category": "sports",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "30890f91",
+      "question": "What is the capital city of Australia?",
+      "gold": "Canberra",
+      "pred": "Canberra",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.234,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f494826e",
+      "question": "What gas do plants absorb from the atmosphere?",
+      "gold": "Carbon dioxide",
+      "pred": "Carbon dioxide",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.23,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2405032b",
+      "question": "Who wrote 'Hamlet'?",
+      "gold": "William Shakespeare",
+      "pred": "William Shakespeare",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.214,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "16979109",
+      "question": "What is the largest ocean on Earth?",
+      "gold": "Pacific Ocean",
+      "pred": "Pacific Ocean",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.233,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "aa9561e1",
+      "question": "What is 15% of 200?",
+      "gold": "30",
+      "pred": "30",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.272,
+      "tags": {
+        "category": "math",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5ab7c185",
+      "question": "Who is the Greek god of the sea?",
+      "gold": "Poseidon",
+      "pred": "Poseidon",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.206,
+      "tags": {
+        "category": "mythology",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e57f4fb4",
+      "question": "What year did World War II end?",
+      "gold": "1945",
+      "pred": "1945",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.332,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d4240b2a",
+      "question": "What is the main language spoken in Brazil?",
+      "gold": "Portuguese",
+      "pred": "Portuguese",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.259,
+      "tags": {
+        "category": "language",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6fa46322",
+      "question": "What is the chemical formula for table salt?",
+      "gold": "NaCl",
+      "pred": "NaCl",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.215,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "09adf039",
+      "question": "Who painted 'Starry Night'?",
+      "gold": "Vincent van Gogh",
+      "pred": "Vincent van Gogh",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.263,
+      "tags": {
+        "category": "art",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d2155f92",
+      "question": "What is the value of pi rounded to two decimal places?",
+      "gold": "3.14",
+      "pred": "3.14",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.219,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "285dec43",
+      "question": "Which planet is known as the Red Planet?",
+      "gold": "Mars",
+      "pred": "Mars",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.286,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5f7967dc",
+      "question": "What is the tallest mountain in the world?",
+      "gold": "Mount Everest",
+      "pred": "Mount Everest",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.217,
+      "tags": {
+        "category": "geography",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "model": "openrouter/mistralai/mistral-7b-instruct",
+  "n": 20,
+  "dataset_language": "en",
+  "accuracy_em": 0.7,
+  "accuracy_lev>=0.75": 0.7,
+  "latency_p50": 1.0575,
+  "detail": [
+    {
+      "id": "97badd23",
+      "question": "What is 7 \u00d7 8?",
+      "gold": "56",
+      "pred": "The factual response: 56",
+      "em": 0,
+      "lev_ratio": 0.105,
+      "latency_s": 1.362,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b2ec9493",
+      "question": "Who painted the Mona Lisa?",
+      "gold": "Leonardo da Vinci",
+      "pred": "Leonardo da Vinci",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.585,
+      "tags": {
+        "category": "art",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "21978920",
+      "question": "What is the capital of Australia?",
+      "gold": "Canberra",
+      "pred": "Canberra",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 4.318,
+      "tags": {
+        "category": "geography",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "19517632",
+      "question": "Which chemical element has the symbol Fe?",
+      "gold": "Iron",
+      "pred": "Iron",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.52,
+      "tags": {
+        "category": "chemistry",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "8b5bf4b2",
+      "question": "Who developed the theory of relativity?",
+      "gold": "Albert Einstein",
+      "pred": "Albert Einstein",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.603,
+      "tags": {
+        "category": "physics",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "09325570",
+      "question": "How many players are on the court for each team in a standard basketball game?",
+      "gold": "Five",
+      "pred": "5 players",
+      "em": 0,
+      "lev_ratio": 0.111,
+      "latency_s": 0.534,
+      "tags": {
+        "category": "sports",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6c27d256",
+      "question": "In which year did the Berlin Wall fall?",
+      "gold": "1989",
+      "pred": "1989",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.064,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "78c699d5",
+      "question": "What is the largest planet in our solar system?",
+      "gold": "Jupiter",
+      "pred": "Jupiter",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.051,
+      "tags": {
+        "category": "astronomy",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5637e416",
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "gold": "Jane Austen",
+      "pred": "Jane Austen",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.536,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0ba72845",
+      "question": "What is the hardest natural substance on Earth?",
+      "gold": "Diamond",
+      "pred": "Diamond",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.158,
+      "tags": {
+        "category": "geology",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a8525635",
+      "question": "Which programming language, known for its web applications, features a snake in its logo?",
+      "gold": "Python",
+      "pred": "Python",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.782,
+      "tags": {
+        "category": "technology",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "6473b379",
+      "question": "What is the longest river in Africa?",
+      "gold": "Nile",
+      "pred": "Nile River",
+      "em": 0,
+      "lev_ratio": 0.4,
+      "latency_s": 0.612,
+      "tags": {
+        "category": "geography",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "f0176e63",
+      "question": "Which element is number 1 on the periodic table?",
+      "gold": "Hydrogen",
+      "pred": "Hydrogen",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.554,
+      "tags": {
+        "category": "chemistry",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b6132b66",
+      "question": "Which Shakespeare play features Rosencrantz and Guildenstern?",
+      "gold": "Hamlet",
+      "pred": "\"Rosencrantz and Guildenstern are Dead\" is a play by Tom Stoppard, not a play by Shakespeare. However, the characters Rosencrantz and Guildenstern do appear in Shakespeare's \"Hamlet\".",
+      "em": 0,
+      "lev_ratio": 0.036,
+      "latency_s": 0.933,
+      "tags": {
+        "category": "literature",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "21448a0c",
+      "question": "In Western music, how many semitones are in an octave?",
+      "gold": "Twelve",
+      "pred": "12 semitones",
+      "em": 0,
+      "lev_ratio": 0.167,
+      "latency_s": 1.89,
+      "tags": {
+        "category": "music",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ab267e9f",
+      "question": "What do you call a word that reads the same forwards and backwards?",
+      "gold": "palindrome",
+      "pred": "palindrome",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.857,
+      "tags": {
+        "category": "language",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0d50410a",
+      "question": "Who is known as the father of computers for his work on the Analytical Engine?",
+      "gold": "Charles Babbage",
+      "pred": "Charles Babbage",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 5.111,
+      "tags": {
+        "category": "technology",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "42229d3e",
+      "question": "Which artist famously cut off his own ear?",
+      "gold": "Vincent van Gogh",
+      "pred": "Vincent van Gogh",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.631,
+      "tags": {
+        "category": "art",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "685d64a7",
+      "question": "What is known as the powerhouse of the cell?",
+      "gold": "Mitochondria",
+      "pred": "Mitochondria",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 4.403,
+      "tags": {
+        "category": "biology",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d628d39a",
+      "question": "What is Schr\u00f6dinger's famous paradox involving a cat in a sealed box called?",
+      "gold": "Schr\u00f6dinger's cat",
+      "pred": "Schr\u00f6dinger's Cat thought experiment",
+      "em": 0,
+      "lev_ratio": 0.472,
+      "latency_s": 4.415,
+      "tags": {
+        "category": "physics",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    }
+  ]
+}

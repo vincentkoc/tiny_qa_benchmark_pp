@@ -1,0 +1,150 @@
+{
+  "model": "openrouter/google/gemma-3-4b-it",
+  "n": 10,
+  "dataset_language": "en",
+  "accuracy_em": 0.2,
+  "accuracy_lev>=0.75": 0.3,
+  "latency_p50": 0.628,
+  "detail": [
+    {
+      "id": "4f0ffdef",
+      "question": "Which bacterial enzyme is the primary target of rifampin in mycobacterial infections?",
+      "gold": "bacterial DNA-dependent RNA polymerase",
+      "pred": "RNA polymerase",
+      "em": 0,
+      "lev_ratio": 0.368,
+      "latency_s": 0.644,
+      "tags": {
+        "category": "medicine",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "30d0d222",
+      "question": "Which HLA allele is most strongly associated with ankylosing spondylitis?",
+      "gold": "HLA-B27",
+      "pred": "HLA-B27",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.589,
+      "tags": {
+        "category": "medicine",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5ca2dbdb",
+      "question": "What enzyme catalyzes the rate-limiting step in hepatic heme synthesis?",
+      "gold": "ALA synthase",
+      "pred": "Fructose-6-phosphate transaminase",
+      "em": 0,
+      "lev_ratio": 0.182,
+      "latency_s": 0.623,
+      "tags": {
+        "category": "medicine",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "e9479956",
+      "question": "Which cytokine is primarily responsible for granuloma formation in sarcoidosis?",
+      "gold": "Interferon-gamma",
+      "pred": "IL-12",
+      "em": 0,
+      "lev_ratio": 0.125,
+      "latency_s": 0.639,
+      "tags": {
+        "category": "medicine",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "96ec5bd0",
+      "question": "What is the principal antigenic target of autoantibodies in pemphigus vulgaris?",
+      "gold": "Desmoglein 3",
+      "pred": "Dsg3",
+      "em": 0,
+      "lev_ratio": 0.333,
+      "latency_s": 0.613,
+      "tags": {
+        "category": "medicine",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a50d52cc",
+      "question": "Which pathogen produces a toxin that inactivates elongation factor 2 leading to pseudomembranous pharyngitis?",
+      "gold": "Corynebacterium diphtheriae",
+      "pred": "*Clostridium perfringens*",
+      "em": 0,
+      "lev_ratio": 0.222,
+      "latency_s": 0.617,
+      "tags": {
+        "category": "medicine",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "2d4ff705",
+      "question": "What genetic mutation is the most common cause of cystic fibrosis?",
+      "gold": "\u0394F508",
+      "pred": "CFTR mutation \u0394F508",
+      "em": 0,
+      "lev_ratio": 0.263,
+      "latency_s": 0.652,
+      "tags": {
+        "category": "medicine",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "d68e8e11",
+      "question": "Which acid-base disturbance is characterized by a primary increase in plasma bicarbonate?",
+      "gold": "Metabolic alkalosis",
+      "pred": "Metabolic acidosis",
+      "em": 0,
+      "lev_ratio": 0.789,
+      "latency_s": 0.714,
+      "tags": {
+        "category": "medicine",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "088f5543",
+      "question": "What high-affinity receptor on mast cells binds the Fc region of IgE?",
+      "gold": "Fc\u03b5RI",
+      "pred": "Fc\u03b5RI",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.579,
+      "tags": {
+        "category": "medicine",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ed206d07",
+      "question": "Which metabolic pathway is upregulated in many cancer cells to convert glutamine into lactate?",
+      "gold": "Glutaminolysis",
+      "pred": "Lactate dehydrogenase (LDH)",
+      "em": 0,
+      "lev_ratio": 0.16,
+      "latency_s": 0.633,
+      "tags": {
+        "category": "medicine",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    }
+  ]
+}

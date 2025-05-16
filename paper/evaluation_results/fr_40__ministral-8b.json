@@ -1,0 +1,570 @@
+{
+  "model": "openrouter/mistralai/ministral-8b",
+  "n": 40,
+  "dataset_language": "fr",
+  "accuracy_em": 0.725,
+  "accuracy_lev>=0.75": 0.825,
+  "latency_p50": 0.258,
+  "detail": [
+    {
+      "id": "292402c2",
+      "question": "Combien font 5 + 7 ?",
+      "gold": "12",
+      "pred": "12",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.312,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8395f09f",
+      "question": "Quelle est la capitale de l'Allemagne ?",
+      "gold": "Berlin",
+      "pred": "Berlin",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.277,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "aa1dc229",
+      "question": "Quel est l'auteur de 'Le Petit Prince' ?",
+      "gold": "Antoine de Saint-Exup\u00e9ry",
+      "pred": "Antoine de Saint-Exup\u00e9ry",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.249,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b48c4787",
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "gold": "H2O",
+      "pred": "H\u2082O",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.455,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "b24a65be",
+      "question": "Quel est le plus grand oc\u00e9an du monde ?",
+      "gold": "Oc\u00e9an Pacifique",
+      "pred": "Pacifique",
+      "em": 0,
+      "lev_ratio": 0.6,
+      "latency_s": 0.953,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2360692f",
+      "question": "Quelle allergie alimentaire est caus\u00e9e par une r\u00e9action immunitaire au gluten ?",
+      "gold": "Maladie c\u0153liaque",
+      "pred": "C\u00e9liacie",
+      "em": 0,
+      "lev_ratio": 0.312,
+      "latency_s": 0.27,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "66e9d375",
+      "question": "Combien de joueurs composent une \u00e9quipe de football sur le terrain ?",
+      "gold": "11",
+      "pred": "11",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.204,
+      "tags": {
+        "category": "sports",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "7c8f635e",
+      "question": "En quelle ann\u00e9e l'homme a-t-il march\u00e9 sur la Lune pour la premi\u00e8re fois ?",
+      "gold": "1969",
+      "pred": "1969",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.252,
+      "tags": {
+        "category": "history",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d1360e09",
+      "question": "Qui a peint 'La Joconde' ?",
+      "gold": "L\u00e9onard de Vinci",
+      "pred": "Leonardo da Vinci",
+      "em": 0,
+      "lev_ratio": 0.824,
+      "latency_s": 0.217,
+      "tags": {
+        "category": "art",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d0b85033",
+      "question": "Quel est le plus long fleuve du monde ?",
+      "gold": "Nil",
+      "pred": "Nile",
+      "em": 0,
+      "lev_ratio": 0.75,
+      "latency_s": 0.261,
+      "tags": {
+        "category": "geography",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "0b6e8c1b",
+      "question": "Quelle pierre pr\u00e9cieuse est rouge et repr\u00e9sente le mois de juillet ?",
+      "gold": "Rubis",
+      "pred": "Rubis",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.309,
+      "tags": {
+        "category": "geology",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "94d624de",
+      "question": "Combien de continents y a-t-il sur Terre ?",
+      "gold": "7",
+      "pred": "7",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.322,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "fe9e6f0d",
+      "question": "Quel est l'\u00e9l\u00e9ment chimique de symbole 'Au' ?",
+      "gold": "Or",
+      "pred": "Or",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.247,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "40f2110b",
+      "question": "Quelle est la langue officielle du Br\u00e9sil ?",
+      "gold": "Portugais",
+      "pred": "Portugais",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.248,
+      "tags": {
+        "category": "social science",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "70ed1bf1",
+      "question": "Quel est le nom de la galaxie dans laquelle se trouve la Terre ?",
+      "gold": "Voie lact\u00e9e",
+      "pred": "La Voie Lact\u00e9e",
+      "em": 0,
+      "lev_ratio": 0.786,
+      "latency_s": 0.222,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "52214f9d",
+      "question": "Qui a d\u00e9couvert la p\u00e9nicilline ?",
+      "gold": "Alexander Fleming",
+      "pred": "Alexander Fleming",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.198,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "99051dc7",
+      "question": "Quelle est la racine carr\u00e9e de 144 ?",
+      "gold": "12",
+      "pred": "12",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.267,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "2fdbd188",
+      "question": "Quel film d'animation Pixar met en sc\u00e8ne un rat cuisinier \u00e0 Paris ?",
+      "gold": "Ratatouille",
+      "pred": "Ratatouille",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.285,
+      "tags": {
+        "category": "film",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c5c42d4a",
+      "question": "Comment s'appelle la pi\u00e8ce de Shakespeare o\u00f9 deux amants tragiques se suicident ?",
+      "gold": "Rom\u00e9o et Juliette",
+      "pred": "Rom\u00e9o et Juliette",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.269,
+      "tags": {
+        "category": "literature",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "13532d4b",
+      "question": "Quelle est la capitale du Japon ?",
+      "gold": "Tokyo",
+      "pred": "Tokyo",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.354,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d17bca44",
+      "question": "Combien de paires de chromosomes poss\u00e8de l'\u00eatre humain ?",
+      "gold": "23",
+      "pred": "46",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.322,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "50b21e39",
+      "question": "Quel est le pays d'origine du tango ?",
+      "gold": "Argentine",
+      "pred": "Argentine",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.196,
+      "tags": {
+        "category": "culture",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "302dbf24",
+      "question": "Quel est le symbole chimique du sodium ?",
+      "gold": "Na",
+      "pred": "Na",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.193,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "f45ad144",
+      "question": "Qui a compos\u00e9 la Cinqui\u00e8me Symphonie ?",
+      "gold": "Beethoven",
+      "pred": "Ludwig van Beethoven",
+      "em": 0,
+      "lev_ratio": 0.45,
+      "latency_s": 0.25,
+      "tags": {
+        "category": "music",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "d8a8454e",
+      "question": "Quel est le plus grand d\u00e9sert chaud du monde ?",
+      "gold": "Sahara",
+      "pred": "Sahara",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.364,
+      "tags": {
+        "category": "geography",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "96b50d79",
+      "question": "En informatique, que signifie l'acronyme CPU ?",
+      "gold": "Central Processing Unit",
+      "pred": "CPU",
+      "em": 0,
+      "lev_ratio": 0.13,
+      "latency_s": 0.22,
+      "tags": {
+        "category": "technology",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "c1d52382",
+      "question": "Quel compositeur autrichien est c\u00e9l\u00e8bre pour 'La Fl\u00fbte enchant\u00e9e' ?",
+      "gold": "Mozart",
+      "pred": "Mozart",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.219,
+      "tags": {
+        "category": "music",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "14c63a11",
+      "question": "Quelle est la vitesse approximative du son dans l'air \u00e0 20\u00b0C ?",
+      "gold": "343 m/s",
+      "pred": "343 m/s",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.229,
+      "tags": {
+        "category": "science",
+        "difficulty": "hard"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "feb4f6bf",
+      "question": "Qui a \u00e9crit 'Les Trois Mousquetaires' ?",
+      "gold": "Alexandre Dumas",
+      "pred": "Alexandre Dumas",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.502,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a7189a60",
+      "question": "Quel est le nombre d'or, souvent not\u00e9 phi ?",
+      "gold": "1.618",
+      "pred": "1.618033988749895",
+      "em": 0,
+      "lev_ratio": 0.294,
+      "latency_s": 0.325,
+      "tags": {
+        "category": "math",
+        "difficulty": "hard"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5bfb4b49",
+      "question": "Quelle est la formule chimique du benz\u00e8ne ?",
+      "gold": "C6H6",
+      "pred": "C7H6",
+      "em": 0,
+      "lev_ratio": 0.75,
+      "latency_s": 0.461,
+      "tags": {
+        "category": "science",
+        "difficulty": "hard"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "5aaec546",
+      "question": "Quel peintre impressionniste a coup\u00e9 son oreille ?",
+      "gold": "Vincent van Gogh",
+      "pred": "Vincent van Gogh",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.233,
+      "tags": {
+        "category": "art",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "1603c466",
+      "question": "Quel est le plus grand mammif\u00e8re marin ?",
+      "gold": "Baleine bleue",
+      "pred": "Baleine bleue",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.214,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "879dbdb0",
+      "question": "Quel est l'appareil qui convertit l'\u00e9nergie chimique en \u00e9nergie \u00e9lectrique dans un v\u00e9hicule \u00e9lectrique ?",
+      "gold": "Batterie",
+      "pred": "Batterie",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.255,
+      "tags": {
+        "category": "technology",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "3abebec8",
+      "question": "En quelle ann\u00e9e s'est d\u00e9roul\u00e9e la R\u00e9volution fran\u00e7aise ?",
+      "gold": "1789",
+      "pred": "1789",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.22,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "dee21653",
+      "question": "Quel est le plus grand satellite naturel de Saturne ?",
+      "gold": "Titan",
+      "pred": "Titan",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.196,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "a028ec79",
+      "question": "Quel po\u00e8me d'Arthur Rimbaud commence par 'Comme je descendais des Fleuves impassibles' ?",
+      "gold": "Le Bateau ivre",
+      "pred": "\"Le Bateau ivre\"",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.337,
+      "tags": {
+        "category": "literature",
+        "difficulty": "hard"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "da7f56ed",
+      "question": "Quel est le logarithme n\u00e9p\u00e9rien de e ?",
+      "gold": "1",
+      "pred": "1",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.378,
+      "tags": {
+        "category": "math",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "8c003a48",
+      "question": "Quel pays est surnomm\u00e9 'le pays du Soleil-Levant' ?",
+      "gold": "Japon",
+      "pred": "Japon",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.198,
+      "tags": {
+        "category": "geography",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    },
+    {
+      "id": "30b4e4d2",
+      "question": "Quel est le nom du compos\u00e9 chimique HCl ?",
+      "gold": "Acide chlorhydrique",
+      "pred": "Hydrochloric acid",
+      "em": 0,
+      "lev_ratio": 0.316,
+      "latency_s": 0.29,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "fr"
+    }
+  ]
+}

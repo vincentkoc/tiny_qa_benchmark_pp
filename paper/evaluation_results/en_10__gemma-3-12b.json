@@ -1,0 +1,150 @@
+{
+  "model": "openrouter/google/gemma-3-12b-it",
+  "n": 10,
+  "dataset_language": "en",
+  "accuracy_em": 1.0,
+  "accuracy_lev>=0.75": 1.0,
+  "latency_p50": 0.865,
+  "detail": [
+    {
+      "id": "8f1c868a",
+      "question": "What is the capital of France?",
+      "gold": "Paris",
+      "pred": "Paris",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.897,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0b159cab",
+      "question": "Solve for x: 5x = 20.",
+      "gold": "4",
+      "pred": "4",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.934,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7e27408e",
+      "question": "Who painted the Mona Lisa?",
+      "gold": "Leonardo da Vinci",
+      "pred": "Leonardo da Vinci",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.833,
+      "tags": {
+        "category": "art",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "95480e21",
+      "question": "What is the boiling point of water at sea level in degrees Celsius?",
+      "gold": "100",
+      "pred": "100",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.793,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bd8e2c4a",
+      "question": "Which element has the chemical symbol 'O'?",
+      "gold": "Oxygen",
+      "pred": "Oxygen",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.936,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "089325db",
+      "question": "What is the derivative of sin(x)?",
+      "gold": "cos(x)",
+      "pred": "cos(x)",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.426,
+      "tags": {
+        "category": "math",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ecfc9a30",
+      "question": "In which year did the Titanic sink?",
+      "gold": "1912",
+      "pred": "1912",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.072,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "31d3d5ef",
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "gold": "Harper Lee",
+      "pred": "Harper Lee",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.778,
+      "tags": {
+        "category": "literature",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "de0a6d38",
+      "question": "What is the largest planet in our Solar System?",
+      "gold": "Jupiter",
+      "pred": "Jupiter",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.798,
+      "tags": {
+        "category": "astronomy",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "838d050d",
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "gold": "Brazil",
+      "pred": "Brazil",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.75,
+      "tags": {
+        "category": "sports",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    }
+  ]
+}

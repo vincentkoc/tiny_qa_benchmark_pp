@@ -1,0 +1,150 @@
+{
+  "model": "openrouter/mistralai/mistral-7b-instruct",
+  "n": 10,
+  "dataset_language": "en",
+  "accuracy_em": 0.6,
+  "accuracy_lev>=0.75": 0.6,
+  "latency_p50": 1.348,
+  "detail": [
+    {
+      "id": "8f1c868a",
+      "question": "What is the capital of France?",
+      "gold": "Paris",
+      "pred": "Paris is not the capital of France. The capital of France is Paris, but it is not a city, it is a department, known as the department of Seine-Saint-Denis. The administrative capital is actually Paris within this department. The common misconception arises because people assume Paris is a separate city, not realizing it is part of the department. The seat of government is in the city of Paris, which is within this department.",
+      "em": 0,
+      "lev_ratio": 0.013,
+      "latency_s": 1.786,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "0b159cab",
+      "question": "Solve for x: 5x = 20.",
+      "gold": "4",
+      "pred": "x = 4",
+      "em": 0,
+      "lev_ratio": 0.333,
+      "latency_s": 0.63,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7e27408e",
+      "question": "Who painted the Mona Lisa?",
+      "gold": "Leonardo da Vinci",
+      "pred": "Leonardo da Vinci",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.572,
+      "tags": {
+        "category": "art",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "95480e21",
+      "question": "What is the boiling point of water at sea level in degrees Celsius?",
+      "gold": "100",
+      "pred": "100 degrees Celsius",
+      "em": 0,
+      "lev_ratio": 0.158,
+      "latency_s": 1.88,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "bd8e2c4a",
+      "question": "Which element has the chemical symbol 'O'?",
+      "gold": "Oxygen",
+      "pred": "Oxygen",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.91,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "089325db",
+      "question": "What is the derivative of sin(x)?",
+      "gold": "cos(x)",
+      "pred": "The derivative of sin(x) is cos(x)",
+      "em": 0,
+      "lev_ratio": 0.179,
+      "latency_s": 4.676,
+      "tags": {
+        "category": "math",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ecfc9a30",
+      "question": "In which year did the Titanic sink?",
+      "gold": "1912",
+      "pred": "1912",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.598,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "31d3d5ef",
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "gold": "Harper Lee",
+      "pred": "Harper Lee",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.527,
+      "tags": {
+        "category": "literature",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "de0a6d38",
+      "question": "What is the largest planet in our Solar System?",
+      "gold": "Jupiter",
+      "pred": "Jupiter",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 4.629,
+      "tags": {
+        "category": "astronomy",
+        "difficulty": "easy"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "838d050d",
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "gold": "Brazil",
+      "pred": "Brazil",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.823,
+      "tags": {
+        "category": "sports",
+        "difficulty": "medium"
+      },
+      "lang": "en"
+    }
+  ]
+}

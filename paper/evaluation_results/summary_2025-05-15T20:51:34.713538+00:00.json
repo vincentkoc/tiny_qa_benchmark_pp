@@ -1,0 +1,482 @@
+[
+  {
+    "dataset": "sup-medicine_en_10",
+    "model": "openrouter/mistralai/mistral-7b-instruct",
+    "em": 0.1,
+    "lev\u22650.75": 0.2
+  },
+  {
+    "dataset": "sup-ancientlang_en_10",
+    "model": "openrouter/mistralai/ministral-3b",
+    "em": 0.6,
+    "lev\u22650.75": 0.6
+  },
+  {
+    "dataset": "en_10",
+    "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+    "em": 0.7,
+    "lev\u22650.75": 0.7
+  },
+  {
+    "dataset": "ja_40",
+    "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+    "em": 0.125,
+    "lev\u22650.75": 0.175
+  },
+  {
+    "dataset": "sup-medicine_en_10",
+    "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+    "em": 0.0,
+    "lev\u22650.75": 0.1
+  },
+  {
+    "dataset": "ja_40",
+    "model": "openrouter/mistralai/mistral-small-3.1-24b-instruct",
+    "em": 0.475,
+    "lev\u22650.75": 0.65
+  },
+  {
+    "dataset": "sup-medicine_en_10",
+    "model": "openrouter/mistralai/mistral-small-3.1-24b-instruct",
+    "em": 0.7,
+    "lev\u22650.75": 0.7
+  },
+  {
+    "dataset": "sup-medicine_en_10",
+    "model": "openrouter/mistralai/ministral-3b",
+    "em": 0.4,
+    "lev\u22650.75": 0.4
+  },
+  {
+    "dataset": "sup-ancientlang_en_10",
+    "model": "openrouter/google/gemma-3-4b-it",
+    "em": 0.3,
+    "lev\u22650.75": 0.3
+  },
+  {
+    "dataset": "en_40",
+    "model": "openrouter/mistralai/ministral-3b",
+    "em": 0.9333333333333333,
+    "lev\u22650.75": 0.9333333333333333
+  },
+  {
+    "dataset": "en_40",
+    "model": "openrouter/google/gemma-3-12b-it",
+    "em": 0.9333333333333333,
+    "lev\u22650.75": 0.9333333333333333
+  },
+  {
+    "dataset": "en_20",
+    "model": "openrouter/mistralai/ministral-3b",
+    "em": 0.9,
+    "lev\u22650.75": 0.9
+  },
+  {
+    "dataset": "fr_40",
+    "model": "openrouter/mistralai/mistral-7b-instruct",
+    "em": 0.325,
+    "lev\u22650.75": 0.4
+  },
+  {
+    "dataset": "en_40",
+    "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+    "em": 0.9333333333333333,
+    "lev\u22650.75": 0.9333333333333333
+  },
+  {
+    "dataset": "en_40",
+    "model": "openrouter/google/gemma-3-4b-it",
+    "em": 0.9666666666666667,
+    "lev\u22650.75": 0.9666666666666667
+  },
+  {
+    "dataset": "tr_40",
+    "model": "openrouter/mistralai/ministral-3b",
+    "em": 0.4,
+    "lev\u22650.75": 0.45
+  },
+  {
+    "dataset": "en_20",
+    "model": "openrouter/mistralai/mistral-small-3.1-24b-instruct",
+    "em": 0.85,
+    "lev\u22650.75": 0.9
+  },
+  {
+    "dataset": "sup-medicine_en_10",
+    "model": "openrouter/google/gemma-3-12b-it",
+    "em": 0.5,
+    "lev\u22650.75": 0.5
+  },
+  {
+    "dataset": "en_30",
+    "model": "openrouter/mistralai/ministral-3b",
+    "em": 0.9333333333333333,
+    "lev\u22650.75": 0.9333333333333333
+  },
+  {
+    "dataset": "fr_40",
+    "model": "openrouter/mistralai/mistral-small-3.1-24b-instruct",
+    "em": 0.725,
+    "lev\u22650.75": 0.775
+  },
+  {
+    "dataset": "en_10",
+    "model": "openrouter/mistralai/mistral-7b-instruct",
+    "em": 0.6,
+    "lev\u22650.75": 0.6
+  },
+  {
+    "dataset": "en_10",
+    "model": "openrouter/google/gemma-3-4b-it",
+    "em": 0.9,
+    "lev\u22650.75": 0.9
+  },
+  {
+    "dataset": "ja_40",
+    "model": "openrouter/mistralai/ministral-8b",
+    "em": 0.35,
+    "lev\u22650.75": 0.375
+  },
+  {
+    "dataset": "fr_40",
+    "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+    "em": 0.25,
+    "lev\u22650.75": 0.3
+  },
+  {
+    "dataset": "fr_40",
+    "model": "openrouter/google/gemma-3-12b-it",
+    "em": 0.8,
+    "lev\u22650.75": 0.8
+  },
+  {
+    "dataset": "core_en",
+    "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+    "em": 0.8461538461538461,
+    "lev\u22650.75": 0.8653846153846154
+  },
+  {
+    "dataset": "en_20",
+    "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+    "em": 0.65,
+    "lev\u22650.75": 0.65
+  },
+  {
+    "dataset": "en_10",
+    "model": "openrouter/mistralai/ministral-3b",
+    "em": 0.7,
+    "lev\u22650.75": 0.7
+  },
+  {
+    "dataset": "ja_40",
+    "model": "openrouter/mistralai/mistral-7b-instruct",
+    "em": 0.075,
+    "lev\u22650.75": 0.175
+  },
+  {
+    "dataset": "core_en",
+    "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+    "em": 0.5384615384615384,
+    "lev\u22650.75": 0.5576923076923077
+  },
+  {
+    "dataset": "core_en",
+    "model": "openrouter/google/gemma-3-12b-it",
+    "em": 0.9038461538461539,
+    "lev\u22650.75": 0.9615384615384616
+  },
+  {
+    "dataset": "fr_40",
+    "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+    "em": 0.575,
+    "lev\u22650.75": 0.65
+  },
+  {
+    "dataset": "tr_40",
+    "model": "openrouter/mistralai/mistral-7b-instruct",
+    "em": 0.125,
+    "lev\u22650.75": 0.15
+  },
+  {
+    "dataset": "en_20",
+    "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+    "em": 0.9,
+    "lev\u22650.75": 0.9
+  },
+  {
+    "dataset": "core_en",
+    "model": "openrouter/mistralai/ministral-8b",
+    "em": 0.8076923076923077,
+    "lev\u22650.75": 0.8269230769230769
+  },
+  {
+    "dataset": "en_10",
+    "model": "openrouter/google/gemma-3-12b-it",
+    "em": 1.0,
+    "lev\u22650.75": 1.0
+  },
+  {
+    "dataset": "en_20",
+    "model": "openrouter/google/gemma-3-4b-it",
+    "em": 0.9,
+    "lev\u22650.75": 0.9
+  },
+  {
+    "dataset": "en_40",
+    "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+    "em": 0.7333333333333333,
+    "lev\u22650.75": 0.7333333333333333
+  },
+  {
+    "dataset": "ja_40",
+    "model": "openrouter/google/gemma-3-4b-it",
+    "em": 0.375,
+    "lev\u22650.75": 0.475
+  },
+  {
+    "dataset": "sup-medicine_en_10",
+    "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+    "em": 0.3,
+    "lev\u22650.75": 0.3
+  },
+  {
+    "dataset": "ja_40",
+    "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+    "em": 0.225,
+    "lev\u22650.75": 0.35
+  },
+  {
+    "dataset": "en_20",
+    "model": "openrouter/google/gemma-3-12b-it",
+    "em": 0.9,
+    "lev\u22650.75": 0.9
+  },
+  {
+    "dataset": "en_30",
+    "model": "openrouter/google/gemma-3-4b-it",
+    "em": 0.9666666666666667,
+    "lev\u22650.75": 0.9666666666666667
+  },
+  {
+    "dataset": "tr_40",
+    "model": "openrouter/google/gemma-3-4b-it",
+    "em": 0.5,
+    "lev\u22650.75": 0.625
+  },
+  {
+    "dataset": "core_en",
+    "model": "openrouter/mistralai/mistral-7b-instruct",
+    "em": 0.5,
+    "lev\u22650.75": 0.5192307692307693
+  },
+  {
+    "dataset": "en_30",
+    "model": "openrouter/mistralai/mistral-small-3.1-24b-instruct",
+    "em": 0.9333333333333333,
+    "lev\u22650.75": 0.9333333333333333
+  },
+  {
+    "dataset": "fr_40",
+    "model": "openrouter/mistralai/ministral-8b",
+    "em": 0.725,
+    "lev\u22650.75": 0.825
+  },
+  {
+    "dataset": "en_10",
+    "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+    "em": 0.8,
+    "lev\u22650.75": 0.8
+  },
+  {
+    "dataset": "sup-ancientlang_en_10",
+    "model": "openrouter/mistralai/ministral-8b",
+    "em": 0.6,
+    "lev\u22650.75": 0.6
+  },
+  {
+    "dataset": "tr_40",
+    "model": "openrouter/google/gemma-3-12b-it",
+    "em": 0.5,
+    "lev\u22650.75": 0.6
+  },
+  {
+    "dataset": "en_30",
+    "model": "openrouter/google/gemma-3-12b-it",
+    "em": 0.9333333333333333,
+    "lev\u22650.75": 0.9333333333333333
+  },
+  {
+    "dataset": "sup-ancientlang_en_10",
+    "model": "openrouter/google/gemma-3-12b-it",
+    "em": 0.8,
+    "lev\u22650.75": 0.8
+  },
+  {
+    "dataset": "core_en",
+    "model": "openrouter/google/gemma-3-4b-it",
+    "em": 0.8653846153846154,
+    "lev\u22650.75": 0.8846153846153846
+  },
+  {
+    "dataset": "en_40",
+    "model": "openrouter/mistralai/ministral-8b",
+    "em": 0.9,
+    "lev\u22650.75": 0.9
+  },
+  {
+    "dataset": "sup-medicine_en_10",
+    "model": "openrouter/mistralai/ministral-8b",
+    "em": 0.6,
+    "lev\u22650.75": 0.6
+  },
+  {
+    "dataset": "en_20",
+    "model": "openrouter/mistralai/mistral-7b-instruct",
+    "em": 0.7,
+    "lev\u22650.75": 0.7
+  },
+  {
+    "dataset": "sup-ancientlang_en_10",
+    "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+    "em": 0.1,
+    "lev\u22650.75": 0.1
+  },
+  {
+    "dataset": "en_30",
+    "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+    "em": 0.9333333333333333,
+    "lev\u22650.75": 0.9333333333333333
+  },
+  {
+    "dataset": "en_30",
+    "model": "openrouter/mistralai/ministral-8b",
+    "em": 0.9,
+    "lev\u22650.75": 0.9
+  },
+  {
+    "dataset": "fr_40",
+    "model": "openrouter/google/gemma-3-4b-it",
+    "em": 0.75,
+    "lev\u22650.75": 0.75
+  },
+  {
+    "dataset": "sup-ancientlang_en_10",
+    "model": "openrouter/mistralai/mistral-7b-instruct",
+    "em": 0.1,
+    "lev\u22650.75": 0.2
+  },
+  {
+    "dataset": "tr_40",
+    "model": "openrouter/mistralai/ministral-8b",
+    "em": 0.375,
+    "lev\u22650.75": 0.475
+  },
+  {
+    "dataset": "en_20",
+    "model": "openrouter/mistralai/ministral-8b",
+    "em": 0.9,
+    "lev\u22650.75": 0.9
+  },
+  {
+    "dataset": "tr_40",
+    "model": "openrouter/mistralai/mistral-small-3.1-24b-instruct",
+    "em": 0.55,
+    "lev\u22650.75": 0.625
+  },
+  {
+    "dataset": "en_10",
+    "model": "openrouter/mistralai/ministral-8b",
+    "em": 0.8,
+    "lev\u22650.75": 0.8
+  },
+  {
+    "dataset": "tr_40",
+    "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+    "em": 0.375,
+    "lev\u22650.75": 0.425
+  },
+  {
+    "dataset": "ja_40",
+    "model": "openrouter/mistralai/ministral-3b",
+    "em": 0.2,
+    "lev\u22650.75": 0.25
+  },
+  {
+    "dataset": "tr_40",
+    "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+    "em": 0.075,
+    "lev\u22650.75": 0.1
+  },
+  {
+    "dataset": "core_en",
+    "model": "openrouter/mistralai/ministral-3b",
+    "em": 0.7692307692307693,
+    "lev\u22650.75": 0.8461538461538461
+  },
+  {
+    "dataset": "en_40",
+    "model": "openrouter/mistralai/mistral-7b-instruct",
+    "em": 0.8333333333333334,
+    "lev\u22650.75": 0.8666666666666667
+  },
+  {
+    "dataset": "en_40",
+    "model": "openrouter/mistralai/mistral-small-3.1-24b-instruct",
+    "em": 0.9333333333333333,
+    "lev\u22650.75": 0.9333333333333333
+  },
+  {
+    "dataset": "sup-ancientlang_en_10",
+    "model": "openrouter/mistralai/mistral-small-3.1-24b-instruct",
+    "em": 0.7,
+    "lev\u22650.75": 0.7
+  },
+  {
+    "dataset": "en_30",
+    "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+    "em": 0.8,
+    "lev\u22650.75": 0.8
+  },
+  {
+    "dataset": "sup-medicine_en_10",
+    "model": "openrouter/google/gemma-3-4b-it",
+    "em": 0.2,
+    "lev\u22650.75": 0.3
+  },
+  {
+    "dataset": "en_10",
+    "model": "openrouter/mistralai/mistral-small-3.1-24b-instruct",
+    "em": 0.9,
+    "lev\u22650.75": 0.9
+  },
+  {
+    "dataset": "core_en",
+    "model": "openrouter/mistralai/mistral-small-3.1-24b-instruct",
+    "em": 0.8461538461538461,
+    "lev\u22650.75": 0.8846153846153846
+  },
+  {
+    "dataset": "sup-ancientlang_en_10",
+    "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+    "em": 0.3,
+    "lev\u22650.75": 0.3
+  },
+  {
+    "dataset": "fr_40",
+    "model": "openrouter/mistralai/ministral-3b",
+    "em": 0.65,
+    "lev\u22650.75": 0.775
+  },
+  {
+    "dataset": "ja_40",
+    "model": "openrouter/google/gemma-3-12b-it",
+    "em": 0.5,
+    "lev\u22650.75": 0.65
+  },
+  {
+    "dataset": "en_30",
+    "model": "openrouter/mistralai/mistral-7b-instruct",
+    "em": 0.9,
+    "lev\u22650.75": 0.9333333333333333
+  }
+]

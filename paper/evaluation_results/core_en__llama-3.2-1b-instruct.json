@@ -1,0 +1,689 @@
+{
+  "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+  "n": 52,
+  "dataset_language": null,
+  "accuracy_em": 0.5384615384615384,
+  "accuracy_lev>=0.75": 0.5576923076923077,
+  "latency_p50": 0.411,
+  "detail": [
+    {
+      "id": "item_1",
+      "question": "What is the capital of France?",
+      "gold": "Paris",
+      "pred": "Paris",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.691,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_2",
+      "question": "Who wrote Romeo and Juliet?",
+      "gold": "William Shakespeare",
+      "pred": "William Shakespeare",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.211,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_3",
+      "question": "What is 2 + 2?",
+      "gold": "4",
+      "pred": "4",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.413,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_4",
+      "question": "What is the largest planet in our solar system?",
+      "gold": "Jupiter",
+      "pred": "Jupiter",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.379,
+      "tags": {
+        "category": "astronomy",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_5",
+      "question": "Who painted the Mona Lisa?",
+      "gold": "Leonardo da Vinci",
+      "pred": "Leonardo da Vinci",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.387,
+      "tags": {
+        "category": "art",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_6",
+      "question": "What is the derivative of sin(x)?",
+      "gold": "cos(x)",
+      "pred": "sin(x)",
+      "em": 0,
+      "lev_ratio": 0.4,
+      "latency_s": 0.417,
+      "tags": {
+        "category": "calculus",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_7",
+      "question": "Who discovered penicillin?",
+      "gold": "Alexander Fleming",
+      "pred": "Alexander Fleming",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.324,
+      "tags": {
+        "category": "biology",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_8",
+      "question": "What is 5 factorial?",
+      "gold": "120",
+      "pred": "5! = 120",
+      "em": 0,
+      "lev_ratio": 0.6,
+      "latency_s": 1.113,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_9",
+      "question": "In what year did the Berlin Wall fall?",
+      "gold": "1989",
+      "pred": "1989",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.239,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_10",
+      "question": "What is the time complexity of binary search on a sorted array?",
+      "gold": "O(log n)",
+      "pred": "O(log n)",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.409,
+      "tags": {
+        "category": "computer science",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_11",
+      "question": "What is the atomic number of carbon?",
+      "gold": "6",
+      "pred": "12",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.208,
+      "tags": {
+        "category": "chemistry",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_12",
+      "question": "What is the speed of light in vacuum (m/s)?",
+      "gold": "299792458",
+      "pred": "186,282 meters per second",
+      "em": 0,
+      "lev_ratio": 0.04,
+      "latency_s": 0.455,
+      "tags": {
+        "category": "physics",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_13",
+      "question": "What does HTTP stand for?",
+      "gold": "Hypertext Transfer Protocol",
+      "pred": "HTTP stands for HyperText Transfer Protocol.",
+      "em": 0,
+      "lev_ratio": 0.628,
+      "latency_s": 0.714,
+      "tags": {
+        "category": "computer science",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_14",
+      "question": "What year did Apollo 11 land on the Moon?",
+      "gold": "1969",
+      "pred": "July 20, 1969",
+      "em": 0,
+      "lev_ratio": 0.333,
+      "latency_s": 3.923,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_15",
+      "question": "What is Euler\u2019s identity?",
+      "gold": "e^(i\u03c0) + 1 = 0",
+      "pred": "Euler's Identity",
+      "em": 0,
+      "lev_ratio": 0.188,
+      "latency_s": 2.892,
+      "tags": {
+        "category": "math",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_16",
+      "question": "What is the boiling point of water at sea level (\u00b0C)?",
+      "gold": "100",
+      "pred": "100\u00b0C",
+      "em": 0,
+      "lev_ratio": 0.6,
+      "latency_s": 0.698,
+      "tags": {
+        "category": "chemistry",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_17",
+      "question": "What is the capital of Nigeria?",
+      "gold": "Abuja",
+      "pred": "Lagos",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.843,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_18",
+      "question": "What is the capital of Australia?",
+      "gold": "Canberra",
+      "pred": "Canberra",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.999,
+      "tags": {
+        "category": "geography",
+        "region": "Oceania",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_19",
+      "question": "What is the capital of Japan?",
+      "gold": "Tokyo",
+      "pred": "Tokyo",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.737,
+      "tags": {
+        "category": "geography",
+        "region": "Asia",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_20",
+      "question": "What is the square root of 81?",
+      "gold": "9",
+      "pred": "9",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.015,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_21",
+      "question": "What is the value of \u03c0 to two decimal places?",
+      "gold": "3.14",
+      "pred": "3.14",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.51,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_22",
+      "question": "What is the sum of the interior angles of a triangle in degrees?",
+      "gold": "180",
+      "pred": "180",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.437,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_23",
+      "question": "Solve for x: x\u00b2 - 4 = 0",
+      "gold": "x = 2 or x = -2",
+      "pred": "x = \u00b1 2",
+      "em": 0,
+      "lev_ratio": 0.364,
+      "latency_s": 0.407,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_24",
+      "question": "How many seconds are in one hour?",
+      "gold": "3600",
+      "pred": "3600",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.115,
+      "tags": {
+        "category": "time",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_25",
+      "question": "How many minutes are in a day?",
+      "gold": "1440",
+      "pred": "60",
+      "em": 0,
+      "lev_ratio": 0.25,
+      "latency_s": 2.976,
+      "tags": {
+        "category": "time",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_26",
+      "question": "How many hours are in a week?",
+      "gold": "168",
+      "pred": "7",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.354,
+      "tags": {
+        "category": "time",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_27",
+      "question": "How many months have 31 days?",
+      "gold": "7",
+      "pred": "12",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.218,
+      "tags": {
+        "category": "calendar",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_28",
+      "question": "Which galaxy is Earth located in?",
+      "gold": "The Milky Way",
+      "pred": "Andromeda",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.262,
+      "tags": {
+        "category": "astronomy",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_29",
+      "question": "What is the formula for kinetic energy?",
+      "gold": "\u00bdmv\u00b2",
+      "pred": "\\(KE = \\frac{1}{2}mv^2\\)",
+      "em": 0,
+      "lev_ratio": 0.312,
+      "latency_s": 1.21,
+      "tags": {
+        "category": "physics",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_30",
+      "question": "What is Newton\u2019s second law of motion?",
+      "gold": "F = ma",
+      "pred": "F = ma",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.375,
+      "tags": {
+        "category": "physics",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_31",
+      "question": "What is the standard acceleration due to gravity on Earth (m/s\u00b2)?",
+      "gold": "9.81",
+      "pred": "9.81",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.361,
+      "tags": {
+        "category": "physics",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_32",
+      "question": "Which formula expresses mass\u2013energy equivalence?",
+      "gold": "E = mc\u00b2",
+      "pred": "E = mc^2",
+      "em": 0,
+      "lev_ratio": 0.833,
+      "latency_s": 1.119,
+      "tags": {
+        "category": "physics",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_33",
+      "question": "What is the powerhouse of the cell?",
+      "gold": "Mitochondria",
+      "pred": "Nucleus",
+      "em": 0,
+      "lev_ratio": 0.083,
+      "latency_s": 0.221,
+      "tags": {
+        "category": "biology",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_34",
+      "question": "What molecule carries genetic information in most living organisms?",
+      "gold": "DNA",
+      "pred": "Chromatin",
+      "em": 0,
+      "lev_ratio": 0.111,
+      "latency_s": 0.278,
+      "tags": {
+        "category": "biology",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_35",
+      "question": "Who wrote the novel 1984?",
+      "gold": "George Orwell",
+      "pred": "George Orwell",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.317,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_36",
+      "question": "Who wrote To Kill a Mockingbird?",
+      "gold": "Harper Lee",
+      "pred": "Harper Lee",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.039,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_37",
+      "question": "Who was the first President of the United States?",
+      "gold": "George Washington",
+      "pred": "George Washington",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.298,
+      "tags": {
+        "category": "history",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_38",
+      "question": "In which year did World War I begin?",
+      "gold": "1914",
+      "pred": "1914",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.598,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_39",
+      "question": "In which year did World War II end?",
+      "gold": "1945",
+      "pred": "1945",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.234,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_40",
+      "question": "What is the smallest country in the world by area?",
+      "gold": "Vatican City",
+      "pred": "Vatican City",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.627,
+      "tags": {
+        "category": "geography",
+        "region": "Europe",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_41",
+      "question": "Which element has the chemical symbol Au?",
+      "gold": "Gold",
+      "pred": "Au",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.237,
+      "tags": {
+        "category": "chemistry",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_42",
+      "question": "What does GDP stand for?",
+      "gold": "Gross Domestic Product",
+      "pred": "Gross Domestic Product",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.32,
+      "tags": {
+        "category": "economics",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_43",
+      "question": "What is the currency of Japan?",
+      "gold": "Yen",
+      "pred": "Japanese Yen",
+      "em": 0,
+      "lev_ratio": 0.25,
+      "latency_s": 0.267,
+      "tags": {
+        "category": "economics",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_44",
+      "question": "What is the output of print(len([1, 2, 3])) in Python?",
+      "gold": "3",
+      "pred": "**5**",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.373,
+      "tags": {
+        "category": "computer science",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_45",
+      "question": "In Python, what keyword is used to define a function?",
+      "gold": "def",
+      "pred": "`def`",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.307,
+      "tags": {
+        "category": "computer science",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_46",
+      "question": "In JavaScript, what keyword declares a variable with block scope?",
+      "gold": "let",
+      "pred": "var",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.357,
+      "tags": {
+        "category": "computer science",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_47",
+      "question": "What is the average-case time complexity of quicksort?",
+      "gold": "O(n log n)",
+      "pred": "O(n log n)",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.564,
+      "tags": {
+        "category": "computer science",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_48",
+      "question": "If P implies Q and Q implies R, does P imply R?",
+      "gold": "Yes",
+      "pred": "Yes",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.254,
+      "tags": {
+        "category": "logic",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_49",
+      "question": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+      "gold": "No",
+      "pred": "No.",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.595,
+      "tags": {
+        "category": "logic",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_50",
+      "question": "What is the binary representation of decimal 10?",
+      "gold": "1010",
+      "pred": "Octal",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.258,
+      "tags": {
+        "category": "computer science",
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "item_51",
+      "question": "In git, what command stages changes for commit?",
+      "gold": "git add",
+      "pred": "`git add`",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.297,
+      "tags": {
+        "category": "computer science",
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "item_52",
+      "question": "What is Big O notation used for?",
+      "gold": "Describing algorithm complexity",
+      "pred": "Big O notation",
+      "em": 0,
+      "lev_ratio": 0.258,
+      "latency_s": 0.317,
+      "tags": {
+        "category": "computer science",
+        "difficulty": "medium"
+      }
+    }
+  ]
+}

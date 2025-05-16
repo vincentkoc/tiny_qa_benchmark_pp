@@ -1,0 +1,570 @@
+{
+  "model": "openrouter/mistralai/ministral-3b",
+  "n": 40,
+  "dataset_language": "ja",
+  "accuracy_em": 0.2,
+  "accuracy_lev>=0.75": 0.25,
+  "latency_p50": 0.3105,
+  "detail": [
+    {
+      "id": "b8cabceb",
+      "question": "5 \u00d7 7 \u306f\u4f55\u3067\u3059\u304b\uff1f",
+      "gold": "35",
+      "pred": "35",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.448,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "89e96f5f",
+      "question": "\u6c34\u306e\u6cb8\u70b9\u306f\u4f55\u5ea6\u3067\u3059\u304b\uff1f",
+      "gold": "100\u00b0C",
+      "pred": "212\u00b0C",
+      "em": 0,
+      "lev_ratio": 0.4,
+      "latency_s": 0.295,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "02f96eb0",
+      "question": "\u65e5\u672c\u306e\u9996\u90fd\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+      "gold": "\u6771\u4eac",
+      "pred": "\u6771\u4eac",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.343,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "44a3ba04",
+      "question": "\u30a2\u30e1\u30ea\u30ab\u72ec\u7acb\u5ba3\u8a00\u304c\u63a1\u629e\u3055\u308c\u305f\u5e74\u306f\uff1f",
+      "gold": "1776\u5e74",
+      "pred": "1776\u5e74",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.511,
+      "tags": {
+        "category": "history",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "bdb640fb",
+      "question": "\u300e\u30cf\u30ea\u30fc\u30fb\u30dd\u30c3\u30bf\u30fc\u300f\u30b7\u30ea\u30fc\u30ba\u306e\u4f5c\u8005\u306f\uff1f",
+      "gold": "J.K.\u30ed\u30fc\u30ea\u30f3\u30b0",
+      "pred": "J.K. \u30ed\u30eb\u30ea\u30f3\u30b0",
+      "em": 0,
+      "lev_ratio": 0.889,
+      "latency_s": 0.304,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "9b80519b",
+      "question": "\u300e\u30a4\u30a8\u30ed\u30fc\u30fb\u30b5\u30d6\u30de\u30ea\u30f3\u300f\u3068\u3044\u3046\u66f2\u3092\u4f5c\u3063\u305f\u30d0\u30f3\u30c9\u306f\uff1f",
+      "gold": "The Beatles",
+      "pred": "\u30a4\u30a8\u30ed\u30fc\u30fb\u30b5\u30d6\u30de\u30ea\u30f3\n\u30d0\u30f3\u30c9\u306f\u3001\u30a4\u30a8\u30ed\u30fc\u30fb\u30b5\u30d6\u30de\u30ea\u30f3",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.511,
+      "tags": {
+        "category": "music",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "1912a8b1",
+      "question": "\u30b5\u30c3\u30ab\u30fc\u306e\u8a66\u5408\u306f\u4f55\u4eba\u5bfe\u4f55\u4eba\u3067\u884c\u308f\u308c\u307e\u3059\u304b\uff1f",
+      "gold": "11\u5bfe11",
+      "pred": "20\u4eba\u5bfe20\u4eba",
+      "em": 0,
+      "lev_ratio": 0.143,
+      "latency_s": 0.291,
+      "tags": {
+        "category": "sports",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "ade90e76",
+      "question": "\u30e2\u30ca\u30fb\u30ea\u30b6\u3092\u63cf\u3044\u305f\u306e\u306f\u8ab0\u3067\u3059\u304b\uff1f",
+      "gold": "\u30ec\u30aa\u30ca\u30eb\u30c9\u30fb\u30c0\u30fb\u30f4\u30a3\u30f3\u30c1",
+      "pred": "\u30e2\u30ca\u30fb\u30ea\u30b6\u3092\u63cf\u3044\u305f\u306e\u306f\u30ec\u30aa\u30ca\u30eb\u30c9\u30fb\u30c0\u30fb\u30f4\u30a3\u30f3\u30c1\u3067\u3059\u3002",
+      "em": 0,
+      "lev_ratio": 0.462,
+      "latency_s": 0.523,
+      "tags": {
+        "category": "art",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "78608e90",
+      "question": "\u592a\u967d\u7cfb\u3067\u6700\u3082\u5927\u304d\u3044\u60d1\u661f\u306f\u4f55\u3067\u3059\u304b\uff1f",
+      "gold": "\u6728\u661f",
+      "pred": "\u5730\u7403",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.355,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "2cb0c488",
+      "question": "\u30a2\u30de\u30be\u30f3\u5ddd\u306f\u3069\u306e\u5927\u9678\u3092\u6d41\u308c\u3066\u3044\u307e\u3059\u304b\uff1f",
+      "gold": "\u5357\u30a2\u30e1\u30ea\u30ab\u5927\u9678",
+      "pred": "\u30a2\u30de\u30be\u30f3\u5ddd\u306f\u5357\u7c73\u5927\u9678\u3092\u6d41\u308c\u3066\u3044\u307e\u3059\u3002",
+      "em": 0,
+      "lev_ratio": 0.111,
+      "latency_s": 0.364,
+      "tags": {
+        "category": "geography",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "b405cc03",
+      "question": "\u30d5\u30e9\u30f3\u30b9\u9769\u547d\u304c\u59cb\u307e\u3063\u305f\u5e74\u306f\uff1f",
+      "gold": "1789\u5e74",
+      "pred": "1789\u5e74",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.265,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "87d9506d",
+      "question": "\u4e09\u89d2\u5f62\u306e\u5185\u89d2\u306e\u548c\u306f\u3044\u304f\u3064\u3067\u3059\u304b\uff1f",
+      "gold": "180\u5ea6",
+      "pred": "180\u5ea6",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.281,
+      "tags": {
+        "category": "math",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "9b567307",
+      "question": "\u300e\u6e90\u6c0f\u7269\u8a9e\u300f\u306e\u4f5c\u8005\u306f\u8ab0\u3067\u3059\u304b\uff1f",
+      "gold": "\u7d2b\u5f0f\u90e8",
+      "pred": "\u6e90\u6c0f\u7269\u8a9e\u306e\u4f5c\u8005\u306f\u6e90\u6c0f\u3067\u3059\u3002",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.278,
+      "tags": {
+        "category": "literature",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "6578aed6",
+      "question": "\u4ea4\u97ff\u66f2\u7b2c\u4e5d\u756a\u300e\u5408\u5531\u300f\u3092\u4f5c\u66f2\u3057\u305f\u306e\u306f\uff1f",
+      "gold": "\u30d9\u30fc\u30c8\u30fc\u30f4\u30a7\u30f3",
+      "pred": "Ludwig van Beethoven",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.301,
+      "tags": {
+        "category": "music",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "2276e3ab",
+      "question": "\u30de\u30e9\u30bd\u30f3\u306e\u8ddd\u96e2\u306f\u4f55\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\u3067\u3059\u304b\uff1f",
+      "gold": "42.195km",
+      "pred": "42.195 km",
+      "em": 0,
+      "lev_ratio": 0.889,
+      "latency_s": 0.543,
+      "tags": {
+        "category": "sports",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "7865e4a1",
+      "question": "\u300e\u661f\u6708\u591c\u300f\u3092\u63cf\u3044\u305f\u753b\u5bb6\u306f\u8ab0\u3067\u3059\u304b\uff1f",
+      "gold": "\u30b4\u30c3\u30db",
+      "pred": "Takeshi Murata",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.484,
+      "tags": {
+        "category": "art",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "c03f67dc",
+      "question": "\u96fb\u5b50\u306e\u96fb\u8377\u306f\u4f55\u30af\u30fc\u30ed\u30f3\u3067\u3059\u304b\uff1f",
+      "gold": "-1.602\u00d710^-19C",
+      "pred": "1.6 \u00d7 10^-19 C",
+      "em": 0,
+      "lev_ratio": 0.643,
+      "latency_s": 0.32,
+      "tags": {
+        "category": "science",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "c6b8d885",
+      "question": "\u4e16\u754c\u3067\u6700\u3082\u6df1\u3044\u6e56\u306e\u540d\u524d\u306f\uff1f",
+      "gold": "\u30d0\u30a4\u30ab\u30eb\u6e56",
+      "pred": "\u30bf\u30a4\u30ac\u30fc\u6e56",
+      "em": 0,
+      "lev_ratio": 0.4,
+      "latency_s": 0.343,
+      "tags": {
+        "category": "geography",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "00147361",
+      "question": "\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\u304c\u59cb\u307e\u3063\u305f\u5e74\u306f\uff1f",
+      "gold": "1939\u5e74",
+      "pred": "1939\u5e74",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.247,
+      "tags": {
+        "category": "history",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "97bb3ef1",
+      "question": "\u5fae\u5206\u7a4d\u5206\u5b66\u3092\u78ba\u7acb\u3057\u305f\u6570\u5b66\u8005\u306f\uff1f",
+      "gold": "\u30cb\u30e5\u30fc\u30c8\u30f3\u3068\u30e9\u30a4\u30d7\u30cb\u30c3\u30c4",
+      "pred": "\u30ec\u30aa\u30ca\u30eb\u30c9\u30fb\u30d1\u30a6\u30ea",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.258,
+      "tags": {
+        "category": "math",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "4cb408e0",
+      "question": "\u300e\u5931\u308f\u308c\u305f\u6642\u3092\u6c42\u3081\u3066\u300f\u306e\u8457\u8005\u306f\u8ab0\u3067\u3059\u304b\uff1f",
+      "gold": "\u30de\u30eb\u30bb\u30eb\u30fb\u30d7\u30eb\u30fc\u30b9\u30c8",
+      "pred": "\u300e\u5931\u308f\u308c\u305f\u6642\u3092\u6c42\u3081\u3066\u300f\u306e\u8457\u8005\u306f\u3001\u5c0f\u6797\u4e00\u90ce\u3067\u3059\u3002",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.338,
+      "tags": {
+        "category": "literature",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "12c1ab5d",
+      "question": "\u30b0\u30ec\u30f3\u30fb\u30b0\u30fc\u30eb\u30c9\u304c\u9332\u97f3\u3067\u6709\u540d\u306b\u306a\u3063\u305f\u300e\u30b4\u30fc\u30eb\u30c9\u30d9\u30eb\u30af\u5909\u594f\u66f2\u300f\u3092\u4f5c\u66f2\u3057\u305f\u306e\u306f\uff1f",
+      "gold": "\u30d0\u30c3\u30cf",
+      "pred": "\u30a4\u30f3\u30b0\u30b9\u30fb\u30b0\u30ec\u30f3",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.263,
+      "tags": {
+        "category": "music",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "7c09b49f",
+      "question": "\u30b5\u30c3\u30ab\u30fc\u306e\u30aa\u30a6\u30f3\u30b4\u30fc\u30eb\u304c\u521d\u3081\u3066\u8a18\u9332\u3055\u308c\u305f\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7\u5927\u4f1a\u306f\u3069\u308c\u3067\u3059\u304b\uff1f",
+      "gold": "1954\u5e74\u5927\u4f1a",
+      "pred": "1930\u5e74",
+      "em": 0,
+      "lev_ratio": 0.429,
+      "latency_s": 0.331,
+      "tags": {
+        "category": "sports",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "67e1cd60",
+      "question": "\u300e\u591c\u8b66\u300f\u3092\u63cf\u3044\u305f\u30aa\u30e9\u30f3\u30c0\u306e\u753b\u5bb6\u306f\uff1f",
+      "gold": "\u30ec\u30f3\u30d6\u30e9\u30f3\u30c8",
+      "pred": "Rembrandt van Rijn",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.296,
+      "tags": {
+        "category": "art",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "c39158b7",
+      "question": "10 - 3 \u306f\u4f55\u3067\u3059\u304b\uff1f",
+      "gold": "7",
+      "pred": "17",
+      "em": 0,
+      "lev_ratio": 0.5,
+      "latency_s": 0.311,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "0959eb81",
+      "question": "\u5730\u7403\u306f\u592a\u967d\u306e\u5468\u308a\u3092\u4f55\u56de\u516c\u8ee2\u3057\u307e\u3059\u304b\uff1f",
+      "gold": "1\u56de",
+      "pred": "100\u4e07\u56de",
+      "em": 0,
+      "lev_ratio": 0.4,
+      "latency_s": 0.242,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "b3838f29",
+      "question": "\u5bcc\u58eb\u5c71\u306e\u6a19\u9ad8\u306f\u4f55\u30e1\u30fc\u30c8\u30eb\u3067\u3059\u304b\uff1f",
+      "gold": "3776m",
+      "pred": "3,776",
+      "em": 0,
+      "lev_ratio": 0.6,
+      "latency_s": 0.386,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "bb1be22b",
+      "question": "\u65e5\u672c\u304c\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\u306b\u964d\u4f0f\u3057\u305f\u5e74\u306f\uff1f",
+      "gold": "1945\u5e74",
+      "pred": "1945\u5e74",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.312,
+      "tags": {
+        "category": "history",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "117023b1",
+      "question": "\u300e\u543e\u8f29\u306f\u732b\u3067\u3042\u308b\u300f\u306e\u4f5c\u8005\u306f\uff1f",
+      "gold": "\u590f\u76ee\u6f31\u77f3",
+      "pred": "Natsume Soseki",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.275,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "50fa0374",
+      "question": "\u4ea4\u97ff\u66f2\u7b2c5\u756a\u300e\u904b\u547d\u300f\u3092\u4f5c\u66f2\u3057\u305f\u306e\u306f\uff1f",
+      "gold": "\u30d9\u30fc\u30c8\u30fc\u30f4\u30a7\u30f3",
+      "pred": "Ludwig van Beethoven",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.283,
+      "tags": {
+        "category": "music",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "38c3a0b0",
+      "question": "\u30c6\u30cb\u30b9\u306e\u30b0\u30e9\u30f3\u30c9\u30b9\u30e9\u30e04\u5927\u4f1a\u306e\u3046\u3061\u3001\u30af\u30ec\u30fc\u30b3\u30fc\u30c8\u3067\u884c\u308f\u308c\u308b\u5927\u4f1a\u306f\uff1f",
+      "gold": "\u5168\u4ecf\u30aa\u30fc\u30d7\u30f3",
+      "pred": "2023\u5e74",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.245,
+      "tags": {
+        "category": "sports",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "2122abd8",
+      "question": "\u5143\u7d20\u8a18\u53f7Fe\u306f\u4f55\u306e\u5143\u7d20\u3092\u8868\u3057\u307e\u3059\u304b\uff1f",
+      "gold": "\u9244",
+      "pred": "Fe",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.258,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "97514daa",
+      "question": "\u30e8\u30fc\u30ed\u30c3\u30d1\u3067\u56fd\u571f\u9762\u7a4d\u304c\u6700\u5927\u306e\u56fd\u306f\uff1f",
+      "gold": "\u30ed\u30b7\u30a2",
+      "pred": "\u30ed\u30b7\u30a2",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.275,
+      "tags": {
+        "category": "geography",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "e79af956",
+      "question": "\u5927\u5316\u306e\u6539\u65b0\u304c\u884c\u308f\u308c\u305f\u6642\u4ee3\u306f\u4f55\u4e16\u7d00\uff1f",
+      "gold": "7\u4e16\u7d00",
+      "pred": "19\u4e16\u7d00",
+      "em": 0,
+      "lev_ratio": 0.5,
+      "latency_s": 0.305,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "ea19a50c",
+      "question": "\u884c\u5217A\u306e\u5bfe\u89d2\u5316\u306b\u306f\u4f55\u304c\u5fc5\u8981\u3067\u3059\u304b\uff1f",
+      "gold": "\u56fa\u6709\u30d9\u30af\u30c8\u30eb",
+      "pred": "\u5bfe\u89d2\u5316\u306b\u306f\u5bfe\u89d2\u884c\u5217\u304c\u5fc5\u8981\u3067\u3059\u3002",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.292,
+      "tags": {
+        "category": "math",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "ab1df004",
+      "question": "\u300e\u767e\u5e74\u306e\u5b64\u72ec\u300f\u306e\u539f\u8a9e\u30bf\u30a4\u30c8\u30eb\u306f\uff1f",
+      "gold": "Cien a\u00f1os de soledad",
+      "pred": "\u300e\u767e\u5e74\u306e\u5b64\u72ec\u300f\u306e\u539f\u8a9e\u30bf\u30a4\u30c8\u30eb\u306f\u300eSoleil de la Terre\u300f\u3067\u3059\u3002",
+      "em": 0,
+      "lev_ratio": 0.158,
+      "latency_s": 0.456,
+      "tags": {
+        "category": "literature",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "12e69d06",
+      "question": "\u5341\u4e8c\u97f3\u6280\u6cd5\u3092\u63d0\u5531\u3057\u305f\u4f5c\u66f2\u5bb6\u306f\uff1f",
+      "gold": "\u30b7\u30a7\u30fc\u30f3\u30d9\u30eb\u30af",
+      "pred": "\u30a4\u30b5\u30aa\u30fb\u30ab\u30df\u30e4",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.341,
+      "tags": {
+        "category": "music",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "04ce34db",
+      "question": "F1\u3067\u6700\u3082\u591a\u304f\u306e\u30ef\u30fc\u30eb\u30c9\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u3092\u7372\u5f97\u3057\u305f\u30c9\u30e9\u30a4\u30d0\u30fc\u306f\uff1f",
+      "gold": "\u30eb\u30a4\u30b9\u30fb\u30cf\u30df\u30eb\u30c8\u30f3",
+      "pred": "Michael Schumacher",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.31,
+      "tags": {
+        "category": "sports",
+        "difficulty": "hard"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "996f483b",
+      "question": "\u30d4\u30ab\u30bd\u304c\u5275\u59cb\u3057\u305f\u7f8e\u8853\u69d8\u5f0f\u306f\uff1f",
+      "gold": "\u30ad\u30e5\u30d3\u30b9\u30e0",
+      "pred": "\u30d4\u30ab\u30bd\u304c\u5275\u59cb\u3057\u305f\u7f8e\u8853\u69d8\u5f0f\u306f\u3001\u30af\u30ec\u30aa\u30d1\u30c8\u30e9\u6d3e\u3002",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.374,
+      "tags": {
+        "category": "art",
+        "difficulty": "medium"
+      },
+      "lang": "ja"
+    },
+    {
+      "id": "6d6afd66",
+      "question": "\u5149\u306e\u901f\u3055\u306f\u7d04\u4f55\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\u6bce\u79d2\u3067\u3059\u304b\uff1f",
+      "gold": "\u7d0430\u4e07km/s",
+      "pred": "\u5149\u901f\u5ea6\u306f\u7d04300,000\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\u6bce\u79d2\u3067\u3059\u3002",
+      "em": 0,
+      "lev_ratio": 0.13,
+      "latency_s": 0.415,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "ja"
+    }
+  ]
+}

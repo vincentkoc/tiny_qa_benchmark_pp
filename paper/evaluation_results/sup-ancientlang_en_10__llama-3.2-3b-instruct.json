@@ -1,0 +1,150 @@
+{
+  "model": "openrouter/meta-llama/llama-3.2-3b-instruct",
+  "n": 10,
+  "dataset_language": "en",
+  "accuracy_em": 0.1,
+  "accuracy_lev>=0.75": 0.1,
+  "latency_p50": 0.4535,
+  "detail": [
+    {
+      "id": "28d1b662",
+      "question": "Which ancient script was used by Egyptian priests for administrative records on papyrus?",
+      "gold": "Hieratic",
+      "pred": "Demotic script",
+      "em": 0,
+      "lev_ratio": 0.214,
+      "latency_s": 0.503,
+      "tags": {
+        "category": "ancient languages",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "93768716",
+      "question": "What cuneiform alphabet, discovered at Ras Shamra, was used to write a Northwest Semitic language?",
+      "gold": "Ugaritic",
+      "pred": "The Proto-Canaanite alphabet",
+      "em": 0,
+      "lev_ratio": 0.125,
+      "latency_s": 0.377,
+      "tags": {
+        "category": "ancient languages",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "982d0855",
+      "question": "What classification is given to the Sumerian language due to its lack of known relatives?",
+      "gold": "language isolate",
+      "pred": "Isolating language",
+      "em": 0,
+      "lev_ratio": 0.222,
+      "latency_s": 0.342,
+      "tags": {
+        "category": "ancient languages",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "b55887bd",
+      "question": "Which dialect of Ancient Greek is used in the Iliad and the Odyssey?",
+      "gold": "Ionic",
+      "pred": "Attic.",
+      "em": 0,
+      "lev_ratio": 0.4,
+      "latency_s": 0.36,
+      "tags": {
+        "category": "ancient languages",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "46d265e1",
+      "question": "Which undeciphered script was used by the Minoan civilization on Crete?",
+      "gold": "Linear A",
+      "pred": "Linear A",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 0.593,
+      "tags": {
+        "category": "ancient languages",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "7b3acf3e",
+      "question": "In which language is the Zoroastrian Avesta composed?",
+      "gold": "Avestan",
+      "pred": "Old Persian",
+      "em": 0,
+      "lev_ratio": 0.364,
+      "latency_s": 0.56,
+      "tags": {
+        "category": "ancient languages",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a6774f47",
+      "question": "What script, derived from Phoenician, was used to write the Punic language?",
+      "gold": "Punic alphabet",
+      "pred": "Alphabet",
+      "em": 0,
+      "lev_ratio": 0.571,
+      "latency_s": 0.283,
+      "tags": {
+        "category": "ancient languages",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "5fe4fb49",
+      "question": "What writing system did the Hittites adapt to record their language?",
+      "gold": "Hittite cuneiform",
+      "pred": "Cuneiform",
+      "em": 0,
+      "lev_ratio": 0.529,
+      "latency_s": 0.404,
+      "tags": {
+        "category": "ancient languages",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "ea629005",
+      "question": "Which Greek dialect was written in the Cypriot syllabary on the island of Cyprus?",
+      "gold": "Arcadocypriot Greek",
+      "pred": "Cypro-Minoan",
+      "em": 0,
+      "lev_ratio": 0.263,
+      "latency_s": 0.624,
+      "tags": {
+        "category": "ancient languages",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    },
+    {
+      "id": "a9f11470",
+      "question": "What undeciphered script was used by the Harappan civilization of the Indus Valley?",
+      "gold": "Indus script",
+      "pred": "Undeciphered",
+      "em": 0,
+      "lev_ratio": 0.167,
+      "latency_s": 0.603,
+      "tags": {
+        "category": "ancient languages",
+        "difficulty": "hard"
+      },
+      "lang": "en"
+    }
+  ]
+}

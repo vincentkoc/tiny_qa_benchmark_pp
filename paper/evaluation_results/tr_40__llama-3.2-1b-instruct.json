@@ -1,0 +1,570 @@
+{
+  "model": "openrouter/meta-llama/llama-3.2-1b-instruct",
+  "n": 40,
+  "dataset_language": "tr",
+  "accuracy_em": 0.075,
+  "accuracy_lev>=0.75": 0.1,
+  "latency_p50": 1.1555,
+  "detail": [
+    {
+      "id": "ec5fe397",
+      "question": "5 * 6 ka\u00e7t\u0131r?",
+      "gold": "30",
+      "pred": "53",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.499,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "e09b51b3",
+      "question": "T\u00fcrkiye'nin ba\u015fkenti neresidir?",
+      "gold": "Ankara",
+      "pred": "Ankara",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 1.133,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "51957c84",
+      "question": "Atat\u00fcrk ka\u00e7 y\u0131l\u0131nda do\u011fmu\u015ftur?",
+      "gold": "1881",
+      "pred": "Atat\u00fcrk'\u00fcn do\u011fdu\u011fu a\u00f1o 13 Mart 1876'dir.",
+      "em": 0,
+      "lev_ratio": 0.051,
+      "latency_s": 1.307,
+      "tags": {
+        "category": "history",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "e3c4ed5f",
+      "question": "Su ka\u00e7 derecede donar?",
+      "gold": "0\u00b0C",
+      "pred": "Ay\u0131ld\u0131rmaz 2.",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 3.681,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "1b2d1f9b",
+      "question": "\u0130stanbul'u Dinliyorum \u015fiirinin \u015fairi kimdir?",
+      "gold": "Orhan Veli Kan\u0131k",
+      "pred": "Nusayin (1861-1933)",
+      "em": 0,
+      "lev_ratio": 0.118,
+      "latency_s": 0.66,
+      "tags": {
+        "category": "literature",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "e731c55d",
+      "question": "Futbolda kaleci hangi numaray\u0131 genellikle giyer?",
+      "gold": "1",
+      "pred": "1.  G\u00f6k\u00e7en 2.  Zeki \u00c7ak\u0131r 3.  \u00d6mer \u00d6zt\u00fcrk",
+      "em": 0,
+      "lev_ratio": 0.029,
+      "latency_s": 0.778,
+      "tags": {
+        "category": "sports",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "0fbd198b",
+      "question": "G\u00fcne\u015f sistemimizdeki en b\u00fcy\u00fck gezegen hangisidir?",
+      "gold": "Jupiter",
+      "pred": "G\u00fcne\u015f sistemimizdaki en b\u00fcy\u00fck gezegen, Merk\u00fcr'dur",
+      "em": 0,
+      "lev_ratio": 0.083,
+      "latency_s": 2.99,
+      "tags": {
+        "category": "science",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "d90e12c6",
+      "question": "12'nin 3 kat\u0131n\u0131n karesi ka\u00e7t\u0131r?",
+      "gold": "144",
+      "pred": "1500",
+      "em": 0,
+      "lev_ratio": 0.25,
+      "latency_s": 0.382,
+      "tags": {
+        "category": "math",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "0de3b8d5",
+      "question": "Nil Nehri hangi k\u0131tada yer al\u0131r?",
+      "gold": "Africa",
+      "pred": "Nil Nehri, Ortado\u011fu ve Bat\u0131 Asya'da yer al\u0131r.",
+      "em": 0,
+      "lev_ratio": 0.07,
+      "latency_s": 0.812,
+      "tags": {
+        "category": "geography",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "8ec86c9b",
+      "question": "\u0130stanbul'un fethi hangi y\u0131lda ger\u00e7ekle\u015fti?",
+      "gold": "1453",
+      "pred": "Istanbul'un fethi 29 October 1453'te yap\u0131lm\u0131\u015ft\u0131r.",
+      "em": 0,
+      "lev_ratio": 0.083,
+      "latency_s": 0.947,
+      "tags": {
+        "category": "history",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "cc652a43",
+      "question": "N\u00f6tr pH de\u011feri ka\u00e7t\u0131r?",
+      "gold": "7",
+      "pred": "2013 a\u00f1o\u0151s Newfoundland",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 1.042,
+      "tags": {
+        "category": "chemistry",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "3b17f591",
+      "question": "Romeo ve Juliet oyununu kim yazm\u0131\u015ft\u0131r?",
+      "gold": "William Shakespeare",
+      "pred": "Romeo ve Juliet oyununu William Shakespeare taraf\u0131ndan yazm\u0131\u015ft\u0131r.",
+      "em": 0,
+      "lev_ratio": 0.297,
+      "latency_s": 1.177,
+      "tags": {
+        "category": "literature",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "137e5a8e",
+      "question": "Mona Lisa tablosunun ressam\u0131 kimdir?",
+      "gold": "Leonardo da Vinci",
+      "pred": "Leonardo da Vinci",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 4.424,
+      "tags": {
+        "category": "art",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "1050b947",
+      "question": "\u0130nsan v\u00fccudunda en b\u00fcy\u00fck i\u00e7 organ hangisidir?",
+      "gold": "Liver",
+      "pred": "Kulplar",
+      "em": 0,
+      "lev_ratio": 0.286,
+      "latency_s": 1.109,
+      "tags": {
+        "category": "biology",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "9c7444a1",
+      "question": "Beethoven'\u0131n ka\u00e7\u0131nc\u0131 senfonisi 'Sevin\u00e7 Ne\u015fesi' olarak bilinir?",
+      "gold": "9",
+      "pred": "Ka\u00e7\u0131nc\u0131 senfonisi",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 1.134,
+      "tags": {
+        "category": "music",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "75b20101",
+      "question": "D\u00fcnya \u00e7ap\u0131nda en \u00e7ok kullan\u0131lan programlama dili hangisidir?",
+      "gold": "Python",
+      "pred": "Java",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 3.787,
+      "tags": {
+        "category": "technology",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "83f7e7d0",
+      "question": "\u00c7\u00f6z\u00fcme g\u00f6re x^2 - 4x + 4 = 0 denkleminin k\u00f6k\u00fc ka\u00e7t\u0131r?",
+      "gold": "2",
+      "pred": "0",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.387,
+      "tags": {
+        "category": "math",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "290fda3f",
+      "question": "Einstein'\u0131n izafiyet teorisinde E=mc^2 denklemindeki c h\u0131z sabiti olarak neyi temsil eder?",
+      "gold": "speed of light",
+      "pred": "99",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 0.35,
+      "tags": {
+        "category": "physics",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "9c2a007f",
+      "question": "NaCl bile\u015fi\u011fi hangi iki elementten olu\u015fur?",
+      "gold": "Sodium and Chlorine",
+      "pred": "Hidrojen ve kalsiyum.",
+      "em": 0,
+      "lev_ratio": 0.15,
+      "latency_s": 0.62,
+      "tags": {
+        "category": "chemistry",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "b5b255d6",
+      "question": "DNA \u00e7ift sarmal yap\u0131s\u0131n\u0131 kim ke\u015ffetmi\u015ftir?",
+      "gold": "James Watson and Francis Crick",
+      "pred": "DNA sarmal yap\u0131s\u0131, Amerika Birle\u015fik Devletleri'ndeki Amerikal\u0131 chef Garten Rex Cansoy'un Tar\u0131m ve Peynir M\u00fchendisi'nden T. Y. Y. Bickel taraf\u0131ndan 1930'lar aras\u0131nda inventione gone\u00fclm\u00fc\u015f, 1980'lerde ise L. Y. G. Robertson taraf\u0131ndan ke\u015ffedilmi\u015ftir.",
+      "em": 0,
+      "lev_ratio": 0.097,
+      "latency_s": 2.86,
+      "tags": {
+        "category": "biology",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "d7e3bba7",
+      "question": "Kongo Nehri hangi iki \u00fclkeyi s\u0131n\u0131r olarak payla\u015f\u0131r?",
+      "gold": "Democratic Republic of the Congo and Republic of the Congo",
+      "pred": "Kongo Nehri, Afrika'da yer alan iki eyaletin birle\u015fiminden olu\u015fur.",
+      "em": 0,
+      "lev_ratio": 0.203,
+      "latency_s": 0.927,
+      "tags": {
+        "category": "geography",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "47d16ea5",
+      "question": "Napolyon Bonapart hangi sava\u015fta Waterloo'da yenildi?",
+      "gold": "Battle of Waterloo",
+      "pred": "Napolyon Bonaparte 1805-1815 y\u0131llar\u0131 aras\u0131nda Napoleon ile Pierre-Joseph Carnot aras\u0131ndaki chi\u1ebfniye kat\u0131ld\u0131.",
+      "em": 0,
+      "lev_ratio": 0.112,
+      "latency_s": 1.432,
+      "tags": {
+        "category": "history",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "75b36890",
+      "question": "Finnegans Wake roman\u0131n\u0131n yazar\u0131 kimdir?",
+      "gold": "James Joyce",
+      "pred": "James Joyce",
+      "em": 1,
+      "lev_ratio": 1.0,
+      "latency_s": 3.485,
+      "tags": {
+        "category": "literature",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "086d9038",
+      "question": "Barok d\u00f6neminin en \u00fcnl\u00fc heykelt\u0131ra\u015f\u0131 kimdir?",
+      "gold": "Gian Lorenzo Bernini",
+      "pred": "\u00d6zdemir Asaf",
+      "em": 0,
+      "lev_ratio": 0.1,
+      "latency_s": 5.462,
+      "tags": {
+        "category": "art",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "514e5c9c",
+      "question": "R\u00f6nesans d\u00f6neminin \u00fcnl\u00fc bestecisi Palestrina'n\u0131n tam ad\u0131 nedir?",
+      "gold": "Giovanni Pierluigi da Palestrina",
+      "pred": "D\u00f6nmeyishta",
+      "em": 0,
+      "lev_ratio": 0.156,
+      "latency_s": 8.969,
+      "tags": {
+        "category": "music",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "88722778",
+      "question": "\u0130lk programlanabilir bilgisayar kabul edilen ENIAC ne zaman tamamland\u0131?",
+      "gold": "1945",
+      "pred": "1946",
+      "em": 0,
+      "lev_ratio": 0.75,
+      "latency_s": 0.678,
+      "tags": {
+        "category": "technology",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "1cc277a6",
+      "question": "10 - 7 ka\u00e7t\u0131r?",
+      "gold": "3",
+      "pred": "2023",
+      "em": 0,
+      "lev_ratio": 0.25,
+      "latency_s": 1.057,
+      "tags": {
+        "category": "math",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "0a8e9cab",
+      "question": "Bitkiler fotosentez i\u00e7in hangi gaz\u0131 kullan\u0131r?",
+      "gold": "Carbon dioxide",
+      "pred": "Karbonik oxygen gaz\u0131 (a\u00e7\u0131k hav\u093e) elektrostatik birushman depolama system\u0131 ile trifligeon ikincisi.",
+      "em": 0,
+      "lev_ratio": 0.105,
+      "latency_s": 1.252,
+      "tags": {
+        "category": "science",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "086c462d",
+      "question": "Afrika k\u0131tas\u0131n\u0131n en b\u00fcy\u00fck \u00fclkesi hangisidir?",
+      "gold": "Algeria",
+      "pred": "Somali",
+      "em": 0,
+      "lev_ratio": 0.143,
+      "latency_s": 4.226,
+      "tags": {
+        "category": "geography",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "0835855d",
+      "question": "Roma \u0130mparatorlu\u011fu'nun ba\u015fkenti neresiydi?",
+      "gold": "Rome",
+      "pred": "Istanbul",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 4.364,
+      "tags": {
+        "category": "history",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "b9581327",
+      "question": "NBA'de en \u00e7ok \u015fampiyonluk kazanan tak\u0131m hangisidir?",
+      "gold": "Boston Celtics",
+      "pred": "NBA 50'li y\u00fczy\u0131l\u0131n\u0131n en \u00e7ok \u015fampiyonu Boston Celtics'dir.",
+      "em": 0,
+      "lev_ratio": 0.25,
+      "latency_s": 4.814,
+      "tags": {
+        "category": "sports",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "232098e0",
+      "question": "H2O bile\u015fi\u011finin yayg\u0131n ad\u0131 nedir?",
+      "gold": "Water",
+      "pred": "Susam",
+      "em": 0,
+      "lev_ratio": 0.0,
+      "latency_s": 6.436,
+      "tags": {
+        "category": "chemistry",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "9d3fa685",
+      "question": "\u0130nsan kan\u0131nda en fazla bulunan h\u00fccre tipi hangisidir?",
+      "gold": "Red blood cells",
+      "pred": "Kangeniye h\u00fccre",
+      "em": 0,
+      "lev_ratio": 0.067,
+      "latency_s": 1.434,
+      "tags": {
+        "category": "biology",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "69a8c762",
+      "question": "Sefiller roman\u0131n\u0131n orijinal dili hangisidir?",
+      "gold": "French",
+      "pred": "Sefiller Romanca'd\u0131r.",
+      "em": 0,
+      "lev_ratio": 0.2,
+      "latency_s": 10.413,
+      "tags": {
+        "category": "literature",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "c776481b",
+      "question": "Van Gogh'un Ay\u00e7i\u00e7ekleri tablosu hangi y\u0131lda yap\u0131lm\u0131\u015ft\u0131r?",
+      "gold": "1888",
+      "pred": "Vincent van Gogh'un 1888 y\u0131l\u0131nda yapmas\u0131d\u0131r.",
+      "em": 0,
+      "lev_ratio": 0.093,
+      "latency_s": 0.872,
+      "tags": {
+        "category": "art",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "3c220818",
+      "question": "Beatles grubunun \u00fcyelerinden hangisi de\u011fildir: John Lennon, Paul McCartney, Mick Jagger?",
+      "gold": "Mick Jagger",
+      "pred": "John Lennon",
+      "em": 0,
+      "lev_ratio": 0.091,
+      "latency_s": 0.506,
+      "tags": {
+        "category": "music",
+        "difficulty": "easy"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "897594ac",
+      "question": "\u0130lk iPhone hangi y\u0131l tan\u0131t\u0131ld\u0131?",
+      "gold": "2007",
+      "pred": "2013",
+      "em": 0,
+      "lev_ratio": 0.5,
+      "latency_s": 1.069,
+      "tags": {
+        "category": "technology",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "1f297e96",
+      "question": "Birle\u015fmi\u015f Milletler ka\u00e7 y\u0131l\u0131nda kurulmu\u015ftur?",
+      "gold": "1945",
+      "pred": "Birle\u015fmi\u015f Milletler 24 October 1945'te kuruldur.",
+      "em": 0,
+      "lev_ratio": 0.085,
+      "latency_s": 0.965,
+      "tags": {
+        "category": "politics",
+        "difficulty": "medium"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "ac15aa37",
+      "question": "So\u011fuk Sava\u015f resmen hangi anla\u015fma ile sona ermi\u015ftir?",
+      "gold": "Treaty on Conventional Armed Forces in Europe",
+      "pred": "Korean War",
+      "em": 0,
+      "lev_ratio": 0.133,
+      "latency_s": 5.115,
+      "tags": {
+        "category": "politics",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    },
+    {
+      "id": "c40204dc",
+      "question": "Alt\u0131n oran (phi) de\u011feri yakla\u015f\u0131k olarak ka\u00e7t\u0131r?",
+      "gold": "1.618",
+      "pred": "2013 a\u00f1o\u0131nda 1,618:1 aral\u0131\u011f\u0131nda oldu\u011fu i\u00e7in 1:1,618'dir.",
+      "em": 0,
+      "lev_ratio": 0.091,
+      "latency_s": 1.321,
+      "tags": {
+        "category": "math",
+        "difficulty": "hard"
+      },
+      "lang": "tr"
+    }
+  ]
+}
