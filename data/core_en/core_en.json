@@ -1,0 +1,577 @@
+[
+    {
+        "text": "What is the capital of France?",
+        "label": "Paris",
+        "metadata": {
+            "context": "France is a country in Europe. Its capital is Paris."
+        },
+        "tags": {
+            "category": "geography",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "Who wrote Romeo and Juliet?",
+        "label": "William Shakespeare",
+        "metadata": {
+            "context": "Romeo and Juliet is a famous play written by William Shakespeare."
+        },
+        "tags": {
+            "category": "literature",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is 2 + 2?",
+        "label": "4",
+        "metadata": {
+            "context": "Basic arithmetic: 2 + 2 equals 4."
+        },
+        "tags": {
+            "category": "math",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the largest planet in our solar system?",
+        "label": "Jupiter",
+        "metadata": {
+            "context": "Jupiter is the largest planet in our solar system."
+        },
+        "tags": {
+            "category": "astronomy",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "Who painted the Mona Lisa?",
+        "label": "Leonardo da Vinci",
+        "metadata": {
+            "context": "The Mona Lisa was painted by Leonardo da Vinci."
+        },
+        "tags": {
+            "category": "art",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the derivative of sin(x)?",
+        "label": "cos(x)",
+        "metadata": {
+            "context": "In differential calculus, the derivative of sin(x) with respect to x is cos(x)."
+        },
+        "tags": {
+            "category": "calculus",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "Who discovered penicillin?",
+        "label": "Alexander Fleming",
+        "metadata": {
+            "context": "Penicillin was discovered in 1928 by Alexander Fleming."
+        },
+        "tags": {
+            "category": "biology",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is 5 factorial?",
+        "label": "120",
+        "metadata": {
+            "context": "By definition, 5! = 5 × 4 × 3 × 2 × 1 = 120."
+        },
+        "tags": {
+            "category": "math",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "In what year did the Berlin Wall fall?",
+        "label": "1989",
+        "metadata": {
+            "context": "The Berlin Wall fell on November 9, 1989, marking the beginning of German reunification."
+        },
+        "tags": {
+            "category": "history",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is the time complexity of binary search on a sorted array?",
+        "label": "O(log n)",
+        "metadata": {
+            "context": "Binary search splits the search interval in half each step, giving logarithmic time complexity."
+        },
+        "tags": {
+            "category": "computer science",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is the atomic number of carbon?",
+        "label": "6",
+        "metadata": {
+            "context": "On the periodic table, carbon has atomic number 6."
+        },
+        "tags": {
+            "category": "chemistry",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the speed of light in vacuum (m/s)?",
+        "label": "299792458",
+        "metadata": {
+            "context": "By definition, the speed of light in vacuum is exactly 299,792,458 m/s."
+        },
+        "tags": {
+            "category": "physics",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What does HTTP stand for?",
+        "label": "Hypertext Transfer Protocol",
+        "metadata": {
+            "context": "HTTP is the foundation of data communication for the World Wide Web."
+        },
+        "tags": {
+            "category": "computer science",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What year did Apollo 11 land on the Moon?",
+        "label": "1969",
+        "metadata": {
+            "context": "Apollo 11 landed on the Moon on July 20, 1969."
+        },
+        "tags": {
+            "category": "history",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is Euler’s identity?",
+        "label": "e^(iπ) + 1 = 0",
+        "metadata": {
+            "context": "Euler’s identity is often cited as an example of mathematical beauty."
+        },
+        "tags": {
+            "category": "math",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is the boiling point of water at sea level (°C)?",
+        "label": "100",
+        "metadata": {
+            "context": "At standard atmospheric pressure, water boils at 100 °C."
+        },
+        "tags": {
+            "category": "chemistry",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the capital of Nigeria?",
+        "label": "Abuja",
+        "metadata": {
+            "context": "Nigeria is a country in West Africa. Its capital is Abuja."
+        },
+        "tags": {
+            "category": "geography",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the capital of Australia?",
+        "label": "Canberra",
+        "metadata": {
+            "context": "Australia’s capital city is Canberra."
+        },
+        "tags": {
+            "category": "geography",
+            "region": "Oceania",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the capital of Japan?",
+        "label": "Tokyo",
+        "metadata": {
+            "context": "Japan’s capital city is Tokyo."
+        },
+        "tags": {
+            "category": "geography",
+            "region": "Asia",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the square root of 81?",
+        "label": "9",
+        "metadata": {
+            "context": "The square root of 81 is 9."
+        },
+        "tags": {
+            "category": "math",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the value of π to two decimal places?",
+        "label": "3.14",
+        "metadata": {
+            "context": "Pi (π) is approximately 3.14159…, which rounds to 3.14 at two decimal places."
+        },
+        "tags": {
+            "category": "math",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the sum of the interior angles of a triangle in degrees?",
+        "label": "180",
+        "metadata": {
+            "context": "In Euclidean geometry, the interior angles of any triangle add up to 180 degrees."
+        },
+        "tags": {
+            "category": "math",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "Solve for x: x² - 4 = 0",
+        "label": "x = 2 or x = -2",
+        "metadata": {
+            "context": "The equation x² - 4 = 0 factors to (x - 2)(x + 2) = 0, so x = 2 or x = -2."
+        },
+        "tags": {
+            "category": "math",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "How many seconds are in one hour?",
+        "label": "3600",
+        "metadata": {
+            "context": "60 seconds × 60 minutes = 3600 seconds in one hour."
+        },
+        "tags": {
+            "category": "time",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "How many minutes are in a day?",
+        "label": "1440",
+        "metadata": {
+            "context": "24 hours × 60 minutes = 1440 minutes in a day."
+        },
+        "tags": {
+            "category": "time",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "How many hours are in a week?",
+        "label": "168",
+        "metadata": {
+            "context": "7 days × 24 hours = 168 hours in a week."
+        },
+        "tags": {
+            "category": "time",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "How many months have 31 days?",
+        "label": "7",
+        "metadata": {
+            "context": "January, March, May, July, August, October, and December each have 31 days."
+        },
+        "tags": {
+            "category": "calendar",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "Which galaxy is Earth located in?",
+        "label": "The Milky Way",
+        "metadata": {
+            "context": "Our Solar System resides in the Milky Way galaxy."
+        },
+        "tags": {
+            "category": "astronomy",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the formula for kinetic energy?",
+        "label": "½mv²",
+        "metadata": {
+            "context": "Kinetic energy is defined as one-half mass times velocity squared."
+        },
+        "tags": {
+            "category": "physics",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is Newton’s second law of motion?",
+        "label": "F = ma",
+        "metadata": {
+            "context": "Newton’s second law states that force equals mass times acceleration."
+        },
+        "tags": {
+            "category": "physics",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is the standard acceleration due to gravity on Earth (m/s²)?",
+        "label": "9.81",
+        "metadata": {
+            "context": "Standard gravity is defined as 9.81 m/s²."
+        },
+        "tags": {
+            "category": "physics",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "Which formula expresses mass–energy equivalence?",
+        "label": "E = mc²",
+        "metadata": {
+            "context": "Einstein’s mass–energy equivalence formula is E = mc²."
+        },
+        "tags": {
+            "category": "physics",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is the powerhouse of the cell?",
+        "label": "Mitochondria",
+        "metadata": {
+            "context": "Mitochondria generate most of the cell’s supply of ATP and are known as the powerhouse of the cell."
+        },
+        "tags": {
+            "category": "biology",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What molecule carries genetic information in most living organisms?",
+        "label": "DNA",
+        "metadata": {
+            "context": "Deoxyribonucleic acid (DNA) holds genetic blueprints for living organisms."
+        },
+        "tags": {
+            "category": "biology",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "Who wrote the novel 1984?",
+        "label": "George Orwell",
+        "metadata": {
+            "context": "1984 is a dystopian novel authored by George Orwell and published in 1949."
+        },
+        "tags": {
+            "category": "literature",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "Who wrote To Kill a Mockingbird?",
+        "label": "Harper Lee",
+        "metadata": {
+            "context": "To Kill a Mockingbird is a Pulitzer Prize–winning novel by Harper Lee."
+        },
+        "tags": {
+            "category": "literature",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "Who was the first President of the United States?",
+        "label": "George Washington",
+        "metadata": {
+            "context": "George Washington served as the first U.S. President from 1789 to 1797."
+        },
+        "tags": {
+            "category": "history",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "In which year did World War I begin?",
+        "label": "1914",
+        "metadata": {
+            "context": "World War I started on July 28, 1914."
+        },
+        "tags": {
+            "category": "history",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "In which year did World War II end?",
+        "label": "1945",
+        "metadata": {
+            "context": "World War II concluded on September 2, 1945."
+        },
+        "tags": {
+            "category": "history",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is the smallest country in the world by area?",
+        "label": "Vatican City",
+        "metadata": {
+            "context": "Vatican City covers about 44 hectares and is the world’s smallest independent state."
+        },
+        "tags": {
+            "category": "geography",
+            "region": "Europe",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "Which element has the chemical symbol Au?",
+        "label": "Gold",
+        "metadata": {
+            "context": "Au comes from the Latin name aurum for the metal gold."
+        },
+        "tags": {
+            "category": "chemistry",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What does GDP stand for?",
+        "label": "Gross Domestic Product",
+        "metadata": {
+            "context": "GDP measures the total market value of all final goods and services produced in a country."
+        },
+        "tags": {
+            "category": "economics",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is the currency of Japan?",
+        "label": "Yen",
+        "metadata": {
+            "context": "The official currency of Japan is the Yen (¥)."
+        },
+        "tags": {
+            "category": "economics",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the output of print(len([1, 2, 3])) in Python?",
+        "label": "3",
+        "metadata": {
+            "context": "len([1, 2, 3]) returns the number of items in the list, which is 3."
+        },
+        "tags": {
+            "category": "computer science",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "In Python, what keyword is used to define a function?",
+        "label": "def",
+        "metadata": {
+            "context": "The def keyword introduces a function definition in Python."
+        },
+        "tags": {
+            "category": "computer science",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "In JavaScript, what keyword declares a variable with block scope?",
+        "label": "let",
+        "metadata": {
+            "context": "let declares a block-scoped local variable in JavaScript."
+        },
+        "tags": {
+            "category": "computer science",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "What is the average-case time complexity of quicksort?",
+        "label": "O(n log n)",
+        "metadata": {
+            "context": "Quicksort on average partitions arrays in half each recursion, yielding O(n log n)."
+        },
+        "tags": {
+            "category": "computer science",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "If P implies Q and Q implies R, does P imply R?",
+        "label": "Yes",
+        "metadata": {
+            "context": "By transitivity of implication, if P ⇒ Q and Q ⇒ R, then P ⇒ R."
+        },
+        "tags": {
+            "category": "logic",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
+        "label": "No",
+        "metadata": {
+            "context": "The premises do not guarantee any overlap between cats and the subset of black mammals."
+        },
+        "tags": {
+            "category": "logic",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is the binary representation of decimal 10?",
+        "label": "1010",
+        "metadata": {
+            "context": "10 in base-10 converts to 1010 in base-2."
+        },
+        "tags": {
+            "category": "computer science",
+            "difficulty": "easy"
+        }
+    },
+    {
+        "text": "In git, what command stages changes for commit?",
+        "label": "git add",
+        "metadata": {
+            "context": "git add adds changes in the working directory to the staging area."
+        },
+        "tags": {
+            "category": "computer science",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "text": "What is Big O notation used for?",
+        "label": "Describing algorithm complexity",
+        "metadata": {
+            "context": "Big O notation characterizes an algorithm’s performance in terms of input size."
+        },
+        "tags": {
+            "category": "computer science",
+            "difficulty": "medium"
+        }
+    }
+]
