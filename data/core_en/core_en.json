@@ -6,7 +6,8 @@
         "tags": {
             "category": "geography",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "Who wrote Romeo and Juliet?",
@@ -15,7 +16,8 @@
         "tags": {
             "category": "literature",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is 2 + 2?",
@@ -24,7 +26,8 @@
         "tags": {
             "category": "math",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the largest planet in our solar system?",
@@ -33,7 +36,8 @@
         "tags": {
             "category": "astronomy",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "Who painted the Mona Lisa?",
@@ -42,7 +46,8 @@
         "tags": {
             "category": "art",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the derivative of sin(x)?",
@@ -51,7 +56,8 @@
         "tags": {
             "category": "calculus",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "Who discovered penicillin?",
@@ -60,7 +66,8 @@
         "tags": {
             "category": "biology",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is 5 factorial?",
@@ -69,7 +76,8 @@
         "tags": {
             "category": "math",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "In what year did the Berlin Wall fall?",
@@ -78,7 +86,8 @@
         "tags": {
             "category": "history",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the time complexity of binary search on a sorted array?",
@@ -87,7 +96,8 @@
         "tags": {
             "category": "computer science",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the atomic number of carbon?",
@@ -96,7 +106,8 @@
         "tags": {
             "category": "chemistry",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the speed of light in vacuum (m/s)?",
@@ -105,7 +116,8 @@
         "tags": {
             "category": "physics",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What does HTTP stand for?",
@@ -114,7 +126,8 @@
         "tags": {
             "category": "computer science",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What year did Apollo 11 land on the Moon?",
@@ -123,7 +136,8 @@
         "tags": {
             "category": "history",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is Euler’s identity?",
@@ -132,7 +146,8 @@
         "tags": {
             "category": "math",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the boiling point of water at sea level (°C)?",
@@ -141,7 +156,8 @@
         "tags": {
             "category": "chemistry",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the capital of Nigeria?",
@@ -150,7 +166,8 @@
         "tags": {
             "category": "geography",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the capital of Australia?",
@@ -160,7 +177,8 @@
             "category": "geography",
             "region": "Oceania",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the capital of Japan?",
@@ -170,7 +188,8 @@
             "category": "geography",
             "region": "Asia",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the square root of 81?",
@@ -179,7 +198,8 @@
         "tags": {
             "category": "math",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the value of π to two decimal places?",
@@ -188,7 +208,8 @@
         "tags": {
             "category": "math",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the sum of the interior angles of a triangle in degrees?",
@@ -197,7 +218,8 @@
         "tags": {
             "category": "math",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "Solve for x: x² - 4 = 0",
@@ -206,7 +228,8 @@
         "tags": {
             "category": "math",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "How many seconds are in one hour?",
@@ -215,7 +238,8 @@
         "tags": {
             "category": "time",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "How many minutes are in a day?",
@@ -224,7 +248,8 @@
         "tags": {
             "category": "time",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "How many hours are in a week?",
@@ -233,7 +258,8 @@
         "tags": {
             "category": "time",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "How many months have 31 days?",
@@ -242,7 +268,8 @@
         "tags": {
             "category": "calendar",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "Which galaxy is Earth located in?",
@@ -251,7 +278,8 @@
         "tags": {
             "category": "astronomy",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the formula for kinetic energy?",
@@ -260,7 +288,8 @@
         "tags": {
             "category": "physics",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is Newton’s second law of motion?",
@@ -269,7 +298,8 @@
         "tags": {
             "category": "physics",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the standard acceleration due to gravity on Earth (m/s²)?",
@@ -278,7 +308,8 @@
         "tags": {
             "category": "physics",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "Which formula expresses mass–energy equivalence?",
@@ -287,7 +318,8 @@
         "tags": {
             "category": "physics",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the powerhouse of the cell?",
@@ -296,7 +328,8 @@
         "tags": {
             "category": "biology",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What molecule carries genetic information in most living organisms?",
@@ -305,7 +338,8 @@
         "tags": {
             "category": "biology",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "Who wrote the novel 1984?",
@@ -314,7 +348,8 @@
         "tags": {
             "category": "literature",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "Who wrote To Kill a Mockingbird?",
@@ -323,7 +358,8 @@
         "tags": {
             "category": "literature",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "Who was the first President of the United States?",
@@ -332,7 +368,8 @@
         "tags": {
             "category": "history",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "In which year did World War I begin?",
@@ -341,7 +378,8 @@
         "tags": {
             "category": "history",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "In which year did World War II end?",
@@ -350,7 +388,8 @@
         "tags": {
             "category": "history",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the smallest country in the world by area?",
@@ -360,7 +399,8 @@
             "category": "geography",
             "region": "Europe",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "Which element has the chemical symbol Au?",
@@ -369,7 +409,8 @@
         "tags": {
             "category": "chemistry",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What does GDP stand for?",
@@ -378,7 +419,8 @@
         "tags": {
             "category": "economics",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the currency of Japan?",
@@ -387,7 +429,8 @@
         "tags": {
             "category": "economics",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the output of print(len([1, 2, 3])) in Python?",
@@ -396,7 +439,8 @@
         "tags": {
             "category": "computer science",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "In Python, what keyword is used to define a function?",
@@ -405,7 +449,8 @@
         "tags": {
             "category": "computer science",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "In JavaScript, what keyword declares a variable with block scope?",
@@ -414,7 +459,8 @@
         "tags": {
             "category": "computer science",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the average-case time complexity of quicksort?",
@@ -423,7 +469,8 @@
         "tags": {
             "category": "computer science",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "If P implies Q and Q implies R, does P imply R?",
@@ -432,7 +479,8 @@
         "tags": {
             "category": "logic",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
@@ -441,7 +489,8 @@
         "tags": {
             "category": "logic",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is the binary representation of decimal 10?",
@@ -450,7 +499,8 @@
         "tags": {
             "category": "computer science",
             "difficulty": "easy"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "In git, what command stages changes for commit?",
@@ -459,7 +509,8 @@
         "tags": {
             "category": "computer science",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     },
     {
         "text": "What is Big O notation used for?",
@@ -468,6 +519,7 @@
         "tags": {
             "category": "computer science",
             "difficulty": "medium"
-        }
+        },
+        "lang": "en"
     }
 ]
