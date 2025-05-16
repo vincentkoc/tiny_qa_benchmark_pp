@@ -26,7 +26,7 @@ Reference: See Section 3 ("Synthetic Data Generation Toolkit") of the TQB++ pape
 
 ## How to Run
 
-The generator script (e.g., `generator.py` or by invoking the package `tinyqabenchmarkpp.generator`) can be run from the command line. 
+The generator script (e.g., `generator.py` or by invoking the package `tinyqabenchmarkpp.generate`) can be run from the command line. 
 
 **Important Note on Temperature:** When using OpenAI reasoning models for generation (e.g., `openai/o4-mini`), you need to use `temperature=1.0` as the script has no logic to handle this. Default is 0 to encourage reproduceability as detailed in the TQB++ paper (Appendix A.1).
 
@@ -35,7 +35,7 @@ Here are conceptual examples:
 **1. Using a specific OpenAI model:**
 
 ```bash
-python -m tinyqabenchmarkpp.generator \
+python -m tinyqabenchmarkpp.generate \
     --num 10 \
     --languages "en" \
     --categories "science" \
@@ -53,7 +53,7 @@ LiteLLM allows you to use models hosted on OpenRouter. You'll need to set your `
 # Ensure OPENROUTER_API_KEY is set in your environment
 export OPENROUTER_API_KEY="your_openrouter_key_here"
 
-python -m tinyqabenchmarkpp.generator \
+python -m tinyqabenchmarkpp.generate \
     --num 15 \
     --languages "de" \
     --categories "history" \
@@ -67,7 +67,7 @@ python -m tinyqabenchmarkpp.generator \
 To use a model served locally via Ollama, ensure your Ollama server is running and the desired model is pulled (e.g., `ollama pull llama3`).
 
 ```bash
-python -m tinyqabenchmarkpp.generator \
+python -m tinyqabenchmarkpp.generate \
     --num 5 \
     --languages "es" \
     --categories "literature" \
@@ -77,7 +77,7 @@ python -m tinyqabenchmarkpp.generator \
     --base_url "http://localhost:11434" # Specify your Ollama API base URL
 ```
 
-(Note: Actual script name, package invocation, and parameters might vary slightly. Refer to the script's help message (`python -m tinyqabenchmarkpp.generator --help`) for precise usage and all available options, including how to pass API keys if not using environment variables.)
+(Note: Actual script name, package invocation, and parameters might vary slightly. Refer to the script's help message (`python -m tinyqabenchmarkpp.generate --help`) for precise usage and all available options, including how to pass API keys if not using environment variables.)
 
 ## Generation Process
 
