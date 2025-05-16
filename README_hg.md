@@ -5,6 +5,9 @@ license_link: >-
   https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENCE.data_packs.md
 task_categories:
 - question-answering
+task_ids:
+- extractive-qa
+- closed-book-qa
 language:
 - en
 - de
