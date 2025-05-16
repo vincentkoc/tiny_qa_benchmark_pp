@@ -1,0 +1,122 @@
+[
+  {
+    "text": "What is the capital of Japan?",
+    "label": "Tokyo",
+    "context": "Tokyo is the capital of Japan.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "14a45636",
+    "lang": "en",
+    "sha256": "c1593fea2bc4f384a14a6c82072351b8a2ed0f405bbeb6f08b1e5358f4d5bd5a"
+  },
+  {
+    "text": "What is the chemical symbol for water?",
+    "label": "H2O",
+    "context": "Water has the chemical formula H2O.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "26f37dc6",
+    "lang": "en",
+    "sha256": "ad1599eabcadeb33cb3d87c2a75c9b5b868c8d4bd0c898d1286273ab647861b5"
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "label": "Leonardo da Vinci",
+    "context": "The Mona Lisa was painted by Leonardo da Vinci.",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "id": "b7936ef8",
+    "lang": "en",
+    "sha256": "6857cf2389e8bef7a832879ce9d5bdad49fd80195faf6785003ddb46b5bc35c9"
+  },
+  {
+    "text": "In computer science, what does 'CPU' stand for?",
+    "label": "Central Processing Unit",
+    "context": "CPU stands for Central Processing Unit in computer science.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "id": "a6ec4415",
+    "lang": "en",
+    "sha256": "dd77982a175a58465180b270ff66b8fe24014c836ec706c532fc4f524575f261"
+  },
+  {
+    "text": "Which planet in our solar system has the most moons?",
+    "label": "Saturn",
+    "context": "Saturn has more moons than any other planet in our solar system.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "medium"
+    },
+    "id": "354f344b",
+    "lang": "en",
+    "sha256": "f15bb1d947b7c12a710da9f47dbf8e04fbea3903876a94ce38a5b31198d4897e"
+  },
+  {
+    "text": "In which year did the Berlin Wall fall?",
+    "label": "1989",
+    "context": "The Berlin Wall fell in 1989.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "id": "a3db784a",
+    "lang": "en",
+    "sha256": "f8abd6edaf18d8573306f0bd704c6ba83b55558309d0c7f809957cfb2c094c56"
+  },
+  {
+    "text": "Which element has the atomic number 26?",
+    "label": "Iron",
+    "context": "Iron has the atomic number 26.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "medium"
+    },
+    "id": "b068d420",
+    "lang": "en",
+    "sha256": "1c6102a33716474d8d02af205e3b0a906843c59b4c901c5d043e3e3ea040d7c2"
+  },
+  {
+    "text": "What novel begins with the line 'Call me Ishmael'?",
+    "label": "Moby-Dick",
+    "context": "Moby-Dick begins with the line 'Call me Ishmael'.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "hard"
+    },
+    "id": "57a159a2",
+    "lang": "en",
+    "sha256": "1d69965ad79b596a40ac781cd0c6f80c694cf2155d9aad09b1173841a7732bb8"
+  },
+  {
+    "text": "What programming language is known for its snake logo and readability?",
+    "label": "Python",
+    "context": "Python is known for its snake logo and readability.",
+    "tags": {
+      "category": "programming",
+      "difficulty": "easy"
+    },
+    "id": "531f50f9",
+    "lang": "en",
+    "sha256": "1bec6393985ac0ded605680710c77b3717bacfe1110e17229d5f82cd2aa14165"
+  },
+  {
+    "text": "Which mathematician is famous for the theorem a^2 + b^2 = c^2?",
+    "label": "Pythagoras",
+    "context": "The theorem a^2 + b^2 = c^2 is attributed to Pythagoras.",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "id": "291dfca6",
+    "lang": "en",
+    "sha256": "092e23f5e577eec31b4501cbfe4c9f8c448010b2752d102943ebba7b126e5e44"
+  }
+]

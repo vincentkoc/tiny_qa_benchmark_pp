@@ -1,0 +1,602 @@
+[
+  {
+    "text": "¿Cuál es la capital de Francia?",
+    "label": "París",
+    "context": "La capital de Francia es París.",
+    "tags": {
+      "category": "geografía",
+      "difficulty": "easy"
+    },
+    "sha256": "10a79ee7b9633c2f1f29260e4170547127f61c8310f3f898eae62aa057e35a11",
+    "id": "2aa9b900",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es la fórmula química del agua?",
+    "label": "H2O",
+    "context": "La fórmula química del agua es H2O.",
+    "tags": {
+      "category": "química",
+      "difficulty": "easy"
+    },
+    "sha256": "f28429d9df6a5fdc1fd63c3189fe1824c6e7de33ad478bbe0d377b1677f79285",
+    "id": "57a9e871",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuánto es 5 * 6?",
+    "label": "30",
+    "context": "El resultado de 5 * 6 es 30.",
+    "tags": {
+      "category": "matemáticas",
+      "difficulty": "easy"
+    },
+    "sha256": "2c6d1a676a9e1c4e5cf74a0935e6123ac3ba770690848bc351da6d19d55c33e0",
+    "id": "7ad4a59e",
+    "lang": "es"
+  },
+  {
+    "text": "¿En qué año llegó Cristóbal Colón a América?",
+    "label": "1492",
+    "context": "Cristóbal Colón llegó a América en 1492.",
+    "tags": {
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    "sha256": "39bb3b6ef35a6f96c01577e303435cc3a68bcfd0886387f20b0e46ad94eb7e8f",
+    "id": "2311cb30",
+    "lang": "es"
+  },
+  {
+    "text": "¿Quién escribió 'Cien años de soledad'?",
+    "label": "Gabriel García Márquez",
+    "context": "La novela Cien años de soledad fue escrita por Gabriel García Márquez.",
+    "tags": {
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    "sha256": "3ef3f4da47ab8d32af5ced5a1ca3e5d05bde75053ee823fbd80de3e571ee24ca",
+    "id": "98be61a0",
+    "lang": "es"
+  },
+  {
+    "text": "¿Quién es el cantante principal de la banda Queen?",
+    "label": "Freddie Mercury",
+    "context": "El cantante principal de Queen fue Freddie Mercury.",
+    "tags": {
+      "category": "música",
+      "difficulty": "easy"
+    },
+    "sha256": "63c03e76f601d02d42ce1d632cbfaa562bdd96149bedeab5511d5724fec2ebce",
+    "id": "c0192b5f",
+    "lang": "es"
+  },
+  {
+    "text": "¿Quién pintó la Mona Lisa?",
+    "label": "Leonardo da Vinci",
+    "context": "La Mona Lisa fue pintada por Leonardo da Vinci.",
+    "tags": {
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    "sha256": "b52852871e562c7757ace35ab6840782dd438543edbd3e410245cad917ac1026",
+    "id": "ce39d239",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo se llama el proceso por el que las plantas convierten la luz en energía?",
+    "label": "fotosíntesis",
+    "context": "El proceso por el que las plantas convierten la luz en energía se llama fotosíntesis.",
+    "tags": {
+      "category": "biología",
+      "difficulty": "easy"
+    },
+    "sha256": "b1f6637058bbbd577a7896a355da358d2dc1315af32ef3d74f28dcd6fb497ecc",
+    "id": "55849dc4",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es el planeta más cercano al Sol?",
+    "label": "Mercurio",
+    "context": "El planeta más cercano al Sol es Mercurio.",
+    "tags": {
+      "category": "astronomía",
+      "difficulty": "easy"
+    },
+    "sha256": "ff3467b44f7bd3013c7c0bb9bc2f69226f51562381747ed0a5dd32d8fe8e6e96",
+    "id": "ad112ce7",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuántos jugadores hay en un equipo de fútbol en el campo?",
+    "label": "11",
+    "context": "Un equipo de fútbol juega con 11 jugadores en el campo.",
+    "tags": {
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    "sha256": "35eb084c26c94d2c21a989d6d2b6d589af44a7cb2e987f8a54007f3620df3593",
+    "id": "7e52e551",
+    "lang": "es"
+  },
+  {
+    "text": "¿De qué país es originaria la pizza?",
+    "label": "Italia",
+    "context": "La pizza es originaria de Italia.",
+    "tags": {
+      "category": "gastronomía",
+      "difficulty": "easy"
+    },
+    "sha256": "679a218237198de10f684e1f01764a339c11f804a63f826032fa383d999fa680",
+    "id": "1cb508fb",
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué significa 'bonjour' en español?",
+    "label": "buenos días",
+    "context": "La palabra 'bonjour' significa buenos días en español.",
+    "tags": {
+      "category": "idiomas",
+      "difficulty": "easy"
+    },
+    "sha256": "0cb1c9459d4a2bae96df734588f6d98f0acd8cbe5d4fb8b060d8960b123e66d1",
+    "id": "dabfbb0d",
+    "lang": "es"
+  },
+  {
+    "text": "¿En qué año se lanzó el primer iPhone?",
+    "label": "2007",
+    "context": "El primer iPhone se lanzó en 2007.",
+    "tags": {
+      "category": "tecnología",
+      "difficulty": "easy"
+    },
+    "sha256": "6a3d5870148f0e60bddd56a0725a5fe9d3c6df5e4fc90e23423f4d0664865c46",
+    "id": "f04f4f37",
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué río atraviesa París?",
+    "label": "Sena",
+    "context": "El río que atraviesa París se llama Sena.",
+    "tags": {
+      "category": "geografía",
+      "difficulty": "easy"
+    },
+    "sha256": "0e766c5438916201288d0b29a0db7f4c2cd4d231e3a1c08ab12378a8b7c2c54c",
+    "id": "a1cf180e",
+    "lang": "es"
+  },
+  {
+    "text": "¿En qué año terminó la Segunda Guerra Mundial?",
+    "label": "1945",
+    "context": "La Segunda Guerra Mundial terminó en 1945.",
+    "tags": {
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    "sha256": "fad889e436b0d09dff9e588a8cef64a1587fb75c01fe9c4537c15cfd039930ab",
+    "id": "19fc8021",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es el elemento químico con el símbolo O?",
+    "label": "oxígeno",
+    "context": "El elemento químico con el símbolo O es oxígeno.",
+    "tags": {
+      "category": "química",
+      "difficulty": "easy"
+    },
+    "sha256": "4583ee5d7775c54ce800a950c3bc397c25990b6f6f7d7337b01e786a95437306",
+    "id": "0f5fb0f8",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es la unidad básica de la corriente eléctrica?",
+    "label": "amperio",
+    "context": "La unidad básica de la corriente eléctrica es el amperio.",
+    "tags": {
+      "category": "física",
+      "difficulty": "easy"
+    },
+    "sha256": "62756519e128ca34b1f8613c99423900d109c23b9c5f3ea73b4590e4442ca404",
+    "id": "406f4ace",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es la raíz cuadrada de 81?",
+    "label": "9",
+    "context": "La raíz cuadrada de 81 es 9.",
+    "tags": {
+      "category": "matemáticas",
+      "difficulty": "easy"
+    },
+    "sha256": "7afa02d373c7cc12eeea26f1a467a56369de3d6e9cda15a75f363441db782986",
+    "id": "c6071a39",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es el órgano principal de circulación de la sangre?",
+    "label": "corazón",
+    "context": "El órgano principal de circulación de la sangre es el corazón.",
+    "tags": {
+      "category": "biología",
+      "difficulty": "easy"
+    },
+    "sha256": "20fa0b772b6daa24b0a8bf969c6a79fba0cebaefdbf799ddb8f0693209711358",
+    "id": "758ab927",
+    "lang": "es"
+  },
+  {
+    "text": "¿En qué deporte se utiliza una raqueta y una pelota amarilla?",
+    "label": "tenis",
+    "context": "El deporte que utiliza una raqueta y una pelota amarilla es el tenis.",
+    "tags": {
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    "sha256": "f203d83d968c27aeed3b37d3b659525e6fcd234d1a6c3cfbe9f578f1b7094cb1",
+    "id": "4366e69c",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es la capital de Kazajistán?",
+    "label": "Nur-Sultan",
+    "context": "La capital de Kazajistán es Nur-Sultan.",
+    "tags": {
+      "category": "geografía",
+      "difficulty": "medium"
+    },
+    "sha256": "21be48d03c3ed844ea42f7f7382cd834e3d8a80ed55138f6525cfc355076a5a9",
+    "id": "31395aac",
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué partícula subatómica tiene carga negativa?",
+    "label": "electrón",
+    "context": "La partícula subatómica con carga negativa es el electrón.",
+    "tags": {
+      "category": "física",
+      "difficulty": "medium"
+    },
+    "sha256": "a9fa0edc66020e6baf8a2d9cfd752530afe64efde52a1dbab3c3f09e5dc543f4",
+    "id": "3b725ccf",
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué imperio construyó Machu Picchu?",
+    "label": "imperio Inca",
+    "context": "Machu Picchu fue construido por el imperio Inca.",
+    "tags": {
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    "sha256": "4211d98adcdba9cf80a4c1b4a4262917b366b293a030f6b0b9ba298757edd426",
+    "id": "aacaa802",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es el autor de 'Don Quijote de la Mancha'?",
+    "label": "Miguel de Cervantes",
+    "context": "Don Quijote de la Mancha fue escrito por Miguel de Cervantes.",
+    "tags": {
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    "sha256": "354e6cf13384a7ae3007d61780c4dd6052f9d51d2610e7110c65b8ed6ec12254",
+    "id": "f0bf52e2",
+    "lang": "es"
+  },
+  {
+    "text": "¿En qué año se publicó la canción 'Bohemian Rhapsody'?",
+    "label": "1975",
+    "context": "La canción Bohemian Rhapsody se publicó en 1975.",
+    "tags": {
+      "category": "música",
+      "difficulty": "medium"
+    },
+    "sha256": "5af2c658b34e980c432a28b97993e9a2a5fa8ce6d1cff6db6c6e4290ab2df49c",
+    "id": "37da38eb",
+    "lang": "es"
+  },
+  {
+    "text": "¿A qué movimiento artístico pertenece Salvador Dalí?",
+    "label": "surrealismo",
+    "context": "Salvador Dalí pertenece al movimiento surrealismo.",
+    "tags": {
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    "sha256": "fab8198463c5e4e26ef1ad52b82620594594179d545b7598a5a4bd34fd02674b",
+    "id": "7382c0ae",
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué significa HTTP en informática?",
+    "label": "HyperText Transfer Protocol",
+    "context": "HTTP es el acrónimo de HyperText Transfer Protocol.",
+    "tags": {
+      "category": "tecnología",
+      "difficulty": "medium"
+    },
+    "sha256": "7d8e0f990a679cd6873cbc2a1c450200b09222a974bdff8b7132c9ac5e7bfb2e",
+    "id": "c2598ed4",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo se llama la molécula que lleva la información genética?",
+    "label": "ADN",
+    "context": "La molécula que lleva la información genética se llama ADN.",
+    "tags": {
+      "category": "biología",
+      "difficulty": "medium"
+    },
+    "sha256": "cc534c925368278814800d4fdb59efd8b5a3390430cbeca427a8d5e1a0974880",
+    "id": "add07767",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es el valor de pi con dos decimales?",
+    "label": "3.14",
+    "context": "El valor de pi con dos decimales es 3.14.",
+    "tags": {
+      "category": "matemáticas",
+      "difficulty": "medium"
+    },
+    "sha256": "1f96db3d15cab27d6e537a08c65f09f43f812c37c30ef3d7bf52e993812b04e3",
+    "id": "a6e4efec",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es el nombre de nuestra galaxia?",
+    "label": "Vía Láctea",
+    "context": "Nuestra galaxia se llama Vía Láctea.",
+    "tags": {
+      "category": "astronomía",
+      "difficulty": "medium"
+    },
+    "sha256": "b1043a74d1a05bbe97d8916784be3afffe5dd4af71204d281bf4c702571981e1",
+    "id": "c6db0af7",
+    "lang": "es"
+  },
+  {
+    "text": "¿En qué continente está Madagascar?",
+    "label": "África",
+    "context": "Madagascar se encuentra en el continente África.",
+    "tags": {
+      "category": "geografía",
+      "difficulty": "medium"
+    },
+    "sha256": "8850bac039b611d8ef70132f0cbdaa6659dacf3a3b1ceb61347ad79314f67c97",
+    "id": "776a98b7",
+    "lang": "es"
+  },
+  {
+    "text": "¿Quién fue el primer emperador de China?",
+    "label": "Qin Shi Huang",
+    "context": "El primer emperador de China fue Qin Shi Huang.",
+    "tags": {
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    "sha256": "f133293348ee23ff10c39079220f0816e948bbef21fc619a637a4a3111225c69",
+    "id": "23de7255",
+    "lang": "es"
+  },
+  {
+    "text": "¿En qué siglo se publicó la Odisea atribuida a Homero?",
+    "label": "siglo VIII a.C.",
+    "context": "La Odisea atribuida a Homero se publicó en el siglo VIII a.C.",
+    "tags": {
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    "sha256": "2a2f8ab8696cbfa91ff59c808e3a2f77c01efc82c5598cd7e0589a4a847f27cb",
+    "id": "e6a46614",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es la distancia de un maratón olímpico oficial?",
+    "label": "42.195 kilómetros",
+    "context": "La distancia de un maratón olímpico oficial es 42.195 kilómetros.",
+    "tags": {
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    "sha256": "59c31d3d82f4a3ce58ce6180294af0e975f55bc05086e1bb97b0a3082b7bc922",
+    "id": "b36e639a",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es el pH neutro a temperatura ambiente?",
+    "label": "7",
+    "context": "El pH neutro a temperatura ambiente es 7.",
+    "tags": {
+      "category": "química",
+      "difficulty": "medium"
+    },
+    "sha256": "fe153930c45ffb0167ef39d8e5da5bb1ccaa9fdd7d39c92f559abcaf6458430b",
+    "id": "28254d4f",
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué ley describe la relación entre fuerza, masa y aceleración?",
+    "label": "Segunda ley de Newton",
+    "context": "La relación entre fuerza, masa y aceleración está descrita por la Segunda ley de Newton.",
+    "tags": {
+      "category": "física",
+      "difficulty": "medium"
+    },
+    "sha256": "e88ae24abc34a4b634431b81f216872bd5e9e3b4433557b3b00646f3a0c0baad",
+    "id": "e88e550c",
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué forma verbal del verbo 'haber' se usa en pretérito perfecto compuesto?",
+    "label": "he",
+    "context": "En pretérito perfecto compuesto se utiliza la forma he del verbo haber.",
+    "tags": {
+      "category": "idiomas",
+      "difficulty": "medium"
+    },
+    "sha256": "97d95a834a0132dd9632384f335dd78ab25f7c5e4bac2c63d5292b0d173e94f4",
+    "id": "476bc75d",
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué compañía desarrolló el sistema operativo Windows?",
+    "label": "Microsoft",
+    "context": "El sistema operativo Windows fue desarrollado por Microsoft.",
+    "tags": {
+      "category": "tecnología",
+      "difficulty": "medium"
+    },
+    "sha256": "20ac94d863fa982a65abf743afcb97ac30316c4757a8c52c8117171d0a322002",
+    "id": "8069ed6a",
+    "lang": "es"
+  },
+  {
+    "text": "¿En qué ciudad europea se encuentra el Museo del Prado?",
+    "label": "Madrid",
+    "context": "El Museo del Prado se encuentra en Madrid.",
+    "tags": {
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    "sha256": "ee7d8558635db2fc7a4a22f9b2d7a2728757c7615c8dcccef0ccb35d201ed309",
+    "id": "9ddfe124",
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué instrumento de viento tiene llaves metálicas?",
+    "label": "clarinete",
+    "context": "El clarinete es un instrumento de viento que tiene llaves metálicas.",
+    "tags": {
+      "category": "música",
+      "difficulty": "medium"
+    },
+    "sha256": "5267c4018652df903eeb232d3d8e1d52c051f1dd8a26951421913a7e5874d4a8",
+    "id": "a899daaf",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es la constante de Planck reducida?",
+    "label": "h-bar",
+    "context": "La constante de Planck reducida se denomina h-bar.",
+    "tags": {
+      "category": "física",
+      "difficulty": "hard"
+    },
+    "sha256": "f645568c0a80db9ea118f41dc8906c938acfca66101cc78262c30ddba68316a8",
+    "id": "c462d034",
+    "lang": "es"
+  },
+  {
+    "text": "¿En qué año se fundó la dinastía Han en China?",
+    "label": "206 a.C.",
+    "context": "La dinastía Han en China se fundó en 206 a.C.",
+    "tags": {
+      "category": "historia",
+      "difficulty": "hard"
+    },
+    "sha256": "3b2fd04d6a863115ca64525a634fc426c64bfb0d2069f88955e9fb05e229b233",
+    "id": "fb8ec43b",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es el resultado de la integral de e^x dx?",
+    "label": "e^x + C",
+    "context": "El resultado de la integral de e^x dx es e^x + C.",
+    "tags": {
+      "category": "matemáticas",
+      "difficulty": "hard"
+    },
+    "sha256": "b3a23c9e32d70c96c51e481d41ad156a352fe659b3d6565abc2186cbd412734f",
+    "id": "1459a6ab",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es el país con mayor extensión territorial del mundo?",
+    "label": "Rusia",
+    "context": "El país con mayor extensión territorial del mundo es Rusia.",
+    "tags": {
+      "category": "geografía",
+      "difficulty": "hard"
+    },
+    "sha256": "48922a87a5e433f1e13b8f366e3a19bb546198727ecdfc7b1019c73d9bfbe4f7",
+    "id": "39736737",
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué tipo de enlace une a los aminoácidos en una proteína?",
+    "label": "enlace peptídico",
+    "context": "Los aminoácidos en una proteína están unidos por un enlace peptídico.",
+    "tags": {
+      "category": "biología",
+      "difficulty": "hard"
+    },
+    "sha256": "a78000b6773add622f1bb123c8042a26489978ff8f8f70920d772242f67ef5e6",
+    "id": "38354764",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo se llama la obra de Dante que describe el viaje al Infierno, Purgatorio y Paraíso?",
+    "label": "La Divina Comedia",
+    "context": "La obra de Dante que describe el viaje al Infierno, Purgatorio y Paraíso se titula La Divina Comedia.",
+    "tags": {
+      "category": "literatura",
+      "difficulty": "hard"
+    },
+    "sha256": "ed4b74ab702053071b90fa52bbc0e921fbce778117ee5c2bb47bc67532d82a45",
+    "id": "e63b8dd0",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es el compás de la 'Sinfonía del Nuevo Mundo' de Dvořák?",
+    "label": "4/4",
+    "context": "La Sinfonía del Nuevo Mundo de Dvořák está escrita en compás 4/4.",
+    "tags": {
+      "category": "música",
+      "difficulty": "hard"
+    },
+    "sha256": "11d653d7e2910b2b1cc36a28b17b67e4761df6e671e90e396e11c805984f8ed7",
+    "id": "356fe59b",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es la ecuación que relaciona energía y masa según Einstein?",
+    "label": "E = mc^2",
+    "context": "La ecuación que relaciona energía y masa según Einstein es E = mc^2.",
+    "tags": {
+      "category": "física",
+      "difficulty": "hard"
+    },
+    "sha256": "f9019e0450b8fc8dd77f0c634d1ca8b75ef724287b4c704f06ed6f507990424a",
+    "id": "eb3b7f0f",
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es la geometría molecular del agua según la teoría VSEPR?",
+    "label": "tetraédrica",
+    "context": "La geometría molecular del agua según la teoría VSEPR es tetraédrica.",
+    "tags": {
+      "category": "química",
+      "difficulty": "hard"
+    },
+    "sha256": "51809020b16db0dfdbed431c9c86ae05aa5a22a78f0c951f1d92ee90360326b4",
+    "id": "bce4d60d",
+    "lang": "es"
+  },
+  {
+    "text": "¿En qué estilo arquitectónico se enmarca la catedral de Notre Dame de París?",
+    "label": "gótico",
+    "context": "La catedral de Notre Dame de París se enmarca en el estilo gótico.",
+    "tags": {
+      "category": "arte",
+      "difficulty": "hard"
+    },
+    "sha256": "ed439aacd2ccc22402713443d09377477b0ed7ac65bd0f4f6fe8b517eece88f4",
+    "id": "00078db3",
+    "lang": "es"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "text": "地球距离太阳有多远？",
+    "label": "1.496亿公里",
+    "context": "地球距离太阳平均约为1.496亿公里。",
+    "tags": {
+      "category": "天文",
+      "difficulty": "medium"
+    },
+    "sha256": "2d7a8f376058faee8a5a8077d02f15296c8c6a036ef8217b34c548b10bdbc872",
+    "id": "bf2f6445",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "中国的首都是哪里？",
+    "label": "北京",
+    "context": "中国的首都是北京。",
+    "tags": {
+      "category": "地理",
+      "difficulty": "easy"
+    },
+    "sha256": "e57258ecc7e83e3758edcde5766f6ea93aa96d180384a0bafb974be666f6c8eb",
+    "id": "64cd9cf2",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "水的化学式是什么？",
+    "label": "H2O",
+    "context": "水的化学式是H2O。",
+    "tags": {
+      "category": "科学",
+      "difficulty": "easy"
+    },
+    "sha256": "ca5fc3698e9dd6f67417cc763dda8866481d6b51590af8f894430ca022625180",
+    "id": "4bbf5b36",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "莎士比亚是谁？",
+    "label": "威廉·莎士比亚",
+    "context": "《哈姆雷特》的作者是威廉·莎士比亚。",
+    "tags": {
+      "category": "文学",
+      "difficulty": "medium"
+    },
+    "sha256": "bbb3fa640a13976cea2cdfe18e719d25e2e7c4cae9a8bf9ec823d7348a53a3a3",
+    "id": "6ff5926f",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "2 的 10 次方是多少？",
+    "label": "1024",
+    "context": "2 的 10 次方等于1024。",
+    "tags": {
+      "category": "数学",
+      "difficulty": "easy"
+    },
+    "sha256": "e17fbb2eb5640ece2cd6c8b0be5a87dc7fd2a5b2242ca36d38c8d83c83953c5b",
+    "id": "5b363909",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "世界上最高的山峰是？",
+    "label": "珠穆朗玛峰",
+    "context": "世界上最高的山峰是珠穆朗玛峰。",
+    "tags": {
+      "category": "地理",
+      "difficulty": "easy"
+    },
+    "sha256": "cab9a7ce992d598a9cb5a6336c410fce94c83d444a1b3266b8ebf63fff3ba6f4",
+    "id": "775eb31e",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "北京奥运会是哪一年举行的？",
+    "label": "2008年",
+    "context": "北京奥运会于2008年举行。",
+    "tags": {
+      "category": "体育",
+      "difficulty": "easy"
+    },
+    "sha256": "9033bb616d5e301cc67c61ebddc0322eda7b35dbb980f193ac0706fa34bf96cc",
+    "id": "266bf307",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "《星球大战》的导演是谁？",
+    "label": "乔治·卢卡斯",
+    "context": "《星球大战》的导演是乔治·卢卡斯。",
+    "tags": {
+      "category": "电影",
+      "difficulty": "medium"
+    },
+    "sha256": "3d9521547afb93e879629e11322417d48108016c089c733542b16c5040a004fc",
+    "id": "a1ff23ce",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "艾滋病病毒的英文缩写是什么？",
+    "label": "HIV",
+    "context": "艾滋病病毒的英文缩写是HIV。",
+    "tags": {
+      "category": "健康",
+      "difficulty": "medium"
+    },
+    "sha256": "c70b187079c09c8f8538bcf113efe0745e86cb5d0b232dcb665cc8b6647fea1b",
+    "id": "5b93e89c",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "最长河流是哪条？",
+    "label": "尼罗河",
+    "context": "世界上最长的河流是尼罗河。",
+    "tags": {
+      "category": "地理",
+      "difficulty": "easy"
+    },
+    "sha256": "8abba1fdf42098875c570f33eb9e5b80e65a8976a348a788a4b4587f6ffce149",
+    "id": "c5815880",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "光速是多少？",
+    "label": "299792458米/秒",
+    "context": "真空中的光速是299792458米/秒。",
+    "tags": {
+      "category": "物理",
+      "difficulty": "medium"
+    },
+    "sha256": "a2267fa5283d5161ab1d1efcf976a19bdcec1f4415d8df3e9778fc7c29010e37",
+    "id": "9bcb5c58",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "比尔·盖茨在哪一年出生？",
+    "label": "1955年",
+    "context": "比尔·盖茨出生于1955年。",
+    "tags": {
+      "category": "科技",
+      "difficulty": "medium"
+    },
+    "sha256": "28ac15d60e290bd7277f9964305f46a1e1d35e31dad8db1fad76d762dff47ec1",
+    "id": "747d2d00",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "《三国演义》的作者是谁？",
+    "label": "罗贯中",
+    "context": "《三国演义》的作者是罗贯中。",
+    "tags": {
+      "category": "文学",
+      "difficulty": "medium"
+    },
+    "sha256": "6d16afa52ad4d23ce81d89070462ffc2871836c6fdfc2b0f7233af4a4ab12b27",
+    "id": "09f24640",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "人的正常体温是多少？",
+    "label": "37摄氏度",
+    "context": "人的正常体温大约是37摄氏度。",
+    "tags": {
+      "category": "健康",
+      "difficulty": "easy"
+    },
+    "sha256": "5c7157abc48deb72762185d5b0aafc6b36a3cc8f23400a0650f343b2dc7c4cdf",
+    "id": "d25e34a7",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "牛顿发现万有引力定律是哪一年？",
+    "label": "1687年",
+    "context": "牛顿在1687年发表了《自然哲学的数学原理》，提出万有引力定律。",
+    "tags": {
+      "category": "科学",
+      "difficulty": "hard"
+    },
+    "sha256": "7e84776b8fa126ab8fad4e940d84d96f487d02098f1e93a0cfc5280b07de31b1",
+    "id": "df4ab81f",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "三角形内角和是多少度？",
+    "label": "180度",
+    "context": "任意三角形的内角和为180度。",
+    "tags": {
+      "category": "数学",
+      "difficulty": "easy"
+    },
+    "sha256": "a65dd6476e72cf09e38d1b90b0a3f0f3b7c13a2d2a04562a3cf8e82ffec8a8a7",
+    "id": "72bca963",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "人类首次登月是哪一年？",
+    "label": "1969年",
+    "context": "阿波罗11号于1969年首次实现人类登月。",
+    "tags": {
+      "category": "历史",
+      "difficulty": "medium"
+    },
+    "sha256": "d11938dca8da4906b5661131fa35b3b1cecd9d1b12ea8455f6f470ea8219af90",
+    "id": "7def12b4",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "中文拼音中有几个声母？",
+    "label": "23个",
+    "context": "汉语拼音共有23个声母。",
+    "tags": {
+      "category": "语言",
+      "difficulty": "hard"
+    },
+    "sha256": "3d12fb76ddcca4022a0b1f91b203e319103e83a744bc8c3700b6f8efdd904aa3",
+    "id": "9947f597",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "《悲惨世界》的作者是谁？",
+    "label": "雨果",
+    "context": "《悲惨世界》的作者是法国作家雨果。",
+    "tags": {
+      "category": "文学",
+      "difficulty": "medium"
+    },
+    "sha256": "f5abac6513cae9d09cc80d2541055b574ff6ef66420ba93e6441289a2d894888",
+    "id": "1a93fbc9",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "地球自转一周大约需要多长时间？",
+    "label": "24小时",
+    "context": "地球自转一周大约需要24小时。",
+    "tags": {
+      "category": "科学",
+      "difficulty": "easy"
+    },
+    "sha256": "5bfeedde58b435305a533d4ad8d02809f28b2db3a8bcc54567fdca3f9501be26",
+    "id": "1b85cbe3",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "世界人口最多的国家是？",
+    "label": "中国",
+    "context": "世界人口最多的国家是中国。",
+    "tags": {
+      "category": "地理",
+      "difficulty": "easy"
+    },
+    "sha256": "d261f8bb57adad275f021663e7799c1237c97b6c6ff9485bf310454d0cc1a2ed",
+    "id": "8e054731",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "爱因斯坦的相对论分为几部分？",
+    "label": "两部分",
+    "context": "爱因斯坦的相对论主要分为狭义相对论和广义相对论两部分。",
+    "tags": {
+      "category": "科学",
+      "difficulty": "medium"
+    },
+    "sha256": "bd66bafeed3703a1180f3a0aadf0d1018ea22fc104054958caab5043a2bbacb4",
+    "id": "765bd4f4",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "奥运五环的颜色有几种？",
+    "label": "5种",
+    "context": "奥运会的五环分别是5种颜色。",
+    "tags": {
+      "category": "体育",
+      "difficulty": "easy"
+    },
+    "sha256": "bb2e7c47a506c73fa1c940c7b3533d18d72ea4adfd77ae2c31cc027b51f34e6b",
+    "id": "aa1fe695",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "计算机存储的基本单位是什么？",
+    "label": "比特",
+    "context": "计算机存储的最小基本单位是比特。",
+    "tags": {
+      "category": "技术",
+      "difficulty": "medium"
+    },
+    "sha256": "42b234d62ef6cc0f7c5eb9ceaa96a6b359504d6a11a1a87e5530da0ff8e74277",
+    "id": "1d726c91",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "音速约等于多少？",
+    "label": "343米/秒",
+    "context": "空气中20°C时音速约为343米/秒。",
+    "tags": {
+      "category": "物理",
+      "difficulty": "medium"
+    },
+    "sha256": "63bcea81b505df829d226ed394f2dd92906f0ab591652f6f536f6b0a58b6262d",
+    "id": "f1e095d1",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "人类最长寿命记录是谁？",
+    "label": "让娜·路易丝·卡尔芒",
+    "context": "人类历史上最长寿命记录保持者是让娜·路易丝·卡尔芒。",
+    "tags": {
+      "category": "历史",
+      "difficulty": "hard"
+    },
+    "sha256": "ebed718f3794dad2c0fa2e6e448ddd212d6c802cd5a87e8cbd9bc2cabf1e675e",
+    "id": "f8251fcc",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "中国古代的四大发明有哪些？",
+    "label": "造纸术、印刷术、火药、指南针",
+    "context": "中国古代的四大发明是造纸术、印刷术、火药、指南针。",
+    "tags": {
+      "category": "历史",
+      "difficulty": "medium"
+    },
+    "sha256": "4cb9e48750bbf6e9e185b690c31a0731239b508793e135aed35ba3d2a5cd5303",
+    "id": "7c5269b1",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "《哈利·波特》系列作家是谁？",
+    "label": "J·K·罗琳",
+    "context": "《哈利·波特》系列的作者是J·K·罗琳。",
+    "tags": {
+      "category": "文学",
+      "difficulty": "easy"
+    },
+    "sha256": "44ea8edf1b1bc1092aa6a6066bd7424fc51121b3ab74eecce3713c29278acbb5",
+    "id": "c2cdc734",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "牛奶的主要成分是什么？",
+    "label": "水",
+    "context": "牛奶的主要成分是水。",
+    "tags": {
+      "category": "科学",
+      "difficulty": "easy"
+    },
+    "sha256": "5ac572b18598f5bde05e196c2787bfcae7b31e911ef6ef1b11572c9ee68ff878",
+    "id": "b8a77a2e",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "长城的总长度约为多少？",
+    "label": "2.1万公里",
+    "context": "中国万里长城的总长度约为2.1万公里。",
+    "tags": {
+      "category": "历史",
+      "difficulty": "medium"
+    },
+    "sha256": "60dfe97b0ee06136be0e0495bcb0e2d0725e51b15353aa4a3e0f9b73b2a2d1e8",
+    "id": "5e14e4f9",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "HTML 的全称是什么？",
+    "label": "超文本标记语言",
+    "context": "HTML的全称是超文本标记语言。",
+    "tags": {
+      "category": "技术",
+      "difficulty": "easy"
+    },
+    "sha256": "bedcbc8daac4b378d8653b1bdf8073d31d7d186d8905a4c95015527eb3ffcfad",
+    "id": "55d000ed",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "金字塔位于哪个国家？",
+    "label": "埃及",
+    "context": "世界著名的金字塔位于埃及。",
+    "tags": {
+      "category": "地理",
+      "difficulty": "easy"
+    },
+    "sha256": "b79568d553694711fcb109e4ad18fa64b77db6179fe9f38ae2b3a7107fb88c3d",
+    "id": "15450e60",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "钢铁侠的真名是什么？",
+    "label": "托尼·斯塔克",
+    "context": "漫威英雄钢铁侠的真名是托尼·斯塔克。",
+    "tags": {
+      "category": "电影",
+      "difficulty": "medium"
+    },
+    "sha256": "7d0c38e00d6fc3cedd0242b8fff378087c5ba55a2ab16f288e98eea655293e4c",
+    "id": "f11ee914",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "世界上最大的哺乳动物是？",
+    "label": "蓝鲸",
+    "context": "世界上最大的哺乳动物是蓝鲸。",
+    "tags": {
+      "category": "科学",
+      "difficulty": "easy"
+    },
+    "sha256": "1670798c685c1a0a4758adfc5437df4969aa5ca88b9ce55d5093edfa765acccd",
+    "id": "76dca597",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "第一颗人造卫星叫什么？",
+    "label": "斯普特尼克1号",
+    "context": "世界上第一颗人造卫星是斯普特尼克1号。",
+    "tags": {
+      "category": "科学",
+      "difficulty": "medium"
+    },
+    "sha256": "3f8c3290bdbe9e9a791babca6bb2616e0d98abe46c6205198fdeddab836bc5b7",
+    "id": "1a5516d8",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "皮肤是人体最大的什么？",
+    "label": "器官",
+    "context": "皮肤是人体最大的器官。",
+    "tags": {
+      "category": "健康",
+      "difficulty": "easy"
+    },
+    "sha256": "bdb83c67cb9a93c8bcb1cbce3b1041afa271be0538aca71daa5f99aea55465fb",
+    "id": "d2db7bda",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "《权力的游戏》的作者是谁？",
+    "label": "乔治·R·R·马丁",
+    "context": "《权力的游戏》的作者是乔治·R·R·马丁。",
+    "tags": {
+      "category": "文学",
+      "difficulty": "medium"
+    },
+    "sha256": "fb2d0c35b13d95aa21c75065b047c1deb8b10115b707b01ed5a0914813c4cffb",
+    "id": "cc09d900",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "太阳系中最大的行星是？",
+    "label": "木星",
+    "context": "太阳系中最大的行星是木星。",
+    "tags": {
+      "category": "天文",
+      "difficulty": "easy"
+    },
+    "sha256": "52009f3fa50f909ca9a2d21930b9c8cb876fca1b36f65aecb3c656c619732c2f",
+    "id": "5d4a9068",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "十五的倍数有哪些？",
+    "label": "15,30,45,60,75,...",
+    "context": "十五的倍数包括15,30,45,60,75,....",
+    "tags": {
+      "category": "数学",
+      "difficulty": "hard"
+    },
+    "sha256": "f6b0411e2db81193848c1c2f11eb1191b38510c35d3299c28757bf5fd966423c",
+    "id": "7fd4bc26",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "微积分的创始人是谁？",
+    "label": "牛顿和莱布尼茨",
+    "context": "微积分是由牛顿和莱布尼茨独立发展出来的。",
+    "tags": {
+      "category": "数学",
+      "difficulty": "hard"
+    },
+    "sha256": "bf94417c50a8c974cef594b4394b0ed693d989791dce54bea8b10541e3af76de",
+    "id": "4a97a619",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "中国四大名著包括哪些？",
+    "label": "《红楼梦》《西游记》《水浒传》《三国演义》",
+    "context": "中国四大名著是《红楼梦》《西游记》《水浒传》《三国演义》。",
+    "tags": {
+      "category": "文学",
+      "difficulty": "medium"
+    },
+    "sha256": "16462098b62466fd1cd6de78fcb73c15a251f19ac23224767ebd5a3dc5207cf4",
+    "id": "9ed0456c",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "皮卡丘属于哪种类型的宝可梦？",
+    "label": "电系",
+    "context": "皮卡丘属于电系宝可梦。",
+    "tags": {
+      "category": "娱乐",
+      "difficulty": "easy"
+    },
+    "sha256": "e7d516bf2d7328b2847d37a839601b118b93e2f9b57a8afd7c6cb9821558f50f",
+    "id": "7b819204",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "常温下，水的沸点是多少？",
+    "label": "100摄氏度",
+    "context": "常压下水的沸点是100摄氏度。",
+    "tags": {
+      "category": "化学",
+      "difficulty": "easy"
+    },
+    "sha256": "90030ab321878f14fce0f1088e3d54b580045b2e2e2c24fd46b338954f4df9f6",
+    "id": "5e1f1ad3",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "世界上最深的海沟是哪个？",
+    "label": "马里亚纳海沟",
+    "context": "世界上最深的海沟是马里亚纳海沟。",
+    "tags": {
+      "category": "地理",
+      "difficulty": "medium"
+    },
+    "sha256": "14c1e8ab4b62c6f188e29b4d0a0bba791a523c94635c0d7cb25780b377671d5a",
+    "id": "c29d99f8",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "iPhone 的制造公司是？",
+    "label": "苹果公司",
+    "context": "iPhone 的制造公司是苹果公司。",
+    "tags": {
+      "category": "技术",
+      "difficulty": "easy"
+    },
+    "sha256": "36c9a065357996b8374ad80f5baf67021efc71d334325b7d0961a9ec2b6224b3",
+    "id": "14351dbf",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "元素周期表中原子序数最小的是？",
+    "label": "氢",
+    "context": "元素周期表中原子序数最小的是氢。",
+    "tags": {
+      "category": "科学",
+      "difficulty": "easy"
+    },
+    "sha256": "97d2a7b5294f39477b19ed82c28c78350abeafd136c4441dd53ea743548e2ae1",
+    "id": "a378a967",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "常说的七大洲是哪七个？",
+    "label": "亚洲、非洲、北美洲、南美洲、南极洲、欧洲、大洋洲",
+    "context": "世界公认的七大洲是亚洲、非洲、北美洲、南美洲、南极洲、欧洲、大洋洲。",
+    "tags": {
+      "category": "地理",
+      "difficulty": "medium"
+    },
+    "sha256": "0528e6b202462272222817c71a631c88b6aef1afef8b651a7cbf30fa90c69f2b",
+    "id": "50f3146b",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "人类语言中使用最广泛的是？",
+    "label": "汉语",
+    "context": "按母语使用者人数统计，人类使用最广泛的语言是汉语。",
+    "tags": {
+      "category": "语言",
+      "difficulty": "medium"
+    },
+    "sha256": "6da82a28d0268a1826ecd1383979b832c3220c52491190f6a10e45ca7b61a77c",
+    "id": "d890fb3a",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "电影《泰坦尼克号》的男主角是谁？",
+    "label": "莱昂纳多·迪卡普里奥",
+    "context": "电影《泰坦尼克号》的男主角是莱昂纳多·迪卡普里奥。",
+    "tags": {
+      "category": "电影",
+      "difficulty": "easy"
+    },
+    "sha256": "96d565f13cdb4005a257dee218ea9a0fd9acf7e6d16faf3bb824f4cce326ea2b",
+    "id": "6d21147b",
+    "lang": "zh-CN"
+  },
+  {
+    "text": "世界上最大的沙漠是？",
+    "label": "撒哈拉沙漠",
+    "context": "世界上最大的热带沙漠是撒哈拉沙漠。",
+    "tags": {
+      "category": "地理",
+      "difficulty": "medium"
+    },
+    "sha256": "ab228856dfdd2a0b529bab3634f071c804761bf452c11342f6b6e7cb836f80a6",
+    "id": "ce82d205",
+    "lang": "zh-CN"
+  }
+]

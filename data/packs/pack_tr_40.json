@@ -1,0 +1,482 @@
+[
+  {
+    "text": "5 * 6 kaçtır?",
+    "label": "30",
+    "context": "5 * 6 işlemi 30 sonucunu verir.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "ec5fe397",
+    "lang": "tr",
+    "sha256": "c60bec331687c9a92dc97f4aca0a96d35e0806df50f8f264125c4f8e6d0ca745"
+  },
+  {
+    "text": "Türkiye'nin başkenti neresidir?",
+    "label": "Ankara",
+    "context": "Türkiye'nin başkenti Ankara'dır.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "e09b51b3",
+    "lang": "tr",
+    "sha256": "6749d48484170197e3457e1c3af8ebfd186aa1b1fe995471a7b915fc752158c0"
+  },
+  {
+    "text": "Atatürk kaç yılında doğmuştur?",
+    "label": "1881",
+    "context": "Mustafa Kemal Atatürk 1881 yılında doğmuştur.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "id": "51957c84",
+    "lang": "tr",
+    "sha256": "e635a792d2ede64a6e4d098d5178cc591908449b18e2e2c46c4e90ac7971e11b"
+  },
+  {
+    "text": "Su kaç derecede donar?",
+    "label": "0°C",
+    "context": "Su 0°C'de donar.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "e3c4ed5f",
+    "lang": "tr",
+    "sha256": "c500c25e5f9524499bdb7b9900c86bbcb8a3677ae9ea4de6b7ee48129895458b"
+  },
+  {
+    "text": "İstanbul'u Dinliyorum şiirinin şairi kimdir?",
+    "label": "Orhan Veli Kanık",
+    "context": "İstanbul'u Dinliyorum şiirinin şairi Orhan Veli Kanık'tır.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "id": "1b2d1f9b",
+    "lang": "tr",
+    "sha256": "af38d5923376526590bf1fa287d7386d42265b8b1861596ec22046107fcad278"
+  },
+  {
+    "text": "Futbolda kaleci hangi numarayı genellikle giyer?",
+    "label": "1",
+    "context": "Futbolda kaleci genellikle 1 numarayı giyer.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "id": "e731c55d",
+    "lang": "tr",
+    "sha256": "02827dcda0c8f638f4f4fe67657496f78bd0f6558067b1771f75b822fb440bb3"
+  },
+  {
+    "text": "Güneş sistemimizdeki en büyük gezegen hangisidir?",
+    "label": "Jupiter",
+    "context": "Güneş sistemimizdeki en büyük gezegen Jupiter'dir.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "0fbd198b",
+    "lang": "tr",
+    "sha256": "3038128314a60324a3598307a3ce0453f4668bc3211f854f48e8e65c9195a783"
+  },
+  {
+    "text": "12'nin 3 katının karesi kaçtır?",
+    "label": "144",
+    "context": "12'nin 3 katının karesi 144'tür.",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "id": "d90e12c6",
+    "lang": "tr",
+    "sha256": "4ab77ecde01a3a257dfece9c70fd6f392ec4b7569b56ef7ac1230f328958a673"
+  },
+  {
+    "text": "Nil Nehri hangi kıtada yer alır?",
+    "label": "Africa",
+    "context": "Nil Nehri Africa kıtasında yer alır.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "id": "0de3b8d5",
+    "lang": "tr",
+    "sha256": "f82b15393f849f6fd0dd0ac15c710a5ac4c5e8a822f932b46b7c5e7348e53678"
+  },
+  {
+    "text": "İstanbul'un fethi hangi yılda gerçekleşti?",
+    "label": "1453",
+    "context": "İstanbul'un fethi 1453 yılında gerçekleşti.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "id": "8ec86c9b",
+    "lang": "tr",
+    "sha256": "542e27834a82a19748e686c0873cfe090be751d58b98231cfd17215f219f1864"
+  },
+  {
+    "text": "Nötr pH değeri kaçtır?",
+    "label": "7",
+    "context": "Nötr pH değeri 7'dir.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "medium"
+    },
+    "id": "cc652a43",
+    "lang": "tr",
+    "sha256": "520fe4dcca1e3c819fb559a19b7e8f7a460d4a303f4864eadee5e2f61559c192"
+  },
+  {
+    "text": "Romeo ve Juliet oyununu kim yazmıştır?",
+    "label": "William Shakespeare",
+    "context": "Romeo ve Juliet oyununu William Shakespeare yazmıştır.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "id": "3b17f591",
+    "lang": "tr",
+    "sha256": "8c0ac75d1511bd1fb1f908477d0db03e9141223e00dc6cb4a81d5fdce8962d52"
+  },
+  {
+    "text": "Mona Lisa tablosunun ressamı kimdir?",
+    "label": "Leonardo da Vinci",
+    "context": "Mona Lisa tablosunun ressamı Leonardo da Vinci'dir.",
+    "tags": {
+      "category": "art",
+      "difficulty": "medium"
+    },
+    "id": "137e5a8e",
+    "lang": "tr",
+    "sha256": "642c0eeed05e98759e287834031536cdf47970de9335182fd8e9f34c4e259a6a"
+  },
+  {
+    "text": "İnsan vücudunda en büyük iç organ hangisidir?",
+    "label": "Liver",
+    "context": "İnsan vücudunda en büyük iç organ Liver'dir.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "medium"
+    },
+    "id": "1050b947",
+    "lang": "tr",
+    "sha256": "0bb35e23bfdcf8b88ce4aeebde5abfd7f28b0bb2b22d3735d44e6c937a602cf8"
+  },
+  {
+    "text": "Beethoven'ın kaçıncı senfonisi 'Sevinç Neşesi' olarak bilinir?",
+    "label": "9",
+    "context": "Beethoven'ın 9. senfonisi 'Sevinç Neşesi' olarak bilinir.",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "id": "9c7444a1",
+    "lang": "tr",
+    "sha256": "ffd763b3ed9f39980b18e4bbae5bcb4ec92305d4aac85fff07bf57e7a11f1b76"
+  },
+  {
+    "text": "Dünya çapında en çok kullanılan programlama dili hangisidir?",
+    "label": "Python",
+    "context": "Dünya çapında en çok kullanılan programlama dili Python'dur.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "id": "75b20101",
+    "lang": "tr",
+    "sha256": "5787b3d2fd9483a5938be040bbd3d06a4d5531f69bfdc01c7eee862639ac69e4"
+  },
+  {
+    "text": "Çözüme göre x^2 - 4x + 4 = 0 denkleminin kökü kaçtır?",
+    "label": "2",
+    "context": "x^2 - 4x + 4 = 0 denkleminin kökü 2'dir.",
+    "tags": {
+      "category": "math",
+      "difficulty": "hard"
+    },
+    "id": "83f7e7d0",
+    "lang": "tr",
+    "sha256": "78e4b23d5b45bcd9310e1a15aa61a56f5643f759f9147483e3741e5a45292c2d"
+  },
+  {
+    "text": "Einstein'ın izafiyet teorisinde E=mc^2 denklemindeki c hız sabiti olarak neyi temsil eder?",
+    "label": "speed of light",
+    "context": "Einstein'ın izafiyet teorisinde c değerine speed of light denir.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "hard"
+    },
+    "id": "290fda3f",
+    "lang": "tr",
+    "sha256": "f9be616004f72a69b0bfb06614aed000b9856ac20cc876fe1fcb80681329a1fd"
+  },
+  {
+    "text": "NaCl bileşiği hangi iki elementten oluşur?",
+    "label": "Sodium and Chlorine",
+    "context": "NaCl bileşiği Sodium and Chlorine elementlerinden oluşur.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "hard"
+    },
+    "id": "9c2a007f",
+    "lang": "tr",
+    "sha256": "09968426bbe94624874bf33fb27607053d8a9f625f014badb3c8bd614e88accd"
+  },
+  {
+    "text": "DNA çift sarmal yapısını kim keşfetmiştir?",
+    "label": "James Watson and Francis Crick",
+    "context": "DNA çift sarmal yapısını James Watson and Francis Crick keşfetmiştir.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "hard"
+    },
+    "id": "b5b255d6",
+    "lang": "tr",
+    "sha256": "a2daf4f5bfc0a04d20f6aa8532223eac3e0ccbca91100faa5f4ec618b0a1cdae"
+  },
+  {
+    "text": "Kongo Nehri hangi iki ülkeyi sınır olarak paylaşır?",
+    "label": "Democratic Republic of the Congo and Republic of the Congo",
+    "context": "Kongo Nehri Democratic Republic of the Congo and Republic of the Congo ülkelerini sınır olarak paylaşır.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "hard"
+    },
+    "id": "d7e3bba7",
+    "lang": "tr",
+    "sha256": "e5e438ddd532bcc01912305123d62a145be7ff41053b5ce268fb20efcf958d08"
+  },
+  {
+    "text": "Napolyon Bonapart hangi savaşta Waterloo'da yenildi?",
+    "label": "Battle of Waterloo",
+    "context": "Napolyon Bonapart Battle of Waterloo savaşında yenildi.",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "id": "47d16ea5",
+    "lang": "tr",
+    "sha256": "f46941977aa97c6db28f28fa028040cdfaf4d184d36ebbef28171354672ea547"
+  },
+  {
+    "text": "Finnegans Wake romanının yazarı kimdir?",
+    "label": "James Joyce",
+    "context": "Finnegans Wake romanının yazarı James Joyce'tur.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "hard"
+    },
+    "id": "75b36890",
+    "lang": "tr",
+    "sha256": "22e3fd2b7e6ca0f89e71bfc10ca0ee4cf7e43823896b3a234100842e932210c9"
+  },
+  {
+    "text": "Barok döneminin en ünlü heykeltıraşı kimdir?",
+    "label": "Gian Lorenzo Bernini",
+    "context": "Barok döneminin en ünlü heykeltıraşı Gian Lorenzo Bernini'dir.",
+    "tags": {
+      "category": "art",
+      "difficulty": "hard"
+    },
+    "id": "086d9038",
+    "lang": "tr",
+    "sha256": "7daacf032bb8f6e408884cbd2883d414f5cb4e7d5b61007430e80905f2866093"
+  },
+  {
+    "text": "Rönesans döneminin ünlü bestecisi Palestrina'nın tam adı nedir?",
+    "label": "Giovanni Pierluigi da Palestrina",
+    "context": "Palestrina'nın tam adı Giovanni Pierluigi da Palestrina'dır.",
+    "tags": {
+      "category": "music",
+      "difficulty": "hard"
+    },
+    "id": "514e5c9c",
+    "lang": "tr",
+    "sha256": "7027063cafb3e9f3a51feb0144bdafcdc7cec75ad2ef2582de6b869b0dc930d3"
+  },
+  {
+    "text": "İlk programlanabilir bilgisayar kabul edilen ENIAC ne zaman tamamlandı?",
+    "label": "1945",
+    "context": "ENIAC 1945 yılında tamamlandı.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "hard"
+    },
+    "id": "88722778",
+    "lang": "tr",
+    "sha256": "62659137dd18d52a1125b89d3bb50f64085e3175ca7e568ff307debc977c98d1"
+  },
+  {
+    "text": "10 - 7 kaçtır?",
+    "label": "3",
+    "context": "10 - 7 işleminin sonucu 3'tür.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "1cc277a6",
+    "lang": "tr",
+    "sha256": "df1eacbc797c8ffce498735d783013cd881deac3530f2efe55564c00932e2dd9"
+  },
+  {
+    "text": "Bitkiler fotosentez için hangi gazı kullanır?",
+    "label": "Carbon dioxide",
+    "context": "Bitkiler fotosentez için Carbon dioxide gazını kullanır.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "0a8e9cab",
+    "lang": "tr",
+    "sha256": "dce059ae8026a1fb3687d457f91d2d8c479e37f0a58b34bc6ee7feda3629c942"
+  },
+  {
+    "text": "Afrika kıtasının en büyük ülkesi hangisidir?",
+    "label": "Algeria",
+    "context": "Afrika kıtasının en büyük ülkesi Algeria'dır.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "086c462d",
+    "lang": "tr",
+    "sha256": "271a5291424f7fc3aa7ee7adb907087737216e324b1886bbbb6cc71ae503c38b"
+  },
+  {
+    "text": "Roma İmparatorluğu'nun başkenti neresiydi?",
+    "label": "Rome",
+    "context": "Roma İmparatorluğu'nun başkenti Rome'ydi.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "id": "0835855d",
+    "lang": "tr",
+    "sha256": "010ee7115521e9f1c98a17ee6476ef175bc8a46a0daf68b5c6bcf3a52af55cf3"
+  },
+  {
+    "text": "NBA'de en çok şampiyonluk kazanan takım hangisidir?",
+    "label": "Boston Celtics",
+    "context": "NBA'de en çok şampiyonluk kazanan takım Boston Celtics'tir.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "medium"
+    },
+    "id": "b9581327",
+    "lang": "tr",
+    "sha256": "6c93946ffaaa4da6970a898fded85a4dc1c532325611d73543dc501b0f7f9b73"
+  },
+  {
+    "text": "H2O bileşiğinin yaygın adı nedir?",
+    "label": "Water",
+    "context": "H2O bileşiğinin yaygın adı Water'dır.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "medium"
+    },
+    "id": "232098e0",
+    "lang": "tr",
+    "sha256": "c09c6eb6e476efca736384866cfb9173b171c175e0c1ff1b089a537b167a8d8f"
+  },
+  {
+    "text": "İnsan kanında en fazla bulunan hücre tipi hangisidir?",
+    "label": "Red blood cells",
+    "context": "İnsan kanında en fazla bulunan hücre tipi Red blood cells'tir.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "medium"
+    },
+    "id": "9d3fa685",
+    "lang": "tr",
+    "sha256": "a67212ed9c8a7ba1abf35c1157c0224eade97502f8b977fbcd13fdc85dec45d5"
+  },
+  {
+    "text": "Sefiller romanının orijinal dili hangisidir?",
+    "label": "French",
+    "context": "Sefiller romanının orijinal dili French dilidir.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "id": "69a8c762",
+    "lang": "tr",
+    "sha256": "1237d07c00619917cd7f9b8601a7e2ecb4048b8ab628a9c2a9226243fe780b20"
+  },
+  {
+    "text": "Van Gogh'un Ayçiçekleri tablosu hangi yılda yapılmıştır?",
+    "label": "1888",
+    "context": "Van Gogh'un Ayçiçekleri tablosu 1888 yılında yapılmıştır.",
+    "tags": {
+      "category": "art",
+      "difficulty": "medium"
+    },
+    "id": "c776481b",
+    "lang": "tr",
+    "sha256": "d534a0f716fab9b5ceaa16bbe509832352aaf12da311d12b59e0ab14d9c6d5b9"
+  },
+  {
+    "text": "Beatles grubunun üyelerinden hangisi değildir: John Lennon, Paul McCartney, Mick Jagger?",
+    "label": "Mick Jagger",
+    "context": "Beatles grubunun üyelerinden Mick Jagger değildir.",
+    "tags": {
+      "category": "music",
+      "difficulty": "easy"
+    },
+    "id": "3c220818",
+    "lang": "tr",
+    "sha256": "bd7e50a4fd5b5e0fe7178b4d518b01289a10603e760f2c3b153571d78eeabf3c"
+  },
+  {
+    "text": "İlk iPhone hangi yıl tanıtıldı?",
+    "label": "2007",
+    "context": "İlk iPhone 2007 yılında tanıtıldı.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "id": "897594ac",
+    "lang": "tr",
+    "sha256": "8fae94d7515d36b2c28b1ac7869d2290190d0b4bc8c2ad45952ff25ad6934815"
+  },
+  {
+    "text": "Birleşmiş Milletler kaç yılında kurulmuştur?",
+    "label": "1945",
+    "context": "Birleşmiş Milletler 1945 yılında kurulmuştur.",
+    "tags": {
+      "category": "politics",
+      "difficulty": "medium"
+    },
+    "id": "1f297e96",
+    "lang": "tr",
+    "sha256": "0a1a21929e83470fd51341b12ea93fa18d8a5c42b877a10ab74a6551a36c3c52"
+  },
+  {
+    "text": "Soğuk Savaş resmen hangi anlaşma ile sona ermiştir?",
+    "label": "Treaty on Conventional Armed Forces in Europe",
+    "context": "Soğuk Savaş resmi olarak Treaty on Conventional Armed Forces in Europe anlaşması ile sona ermiştir.",
+    "tags": {
+      "category": "politics",
+      "difficulty": "hard"
+    },
+    "id": "ac15aa37",
+    "lang": "tr",
+    "sha256": "06b851aecc64eea430a1781533a52320b9a9fe24e3cb02c6d86841fa19ac1b49"
+  },
+  {
+    "text": "Altın oran (phi) değeri yaklaşık olarak kaçtır?",
+    "label": "1.618",
+    "context": "Altın oran değeri yaklaşık olarak 1.618'dir.",
+    "tags": {
+      "category": "math",
+      "difficulty": "hard"
+    },
+    "id": "c40204dc",
+    "lang": "tr",
+    "sha256": "7b3517b61ba9649a808958705f8565e899ae2577d0a42bd5fc9bc6b722e1c92c"
+  }
+]

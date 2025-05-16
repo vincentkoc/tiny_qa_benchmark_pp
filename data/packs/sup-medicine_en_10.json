@@ -1,0 +1,122 @@
+[
+  {
+    "text": "Which bacterial enzyme is the primary target of rifampin in mycobacterial infections?",
+    "label": "bacterial DNA-dependent RNA polymerase",
+    "context": "Rifampin exerts its antimicrobial effect by inhibiting bacterial DNA-dependent RNA polymerase.",
+    "tags": {
+      "category": "medicine",
+      "difficulty": "hard"
+    },
+    "id": "4f0ffdef",
+    "lang": "en",
+    "sha256": "494f229a5c8794993c9239bd928f599d1514720574f0690f05406d0350dd82b4"
+  },
+  {
+    "text": "Which HLA allele is most strongly associated with ankylosing spondylitis?",
+    "label": "HLA-B27",
+    "context": "The HLA-B27 allele is strongly associated with ankylosing spondylitis.",
+    "tags": {
+      "category": "medicine",
+      "difficulty": "hard"
+    },
+    "id": "30d0d222",
+    "lang": "en",
+    "sha256": "7d7537a18f305cf641c07222cc2186749dca3a2579968d1fe57d5b066d5b7a35"
+  },
+  {
+    "text": "What enzyme catalyzes the rate-limiting step in hepatic heme synthesis?",
+    "label": "ALA synthase",
+    "context": "ALA synthase catalyzes the rate-limiting step in hepatic heme synthesis.",
+    "tags": {
+      "category": "medicine",
+      "difficulty": "hard"
+    },
+    "id": "5ca2dbdb",
+    "lang": "en",
+    "sha256": "6497de8ab63b679c4744406740f395198ca0ec0c68acdf7cb3de4d163321bfff"
+  },
+  {
+    "text": "Which cytokine is primarily responsible for granuloma formation in sarcoidosis?",
+    "label": "Interferon-gamma",
+    "context": "Interferon-gamma plays a crucial role in granuloma formation during sarcoidosis.",
+    "tags": {
+      "category": "medicine",
+      "difficulty": "hard"
+    },
+    "id": "e9479956",
+    "lang": "en",
+    "sha256": "f4eae9bc4010a590944b7192cd2e5ae80385b70e953f8c07324fe2e100793e47"
+  },
+  {
+    "text": "What is the principal antigenic target of autoantibodies in pemphigus vulgaris?",
+    "label": "Desmoglein 3",
+    "context": "Autoantibodies against Desmoglein 3 are the principal antigenic target in pemphigus vulgaris.",
+    "tags": {
+      "category": "medicine",
+      "difficulty": "hard"
+    },
+    "id": "96ec5bd0",
+    "lang": "en",
+    "sha256": "33f19878decabd4c1b513213a0822964629a4094bfb24072ae0ad923a83dc8bb"
+  },
+  {
+    "text": "Which pathogen produces a toxin that inactivates elongation factor 2 leading to pseudomembranous pharyngitis?",
+    "label": "Corynebacterium diphtheriae",
+    "context": "Corynebacterium diphtheriae produces a toxin that inactivates elongation factor 2 and causes pseudomembranous pharyngitis.",
+    "tags": {
+      "category": "medicine",
+      "difficulty": "hard"
+    },
+    "id": "a50d52cc",
+    "lang": "en",
+    "sha256": "b21c7c1128e38e7627350219c6b2275675fc80912bd4e0108581521390005fd2"
+  },
+  {
+    "text": "What genetic mutation is the most common cause of cystic fibrosis?",
+    "label": "ΔF508",
+    "context": "The ΔF508 mutation in the CFTR gene results in misfolded proteins and is the most common cause of cystic fibrosis.",
+    "tags": {
+      "category": "medicine",
+      "difficulty": "hard"
+    },
+    "id": "2d4ff705",
+    "lang": "en",
+    "sha256": "b0faa643c35190ae6c1270156a32e2e88e675cf842de9330a2a26bc94cb197d9"
+  },
+  {
+    "text": "Which acid-base disturbance is characterized by a primary increase in plasma bicarbonate?",
+    "label": "Metabolic alkalosis",
+    "context": "Metabolic alkalosis is characterized by a primary increase in plasma HCO3- levels.",
+    "tags": {
+      "category": "medicine",
+      "difficulty": "hard"
+    },
+    "id": "d68e8e11",
+    "lang": "en",
+    "sha256": "9a023f9c8dad73d5800597ba4db6b5224117fae154829051d64cc3aa5ee994a9"
+  },
+  {
+    "text": "What high-affinity receptor on mast cells binds the Fc region of IgE?",
+    "label": "FcεRI",
+    "context": "The FcεRI receptor on mast cells binds to the Fc region of IgE antibodies and mediates allergic responses.",
+    "tags": {
+      "category": "medicine",
+      "difficulty": "hard"
+    },
+    "id": "088f5543",
+    "lang": "en",
+    "sha256": "9de80662033343f2baf8c83b80a7b748f49afc474cdc1c9913b894228e4675c5"
+  },
+  {
+    "text": "Which metabolic pathway is upregulated in many cancer cells to convert glutamine into lactate?",
+    "label": "Glutaminolysis",
+    "context": "Glutaminolysis is upregulated in many cancer cells, converting glutamine into lactate to support rapid proliferation.",
+    "tags": {
+      "category": "medicine",
+      "difficulty": "hard"
+    },
+    "id": "ed206d07",
+    "lang": "en",
+    "sha256": "c25511d1a9794acfb94e6cca9d8f656af0aa7a5d66469cbd67a1590ce16442f1"
+  }
+]

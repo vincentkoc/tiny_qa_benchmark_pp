@@ -1,0 +1,242 @@
+[
+  {
+    "text": "What is 7 × 8?",
+    "label": "56",
+    "context": "7 multiplied by 8 equals 56.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "97badd23",
+    "lang": "en",
+    "sha256": "df9ffba182891e672dbbe2add4bc65c2faad8102882a283889bf5da199c1aa40"
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "label": "Leonardo da Vinci",
+    "context": "The Mona Lisa was painted by Leonardo da Vinci.",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "id": "b2ec9493",
+    "lang": "en",
+    "sha256": "c3ad0f27424c23d62a4d4d077db2c8c33071bf07c90b52ccbc90d2c2a4921700"
+  },
+  {
+    "text": "What is the capital of Australia?",
+    "label": "Canberra",
+    "context": "Canberra is the capital of Australia.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "id": "21978920",
+    "lang": "en",
+    "sha256": "39e45d5bbc8b0cdff91b2564712971909d341aa253dc77dabd623c31df886068"
+  },
+  {
+    "text": "Which chemical element has the symbol Fe?",
+    "label": "Iron",
+    "context": "The chemical element with symbol Fe is Iron.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "easy"
+    },
+    "id": "19517632",
+    "lang": "en",
+    "sha256": "03585a7b0a50be4bd3db51928858bf795b6fe76f501b85063267fa257ba9855f"
+  },
+  {
+    "text": "Who developed the theory of relativity?",
+    "label": "Albert Einstein",
+    "context": "The theory of relativity was developed by Albert Einstein.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "medium"
+    },
+    "id": "8b5bf4b2",
+    "lang": "en",
+    "sha256": "fd8cc6678d7d68954fb3c5efef4c1b1b3eb4ce10946712b0cb1483a9468d4677"
+  },
+  {
+    "text": "How many players are on the court for each team in a standard basketball game?",
+    "label": "Five",
+    "context": "A standard basketball team has Five players on the court per side.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "id": "09325570",
+    "lang": "en",
+    "sha256": "3f696140753072ebd05f423229cb01fab012626a7b4e805e14025b2686bdd3e9"
+  },
+  {
+    "text": "In which year did the Berlin Wall fall?",
+    "label": "1989",
+    "context": "The Berlin Wall fell in 1989.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "id": "6c27d256",
+    "lang": "en",
+    "sha256": "c6803c508c2b14178461324fa21a060364763b91805030832ff480f2a15dc25a"
+  },
+  {
+    "text": "What is the largest planet in our solar system?",
+    "label": "Jupiter",
+    "context": "Jupiter is the largest planet in our solar system.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "easy"
+    },
+    "id": "78c699d5",
+    "lang": "en",
+    "sha256": "2b5269b46ad9d517a0aa73d0cb79ef902bbfc836562afb210cd9af9a7ea8ec06"
+  },
+  {
+    "text": "Who wrote 'Pride and Prejudice'?",
+    "label": "Jane Austen",
+    "context": "Pride and Prejudice was written by Jane Austen.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "id": "5637e416",
+    "lang": "en",
+    "sha256": "7ceb0db110ce8d80ca7f2b52ff49238e4284c3f63fb2ec3e933d630cfcdaf7ed"
+  },
+  {
+    "text": "What is the hardest natural substance on Earth?",
+    "label": "Diamond",
+    "context": "Diamond is the hardest natural substance on Earth.",
+    "tags": {
+      "category": "geology",
+      "difficulty": "medium"
+    },
+    "id": "0ba72845",
+    "lang": "en",
+    "sha256": "742c9244ddc77f494e38f6c2560fa589cbd7cc82348718ea5a48922faa99ca33"
+  },
+  {
+    "text": "Which programming language, known for its web applications, features a snake in its logo?",
+    "label": "Python",
+    "context": "The programming language Python is known for its use in web development and has a snake in its logo.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "id": "a8525635",
+    "lang": "en",
+    "sha256": "d3261ddf009ce7710acb8ab3e3fd97afbd65b73166ee3c5d94d556f523aa55d4"
+  },
+  {
+    "text": "What is the longest river in Africa?",
+    "label": "Nile",
+    "context": "The longest river in Africa is the Nile.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "id": "6473b379",
+    "lang": "en",
+    "sha256": "91551a7920bf99250d6b27921c79fdaa409d75388ed80b3a937c4aa7ccd28b7e"
+  },
+  {
+    "text": "Which element is number 1 on the periodic table?",
+    "label": "Hydrogen",
+    "context": "Hydrogen is element number 1 on the periodic table.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "easy"
+    },
+    "id": "f0176e63",
+    "lang": "en",
+    "sha256": "59cd4de2b6be559470d78a617f1e0103714e34578e15f24f5bff3741acecb78d"
+  },
+  {
+    "text": "Which Shakespeare play features Rosencrantz and Guildenstern?",
+    "label": "Hamlet",
+    "context": "Hamlet features the characters Rosencrantz and Guildenstern.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "id": "b6132b66",
+    "lang": "en",
+    "sha256": "66f92617e740cb778c2d2dec6211b43ae4ed02cb3512687dae0790f22de9f686"
+  },
+  {
+    "text": "In Western music, how many semitones are in an octave?",
+    "label": "Twelve",
+    "context": "There are Twelve semitones in an octave in Western music.",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "id": "21448a0c",
+    "lang": "en",
+    "sha256": "d2d872bc11a05524626cc568fb0a438c46d1637543b91cb8967f87d6b945e613"
+  },
+  {
+    "text": "What do you call a word that reads the same forwards and backwards?",
+    "label": "palindrome",
+    "context": "A palindrome is a word that is the same forwards and backwards.",
+    "tags": {
+      "category": "language",
+      "difficulty": "easy"
+    },
+    "id": "ab267e9f",
+    "lang": "en",
+    "sha256": "0dda099530d446e20bd1a3c8c3607859afcd845ee148f8cbdc0cad253e61cb2c"
+  },
+  {
+    "text": "Who is known as the father of computers for his work on the Analytical Engine?",
+    "label": "Charles Babbage",
+    "context": "Charles Babbage is known as the father of computers for his work on the Analytical Engine.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "hard"
+    },
+    "id": "0d50410a",
+    "lang": "en",
+    "sha256": "69c75388e8dcaa4b0088bd5c5331d479165fb515e23457270c78bbb16fe33541"
+  },
+  {
+    "text": "Which artist famously cut off his own ear?",
+    "label": "Vincent van Gogh",
+    "context": "Vincent van Gogh famously cut off his own ear.",
+    "tags": {
+      "category": "art",
+      "difficulty": "medium"
+    },
+    "id": "42229d3e",
+    "lang": "en",
+    "sha256": "e4407c83339523ef838b1d8f4d20ddaea3ceb719a662fae40cdb576dab8c4526"
+  },
+  {
+    "text": "What is known as the powerhouse of the cell?",
+    "label": "Mitochondria",
+    "context": "The Mitochondria is known as the powerhouse of the cell.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "easy"
+    },
+    "id": "685d64a7",
+    "lang": "en",
+    "sha256": "e6b081e9446a9d78dc45d60b243b49a2443addb29bcf12fd3496af05e2e3df0a"
+  },
+  {
+    "text": "What is Schrödinger's famous paradox involving a cat in a sealed box called?",
+    "label": "Schrödinger's cat",
+    "context": "Schrödinger's cat is a famous paradox involving a cat inside a box.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "hard"
+    },
+    "id": "d628d39a",
+    "lang": "en",
+    "sha256": "aa07fa833fe609f79e16926b4f333bf1a0c7a5c5fabda758e1fbf180a873f331"
+  }
+]

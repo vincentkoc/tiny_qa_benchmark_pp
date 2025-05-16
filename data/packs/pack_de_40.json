@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Was ist die Hauptstadt von Deutschland?",
+    "label": "Berlin",
+    "context": "Die Hauptstadt von Deutschland ist Berlin.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "62d8ac2d86092eff5911eb88af0d7e52de9a1d0f760fe4f52d1b80f338e0279f",
+    "id": "06c245e5",
+    "lang": "de"
+  },
+  {
+    "text": "In welchem Jahr begann der Zweite Weltkrieg?",
+    "label": "1939",
+    "context": "Der Zweite Weltkrieg begann 1939.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "sha256": "08cd6c441a42bb770104ea4517cd58ea105d564c4a7a1db55d71e802e19a84fc",
+    "id": "ff41eb93",
+    "lang": "de"
+  },
+  {
+    "text": "Wie viele Kontinente gibt es auf der Erde?",
+    "label": "7",
+    "context": "Es gibt 7 Kontinente auf der Erde.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "ffcd149f3b701b09e9781bc21432fe713eb50c6da91887ac17dc90ebb179bbda",
+    "id": "265a3a0a",
+    "lang": "de"
+  },
+  {
+    "text": "Wer malte die Mona Lisa?",
+    "label": "Leonardo da Vinci",
+    "context": "Die Mona Lisa wurde von Leonardo da Vinci gemalt.",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "sha256": "99d155febad8d25c405439d0efe04ebf8c674c3f6b0ebd15f72f4f8b8c4e7010",
+    "id": "61c1e497",
+    "lang": "de"
+  },
+  {
+    "text": "Was ist das chemische Symbol für Wasserstoff?",
+    "label": "H",
+    "context": "Das chemische Symbol für Wasserstoff ist H.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "easy"
+    },
+    "sha256": "626ecc6151cc861258cd4ca91ff573ca5f0d93f6f5d310bce075c9cb7b6f9ce1",
+    "id": "f29ad528",
+    "lang": "de"
+  },
+  {
+    "text": "Wie lautet die Quadratwurzel von 81?",
+    "label": "9",
+    "context": "Die Quadratwurzel von 81 ist 9.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "sha256": "4818fb2ecce03fc39c00f24aa025332cd210b035134bd05d6d395e3a456d9d33",
+    "id": "fc4ccaa0",
+    "lang": "de"
+  },
+  {
+    "text": "Welcher Planet ist der Sonne am nächsten?",
+    "label": "Merkur",
+    "context": "Der Planet, der der Sonne am nächsten ist, ist Merkur.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "medium"
+    },
+    "sha256": "f72b887b5478cf492a7b5237ac8b72029761819430cbf53840297e814e0de328",
+    "id": "f6f0e455",
+    "lang": "de"
+  },
+  {
+    "text": "In welcher Sprache wurde Dante Alighieri 'Die göttliche Komödie' geschrieben?",
+    "label": "Italienisch",
+    "context": "'Die göttliche Komödie' wurde von Dante Alighieri auf Italienisch geschrieben.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "sha256": "ebdb386b280e3fdd28e3b9e74d077d3e61f2f6207c88896469fb64f6957dc4d1",
+    "id": "4259b274",
+    "lang": "de"
+  },
+  {
+    "text": "Was ist die Formel für die Fläche eines Kreises?",
+    "label": "πr²",
+    "context": "Die Formel für die Fläche eines Kreises ist πr².",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "sha256": "b06674e515a6cc8efdda8e1bdb1bbab9ac09ac6ce0e3c341b87ddd9336fb5246",
+    "id": "5964b49b",
+    "lang": "de"
+  },
+  {
+    "text": "Wer komponierte die 9. Sinfonie?",
+    "label": "Ludwig van Beethoven",
+    "context": "Die 9. Sinfonie wurde von Ludwig van Beethoven komponiert.",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "sha256": "f9a8836d8659f0dc5ac3a55d8afa07f0286febc5623d830ffd869bfc5768d8e5",
+    "id": "5b271398",
+    "lang": "de"
+  },
+  {
+    "text": "Wie lautet das chemische Symbol für Gold?",
+    "label": "Au",
+    "context": "Das chemische Symbol für Gold ist Au.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "easy"
+    },
+    "sha256": "1db87970535af542ae277fc74e848119f06928644dff1379534a43e07abe0b84",
+    "id": "c59a3f19",
+    "lang": "de"
+  },
+  {
+    "text": "Welches Element hat die Ordnungszahl 6?",
+    "label": "Kohlenstoff",
+    "context": "Das Element mit der Ordnungszahl 6 ist Kohlenstoff.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "medium"
+    },
+    "sha256": "dd117aa0a68f2f62a8b68a7a83258cb25f1c6fd548107737471fa35bfeba1fdc",
+    "id": "cf4af6c6",
+    "lang": "de"
+  },
+  {
+    "text": "Wer schrieb 'Faust'?",
+    "label": "Johann Wolfgang von Goethe",
+    "context": "'Faust' wurde von Johann Wolfgang von Goethe geschrieben.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "sha256": "14f7c84e3c5ffef3aa58956bfda07032084f1a63ba0aeef7b6c6a9b5bb90ab91",
+    "id": "74135980",
+    "lang": "de"
+  },
+  {
+    "text": "Was ist der größte Ozean der Welt?",
+    "label": "Pazifischer Ozean",
+    "context": "Der größte Ozean der Welt ist der Pazifischer Ozean.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "f5b5eacd275edf8246dc1f8a1b0d8f590d33cfd815f88130a85d3dd1879cb5ce",
+    "id": "4f4986a6",
+    "lang": "de"
+  },
+  {
+    "text": "In welchem Jahr fiel die Berliner Mauer?",
+    "label": "1989",
+    "context": "Die Berliner Mauer fiel 1989.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "sha256": "76ec576e69be3ffd93e91652c8773db5a07ffbbfb1fd510495edc7a4c6a98bca",
+    "id": "21a0d4e3",
+    "lang": "de"
+  },
+  {
+    "text": "Was ist die Hauptstadt von Japan?",
+    "label": "Tokio",
+    "context": "Die Hauptstadt von Japan ist Tokio.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "a139bf61bb47177cb35761f71dd40b0a29a4a612781a362bf942217cdd02e7f2",
+    "id": "90c13c82",
+    "lang": "de"
+  },
+  {
+    "text": "Welcher Sportler hat die meisten Tennis-Grand-Slam-Titel?",
+    "label": "Roger Federer",
+    "context": "Der Sportler mit den meisten Tennis-Grand-Slam-Titeln ist Roger Federer.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "medium"
+    },
+    "sha256": "1d38c246eb4d4ca639e4e0929129af0963a159f58840da896556c40761984955",
+    "id": "bb9a7edc",
+    "lang": "de"
+  },
+  {
+    "text": "Was ist die Geschwindigkeit des Lichts im Vakuum (in m/s)?",
+    "label": "299792458",
+    "context": "Die Geschwindigkeit des Lichts im Vakuum beträgt 299792458 m/s.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "hard"
+    },
+    "sha256": "938a96d5610cfddd77f7c5ee5c6a081c3561cd44eaa45a9a8d1be44883e23bb7",
+    "id": "5bccb7ce",
+    "lang": "de"
+  },
+  {
+    "text": "Wie viele Planeten hat unser Sonnensystem?",
+    "label": "8",
+    "context": "Unser Sonnensystem hat 8 Planeten.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "easy"
+    },
+    "sha256": "813f238a97d3d115d269c9bc7c6d561f0a7965c4485fdbf872f3c13d0f8fd261",
+    "id": "737fbf00",
+    "lang": "de"
+  },
+  {
+    "text": "Welches Land hat die größte Bevölkerung?",
+    "label": "China",
+    "context": "Das Land mit der größten Bevölkerung ist China.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "399a5c9b44e29fc2bb15239a7792873ee37a2c3cf87540ddff004ab7240862c5",
+    "id": "416f188a",
+    "lang": "de"
+  },
+  {
+    "text": "In welchem Jahr wurde die UN gegründet?",
+    "label": "1945",
+    "context": "Die UN wurde 1945 gegründet.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "3de0d5c8a53ad7450804e48ba42084df7894554fcc68bfcc20fdec742975bedf",
+    "id": "a355e14f",
+    "lang": "de"
+  },
+  {
+    "text": "Wer entdeckte die Relativitätstheorie?",
+    "label": "Albert Einstein",
+    "context": "Die Relativitätstheorie wurde von Albert Einstein entdeckt.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "sha256": "23eb4c45d7ed6e1d3339329ee2379208d1b9164d3ff8dd7ca04c835b82af9ff6",
+    "id": "a5208a42",
+    "lang": "de"
+  },
+  {
+    "text": "Wie viele Beine hat eine Spinne?",
+    "label": "8",
+    "context": "Eine Spinne hat 8 Beine.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "easy"
+    },
+    "sha256": "63664c030e7b2431ed350603d0ea7bfc707920272d0ad315e3e0ade9f2fb8066",
+    "id": "3902cb09",
+    "lang": "de"
+  },
+  {
+    "text": "Welches Organ pumpt Blut durch den Körper?",
+    "label": "Herz",
+    "context": "Das Organ, das Blut durch den Körper pumpt, ist das Herz.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "easy"
+    },
+    "sha256": "0ba98921153d19da19a04d650f37d2ea1bfa0d8e826a3ad2185337dc4971d12f",
+    "id": "d6254618",
+    "lang": "de"
+  },
+  {
+    "text": "Welches Element ist am häufigsten in der Erdkruste?",
+    "label": "Sauerstoff",
+    "context": "Das am häufigsten in der Erdkruste vorkommende Element ist Sauerstoff.",
+    "tags": {
+      "category": "geology",
+      "difficulty": "medium"
+    },
+    "sha256": "aeb759f158faec59fde9d6279d6462655889aa19524aa064f1e35081e4441109",
+    "id": "9ded0a2b",
+    "lang": "de"
+  },
+  {
+    "text": "Welche Farbe entsteht beim Mischen von Blau und Gelb?",
+    "label": "Grün",
+    "context": "Beim Mischen von Blau und Gelb entsteht Grün.",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "sha256": "92e1628b49a91bfb9bc8ca682f5bbf8e33066074b4a9bd8f6976223c0097bca5",
+    "id": "2573178d",
+    "lang": "de"
+  },
+  {
+    "text": "Wer war der erste Mensch auf dem Mond?",
+    "label": "Neil Armstrong",
+    "context": "Der erste Mensch auf dem Mond war Neil Armstrong.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "sha256": "7017d538d89baf2a877200f7a13a31afb67112f360c9074fc6727f64084fae60",
+    "id": "3ef4c86b",
+    "lang": "de"
+  },
+  {
+    "text": "In welcher Stadt fanden die Olympischen Sommerspiele 2016 statt?",
+    "label": "Rio de Janeiro",
+    "context": "Die Olympischen Sommerspiele 2016 fanden in Rio de Janeiro statt.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "sha256": "2429676175f9c164e76fc8fc63dc98f6894adb4c42b583a44c2986221f0c4a02",
+    "id": "c81db1c0",
+    "lang": "de"
+  },
+  {
+    "text": "Was ist die Hauptstadt von Kanada?",
+    "label": "Ottawa",
+    "context": "Die Hauptstadt von Kanada ist Ottawa.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "55ed5a7a785eb9b9b81f49cc83d78fdfa64c53f9a9e22bae58c7bc9d805e9158",
+    "id": "994ef777",
+    "lang": "de"
+  },
+  {
+    "text": "Wie viele Ringe hat das olympische Symbol?",
+    "label": "5",
+    "context": "Das olympische Symbol hat 5 Ringe.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "sha256": "1468565531b3bef29783b1d3fe3f52955fa7979a8fcfa6cc696ee08842f3376e",
+    "id": "c522917c",
+    "lang": "de"
+  },
+  {
+    "text": "Welcher Fluss fließt durch Paris?",
+    "label": "Seine",
+    "context": "Durch Paris fließt der Fluss Seine.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "3d1f8018f1f4e708508b99ae2d17c46008e60dd8d1d7a046d56db27cfc7b3457",
+    "id": "2acede73",
+    "lang": "de"
+  },
+  {
+    "text": "Was ist das größte Tier der Welt?",
+    "label": "Blauwal",
+    "context": "Das größte Tier der Welt ist der Blauwal.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "medium"
+    },
+    "sha256": "fd4c1a00a8ab8d789e1421c320da62ab9a4043c40be4b208817af8a5acc5cbe3",
+    "id": "217126ea",
+    "lang": "de"
+  },
+  {
+    "text": "Welche Einheit misst den elektrischen Widerstand?",
+    "label": "Ohm",
+    "context": "Die Einheit zur Messung des elektrischen Widerstands ist Ohm.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "medium"
+    },
+    "sha256": "75819c38f00e7a015c175224be341f294f9d6c7f399f061afbf0cfc9dae4e7fc",
+    "id": "b7f6cd8f",
+    "lang": "de"
+  },
+  {
+    "text": "Wer schrieb 'Die Leiden des jungen Werther'?",
+    "label": "Johann Wolfgang von Goethe",
+    "context": "'Die Leiden des jungen Werther' wurde von Johann Wolfgang von Goethe geschrieben.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "sha256": "330bbf79fbc5d595faf0a03a692dc6250c16f237193729897189ea88ab3144eb",
+    "id": "d3aa35d1",
+    "lang": "de"
+  },
+  {
+    "text": "Wie viele Nullen hat eine Milliarde?",
+    "label": "9",
+    "context": "Eine Milliarde hat 9 Nullen.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "sha256": "7eaf33f54b4c27acde1604c4dc556900302866e8fc178af2b95d9f34301c0f83",
+    "id": "d447d586",
+    "lang": "de"
+  },
+  {
+    "text": "Was ist das chemische Symbol für Natrium?",
+    "label": "Na",
+    "context": "Das chemische Symbol für Natrium ist Na.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "easy"
+    },
+    "sha256": "9ce4432cc16574794f668d3bc01ed452f8bf4c99d32c6b395b0247d6da766421",
+    "id": "e9f9e9ca",
+    "lang": "de"
+  },
+  {
+    "text": "Wie lautet die Hauptstadt von Australien?",
+    "label": "Canberra",
+    "context": "Die Hauptstadt von Australien ist Canberra.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "4a640b69c364cc63e548a23e295a411e9153281310115423db725cebfbbe9c6d",
+    "id": "2ae39955",
+    "lang": "de"
+  },
+  {
+    "text": "Welcher Maler ist für den Kubismus bekannt?",
+    "label": "Pablo Picasso",
+    "context": "Pablo Picasso ist für den Kubismus bekannt.",
+    "tags": {
+      "category": "art",
+      "difficulty": "medium"
+    },
+    "sha256": "b2affab5872c5add938b048b4018901eb24bdd713ea9838ba3a92cd2a588da17",
+    "id": "de43ef3c",
+    "lang": "de"
+  },
+  {
+    "text": "Welche Sprache hat die meisten Muttersprachler?",
+    "label": "Mandarin",
+    "context": "Die Sprache mit den meisten Muttersprachlern ist Mandarin.",
+    "tags": {
+      "category": "languages",
+      "difficulty": "hard"
+    },
+    "sha256": "c9ce3559f121238f6d7702ace5041d14fd442c2041129c1fdd1fe4794acc940c",
+    "id": "a3dcd631",
+    "lang": "de"
+  },
+  {
+    "text": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+    "label": "32",
+    "context": "Ein erwachsener Mensch hat normalerweise 32 Zähne.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "medium"
+    },
+    "sha256": "7d7f3825b281ae0776fc27e1228e9161bc8207ec1470aef73dbd550c8f79b825",
+    "id": "bb591f59",
+    "lang": "de"
+  },
+  {
+    "text": "In welchem Land liegt Machu Picchu?",
+    "label": "Peru",
+    "context": "Machu Picchu liegt in Peru.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "fa29daa42ea08a271ed1a6ab555bfe87d6c88ec2d7dd56ee326601c57ea1a73d",
+    "id": "72aa368c",
+    "lang": "de"
+  },
+  {
+    "text": "Wer entdeckte die Penicillin-Eigenschaften von Schimmelpilzen?",
+    "label": "Alexander Fleming",
+    "context": "Die Wirkungen von Penicillin entdeckte Alexander Fleming.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "sha256": "68e737f86a06ec0273055d1f57f40072edf61434899b11aeee5c220b16fb8010",
+    "id": "fbf3cbec",
+    "lang": "de"
+  },
+  {
+    "text": "Was ist die häufigste Blutgruppe weltweit?",
+    "label": "0",
+    "context": "Die häufigste Blutgruppe weltweit ist 0.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "medium"
+    },
+    "sha256": "2bc54e8f1075a2752de74fc2e6c9bed6d981beb5d01d1e177a64e429f7541339",
+    "id": "130d2dc0",
+    "lang": "de"
+  },
+  {
+    "text": "Wie lautet das größte innere Meeresbecken der Erde?",
+    "label": "Mittelmeer",
+    "context": "Das größte innere Meeresbecken der Erde ist das Mittelmeer.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "hard"
+    },
+    "sha256": "534b06b490b83ad54b4aae25abeeaba2d7f12982c218ceac2880d36a734b427a",
+    "id": "28947cc9",
+    "lang": "de"
+  },
+  {
+    "text": "Welches chemische Element hat das Symbol Fe?",
+    "label": "Eisen",
+    "context": "Das chemische Element mit dem Symbol Fe ist Eisen.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "easy"
+    },
+    "sha256": "1b2e08f3f1c617f4deffa26dafeb921b6a613aacbea59ad22a465f536e054bba",
+    "id": "03d3aa92",
+    "lang": "de"
+  },
+  {
+    "text": "Wie viele Meter sind in einem Kilometer?",
+    "label": "1000",
+    "context": "Ein Kilometer hat 1000 Meter.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "sha256": "ef822bb61818945f01419a473b718262c585dfaf0c3f82b529810dfd3e447e1a",
+    "id": "a4fbcbba",
+    "lang": "de"
+  },
+  {
+    "text": "Wer regierte als Pharao beim Bau der Großen Pyramide von Gizeh?",
+    "label": "Cheops",
+    "context": "Die Große Pyramide von Gizeh wurde unter Pharao Cheops gebaut.",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "sha256": "7931cc6c2e70a1b5da5f885103d4377f7c143426c94bf6e3111732ff4c6a8148",
+    "id": "da40b66d",
+    "lang": "de"
+  },
+  {
+    "text": "In welchem Jahr endete der Erste Weltkrieg?",
+    "label": "1918",
+    "context": "Der Erste Weltkrieg endete 1918.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "sha256": "3fce3a27572d18b5f21621a0dbef3d5a6ba6f82aa86a157ed36ee964b5c1e2f3",
+    "id": "d3309203",
+    "lang": "de"
+  },
+  {
+    "text": "In welchem Jahr heiratete Queen Elizabeth II?",
+    "label": "1947",
+    "context": "Queen Elizabeth II heiratete 1947.",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "sha256": "a90f9d6114f5d8413343903aac027164fd7a7ef89e5010cdeb72d6d952242e98",
+    "id": "18757aea",
+    "lang": "de"
+  },
+  {
+    "text": "Welches ist die seltenste Blutgruppe?",
+    "label": "AB negativ",
+    "context": "Die seltenste Blutgruppe ist AB negativ.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "hard"
+    },
+    "sha256": "badf155bfde348c444aa3e786f4b604503fe0cdc08ef8bf8b62791dcea2d8e13",
+    "id": "76105bfc",
+    "lang": "de"
+  }
+]

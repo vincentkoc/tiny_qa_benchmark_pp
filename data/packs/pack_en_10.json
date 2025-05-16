@@ -1,0 +1,122 @@
+[
+  {
+    "text": "What is the capital of France?",
+    "label": "Paris",
+    "context": "Paris is the capital of France.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "8f1c868a",
+    "lang": "en",
+    "sha256": "6d457f3b24db101d0566e79154f68bc576abe67c63b4f79551ac45278bd4d75c"
+  },
+  {
+    "text": "Solve for x: 5x = 20.",
+    "label": "4",
+    "context": "5x = 20 implies x = 4.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "0b159cab",
+    "lang": "en",
+    "sha256": "9dc4b21f44890c19be6d480bab83fccfb3e3979df0f2be2458bf5bab5c2a68fb"
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "label": "Leonardo da Vinci",
+    "context": "The Mona Lisa was painted by Leonardo da Vinci.",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "id": "7e27408e",
+    "lang": "en",
+    "sha256": "3b0f4e0e1eb7209e5114094e16049f5ab1dc59650c95e5c9a5ec5b771bb1d304"
+  },
+  {
+    "text": "What is the boiling point of water at sea level in degrees Celsius?",
+    "label": "100",
+    "context": "The boiling point of water at sea level is 100 degrees Celsius.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "95480e21",
+    "lang": "en",
+    "sha256": "fb42837052ab7e5744a6da2353e213a3cca1aa488c65c95d75f8e1540dff489f"
+  },
+  {
+    "text": "Which element has the chemical symbol 'O'?",
+    "label": "Oxygen",
+    "context": "The chemical symbol 'O' stands for Oxygen.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "bd8e2c4a",
+    "lang": "en",
+    "sha256": "76dce0496f299dba447a6db553ae273654825d4fb861cffd15e7e5d0029b930e"
+  },
+  {
+    "text": "What is the derivative of sin(x)?",
+    "label": "cos(x)",
+    "context": "The derivative of sin(x) is cos(x).",
+    "tags": {
+      "category": "math",
+      "difficulty": "hard"
+    },
+    "id": "089325db",
+    "lang": "en",
+    "sha256": "c74754d7ca03a3850c23b80aabfbc17ffe3f4104aca68b796b58a97b0d15842d"
+  },
+  {
+    "text": "In which year did the Titanic sink?",
+    "label": "1912",
+    "context": "The Titanic sank in 1912.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "id": "ecfc9a30",
+    "lang": "en",
+    "sha256": "5599c9773b0d7c33ddeff7359bfff3dcfa5595dbdbfed29a6a025f8d40bcf6a1"
+  },
+  {
+    "text": "Who is the author of 'To Kill a Mockingbird'?",
+    "label": "Harper Lee",
+    "context": "'To Kill a Mockingbird' was written by Harper Lee.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "id": "31d3d5ef",
+    "lang": "en",
+    "sha256": "ba01ec491b2a4de02417522cb8ecc86ab1889f6aee489c5610ea9f5373738018"
+  },
+  {
+    "text": "What is the largest planet in our Solar System?",
+    "label": "Jupiter",
+    "context": "Jupiter is the largest planet in our Solar System.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "easy"
+    },
+    "id": "de0a6d38",
+    "lang": "en",
+    "sha256": "a46199db3a4775263ba3e257a6a3e575f16063888a7bdd806467a956fdb626d4"
+  },
+  {
+    "text": "Which country hosted the 2016 Summer Olympics?",
+    "label": "Brazil",
+    "context": "The 2016 Summer Olympics were hosted by Brazil.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "medium"
+    },
+    "id": "838d050d",
+    "lang": "en",
+    "sha256": "cb1f35c978e17610b64c440d7c5cc4c738a820769b21c8d0a3112063c15d4cf1"
+  }
+]

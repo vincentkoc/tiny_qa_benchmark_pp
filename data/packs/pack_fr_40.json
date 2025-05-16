@@ -1,0 +1,482 @@
+[
+  {
+    "text": "Combien font 5 + 7 ?",
+    "label": "12",
+    "context": "5 + 7 = 12.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "292402c2",
+    "lang": "fr",
+    "sha256": "762e734d30e3b3bf23749955bd01d47f85e7b930d0843d7149516d247b8b6085"
+  },
+  {
+    "text": "Quelle est la capitale de l'Allemagne ?",
+    "label": "Berlin",
+    "context": "Berlin est la capitale de l'Allemagne.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "8395f09f",
+    "lang": "fr",
+    "sha256": "2df33f33867c8d9528957d559f697a146633c2866bb5568e9f0c1dfc098b037b"
+  },
+  {
+    "text": "Quel est l'auteur de 'Le Petit Prince' ?",
+    "label": "Antoine de Saint-Exupéry",
+    "context": "Le Petit Prince a été écrit par Antoine de Saint-Exupéry.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "id": "aa1dc229",
+    "lang": "fr",
+    "sha256": "5c711589f953dfa6eebe1b174ec7b43b01172608ff213f0bdd45d8eb74635c84"
+  },
+  {
+    "text": "Quelle est la formule chimique de l'eau ?",
+    "label": "H2O",
+    "context": "L'eau a pour formule chimique H2O.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "b48c4787",
+    "lang": "fr",
+    "sha256": "192414a8aeea36009b5bb8abf8e3099af3cafef03bcca029b7a0d728f73cf03c"
+  },
+  {
+    "text": "Quel est le plus grand océan du monde ?",
+    "label": "Océan Pacifique",
+    "context": "L'océan Pacifique est le plus grand océan du monde.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "b24a65be",
+    "lang": "fr",
+    "sha256": "53883177670b20c6660530a0e74968a38d513db508b7711c1a1574a44b56fe40"
+  },
+  {
+    "text": "Quelle allergie alimentaire est causée par une réaction immunitaire au gluten ?",
+    "label": "Maladie cœliaque",
+    "context": "La maladie cœliaque est une allergie alimentaire causée par une réaction immunitaire au gluten.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "2360692f",
+    "lang": "fr",
+    "sha256": "30d2b57ee8a2ba73873da186ed0ee45bea33cc4eea88e3403972916372ccc29a"
+  },
+  {
+    "text": "Combien de joueurs composent une équipe de football sur le terrain ?",
+    "label": "11",
+    "context": "Une équipe de football est composée de 11 joueurs sur le terrain.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "id": "66e9d375",
+    "lang": "fr",
+    "sha256": "92a9d75bd49d498d6853e20f343abe08780ae408cac7ad50ac2e6ebcc437fe29"
+  },
+  {
+    "text": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+    "label": "1969",
+    "context": "En 1969, l'homme a marché sur la Lune pour la première fois.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "id": "7c8f635e",
+    "lang": "fr",
+    "sha256": "7a63d2878c45c0e4afb2afaeb1d413abaeda1d3e3e7e58cf5d8610271fd8a5ff"
+  },
+  {
+    "text": "Qui a peint 'La Joconde' ?",
+    "label": "Léonard de Vinci",
+    "context": "La Joconde a été peinte par Léonard de Vinci.",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "id": "d1360e09",
+    "lang": "fr",
+    "sha256": "31fe65deae3928b5d96f50708bc38cde4f453cf42732e57aabf08a3075ecccfe"
+  },
+  {
+    "text": "Quel est le plus long fleuve du monde ?",
+    "label": "Nil",
+    "context": "Le Nil est le plus long fleuve du monde.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "id": "d0b85033",
+    "lang": "fr",
+    "sha256": "3fd4cb5d98b49d62e9c0a7af800d13431196cffc32ff3f4e7b008b52bd5e57e8"
+  },
+  {
+    "text": "Quelle pierre précieuse est rouge et représente le mois de juillet ?",
+    "label": "Rubis",
+    "context": "Le rubis est la pierre précieuse rouge qui représente le mois de juillet.",
+    "tags": {
+      "category": "geology",
+      "difficulty": "medium"
+    },
+    "id": "0b6e8c1b",
+    "lang": "fr",
+    "sha256": "522bb18ef8d5ead800e84ce8e849e46fef1b76d94d0b77ca1f84eb5e6a83d637"
+  },
+  {
+    "text": "Combien de continents y a-t-il sur Terre ?",
+    "label": "7",
+    "context": "Il y a 7 continents sur Terre.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "94d624de",
+    "lang": "fr",
+    "sha256": "fddcbc691e4737c44824f5fad088a0d79c8efc97c9ee25b8dc7f95821623de79"
+  },
+  {
+    "text": "Quel est l'élément chimique de symbole 'Au' ?",
+    "label": "Or",
+    "context": "L'élément chimique de symbole Au est l'or.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "fe9e6f0d",
+    "lang": "fr",
+    "sha256": "1aed75570b3576e47d96b82dfb72db5a7c76d0bb815bc2d4a4e5dba82367a0c6"
+  },
+  {
+    "text": "Quelle est la langue officielle du Brésil ?",
+    "label": "Portugais",
+    "context": "La langue officielle du Brésil est le portugais.",
+    "tags": {
+      "category": "social science",
+      "difficulty": "medium"
+    },
+    "id": "40f2110b",
+    "lang": "fr",
+    "sha256": "da8d519251386d9872fdf1b896daa88644edbcb5bbfe37c1c6df87f25c99ddb3"
+  },
+  {
+    "text": "Quel est le nom de la galaxie dans laquelle se trouve la Terre ?",
+    "label": "Voie lactée",
+    "context": "La Terre se trouve dans la galaxie appelée Voie lactée.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "70ed1bf1",
+    "lang": "fr",
+    "sha256": "a7f3744484f4f23fc2d44c99ce3e4f7270a72367021b1a9930ca6b926a6c9da1"
+  },
+  {
+    "text": "Qui a découvert la pénicilline ?",
+    "label": "Alexander Fleming",
+    "context": "La pénicilline a été découverte par Alexander Fleming.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "52214f9d",
+    "lang": "fr",
+    "sha256": "a3844aafe9d35422cd08d4f98d3aeac0688ed00c1e1d5722cc0fe6bb02cf2d1a"
+  },
+  {
+    "text": "Quelle est la racine carrée de 144 ?",
+    "label": "12",
+    "context": "La racine carrée de 144 est 12.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "99051dc7",
+    "lang": "fr",
+    "sha256": "ac8ff9fa45f9195eb1d34efa3a5d7d57e5570e19cd456e4f63ef1f49fce98d85"
+  },
+  {
+    "text": "Quel film d'animation Pixar met en scène un rat cuisinier à Paris ?",
+    "label": "Ratatouille",
+    "context": "Le film d'animation Ratatouille raconte l'histoire d'un rat cuisinier à Paris.",
+    "tags": {
+      "category": "film",
+      "difficulty": "medium"
+    },
+    "id": "2fdbd188",
+    "lang": "fr",
+    "sha256": "21d7433186ba9777428b0c9e9586cd9077f221c8c2de25cb73c075a23efafd58"
+  },
+  {
+    "text": "Comment s'appelle la pièce de Shakespeare où deux amants tragiques se suicident ?",
+    "label": "Roméo et Juliette",
+    "context": "Dans Roméo et Juliette, deux amants tragiques se suicident.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "id": "c5c42d4a",
+    "lang": "fr",
+    "sha256": "40ac08f51f1543f0ec29510a2d773dcd869ca601f84ad0bbd21e6b6e56620083"
+  },
+  {
+    "text": "Quelle est la capitale du Japon ?",
+    "label": "Tokyo",
+    "context": "Tokyo est la capitale du Japon.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "13532d4b",
+    "lang": "fr",
+    "sha256": "72fea709ff828134a8892e572ff1b183583dedce41dfc7931594945985b43c86"
+  },
+  {
+    "text": "Combien de paires de chromosomes possède l'être humain ?",
+    "label": "23",
+    "context": "L'être humain possède 23 paires de chromosomes.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "d17bca44",
+    "lang": "fr",
+    "sha256": "1815de29123d35661a2c1d30113b0a133e150308228671105502996768ffc5ab"
+  },
+  {
+    "text": "Quel est le pays d'origine du tango ?",
+    "label": "Argentine",
+    "context": "Le tango est originaire d'Argentine.",
+    "tags": {
+      "category": "culture",
+      "difficulty": "medium"
+    },
+    "id": "50b21e39",
+    "lang": "fr",
+    "sha256": "d799702bfbbeb246ab829f7cb2089233be083b3e1b1e857bdc5a8605b7dca9b9"
+  },
+  {
+    "text": "Quel est le symbole chimique du sodium ?",
+    "label": "Na",
+    "context": "Le symbole chimique du sodium est Na.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "302dbf24",
+    "lang": "fr",
+    "sha256": "a4bcd68d0107fca2866e286e115191663ea5fa75ab8f1d62a4d8957a473ca00d"
+  },
+  {
+    "text": "Qui a composé la Cinquième Symphonie ?",
+    "label": "Beethoven",
+    "context": "La Cinquième Symphonie a été composée par Beethoven.",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "id": "f45ad144",
+    "lang": "fr",
+    "sha256": "cffb63c8997b336db4173dad6ae6e15e9f138ff4564383cf15199f75c231a1c5"
+  },
+  {
+    "text": "Quel est le plus grand désert chaud du monde ?",
+    "label": "Sahara",
+    "context": "Le Sahara est le plus grand désert chaud du monde.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "id": "d8a8454e",
+    "lang": "fr",
+    "sha256": "8ba62e30d420ddf3fc21f7821f42388135a54ccbeec3ef41cd46cf86bec791a0"
+  },
+  {
+    "text": "En informatique, que signifie l'acronyme CPU ?",
+    "label": "Central Processing Unit",
+    "context": "CPU signifie Central Processing Unit en informatique.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "id": "96b50d79",
+    "lang": "fr",
+    "sha256": "b015f97c796daff608fde2f1b27d071b37f00a1e707573fec538ea7b6684ef96"
+  },
+  {
+    "text": "Quel compositeur autrichien est célèbre pour 'La Flûte enchantée' ?",
+    "label": "Mozart",
+    "context": "Mozart est le compositeur autrichien célèbre pour La Flûte enchantée.",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "id": "c1d52382",
+    "lang": "fr",
+    "sha256": "42cacf7caf79dcb7c782ca1f5b50b8fd882828b8b226ed4ac17320e459865f16"
+  },
+  {
+    "text": "Quelle est la vitesse approximative du son dans l'air à 20°C ?",
+    "label": "343 m/s",
+    "context": "À 20°C, la vitesse du son dans l'air est d'environ 343 m/s.",
+    "tags": {
+      "category": "science",
+      "difficulty": "hard"
+    },
+    "id": "14c63a11",
+    "lang": "fr",
+    "sha256": "86205ed0f2b33638d6bb910413675c3872c76656b8dd15e18b83116c8bbf69a6"
+  },
+  {
+    "text": "Qui a écrit 'Les Trois Mousquetaires' ?",
+    "label": "Alexandre Dumas",
+    "context": "Les Trois Mousquetaires a été écrit par Alexandre Dumas.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "id": "feb4f6bf",
+    "lang": "fr",
+    "sha256": "10ab8e243a398e414828190fb68e0d6bc17703b5a8a0fb069be65b6f2b3b9176"
+  },
+  {
+    "text": "Quel est le nombre d'or, souvent noté phi ?",
+    "label": "1.618",
+    "context": "Le nombre d'or, souvent noté phi, est 1.618.",
+    "tags": {
+      "category": "math",
+      "difficulty": "hard"
+    },
+    "id": "a7189a60",
+    "lang": "fr",
+    "sha256": "c0390139812ed1b0ba397d685c082aded7829bc8961ef606ddd4757ac3601083"
+  },
+  {
+    "text": "Quelle est la formule chimique du benzène ?",
+    "label": "C6H6",
+    "context": "Le benzène a pour formule chimique C6H6.",
+    "tags": {
+      "category": "science",
+      "difficulty": "hard"
+    },
+    "id": "5bfb4b49",
+    "lang": "fr",
+    "sha256": "c119905c199ed8c69475b8a9236ab4ea3d0be9c4005aa5a0d6e029172dd92b41"
+  },
+  {
+    "text": "Quel peintre impressionniste a coupé son oreille ?",
+    "label": "Vincent van Gogh",
+    "context": "Le peintre Vincent van Gogh a coupé son oreille.",
+    "tags": {
+      "category": "art",
+      "difficulty": "medium"
+    },
+    "id": "5aaec546",
+    "lang": "fr",
+    "sha256": "4bcea4cade58c4078a031ee38051e0a9314aa408c40084bc1e7bb13e8a5a12ad"
+  },
+  {
+    "text": "Quel est le plus grand mammifère marin ?",
+    "label": "Baleine bleue",
+    "context": "La baleine bleue est le plus grand mammifère marin.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "1603c466",
+    "lang": "fr",
+    "sha256": "b4a0f41c8dfe524b57df3ee08a02975e5b82c27fe40bf63206409a2f78951f37"
+  },
+  {
+    "text": "Quel est l'appareil qui convertit l'énergie chimique en énergie électrique dans un véhicule électrique ?",
+    "label": "Batterie",
+    "context": "La batterie convertit l'énergie chimique en énergie électrique dans un véhicule électrique.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "id": "879dbdb0",
+    "lang": "fr",
+    "sha256": "08ae543b83fbf343506f8a80baa72af2fe674b22dd604d67a46b45de662cd09a"
+  },
+  {
+    "text": "En quelle année s'est déroulée la Révolution française ?",
+    "label": "1789",
+    "context": "La Révolution française s'est déroulée en 1789.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "id": "3abebec8",
+    "lang": "fr",
+    "sha256": "41c7825ad41b469a874294611e24f559ea6553b3d24afc26685ab76e3d772c22"
+  },
+  {
+    "text": "Quel est le plus grand satellite naturel de Saturne ?",
+    "label": "Titan",
+    "context": "Titan est le plus grand satellite naturel de Saturne.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "dee21653",
+    "lang": "fr",
+    "sha256": "bdb7d0008d2e6bce8980bee8f008e78118d552e0f7bd5983d9686e8bcef00f5e"
+  },
+  {
+    "text": "Quel poème d'Arthur Rimbaud commence par 'Comme je descendais des Fleuves impassibles' ?",
+    "label": "Le Bateau ivre",
+    "context": "Le Bateau ivre est un poème d'Arthur Rimbaud qui commence par 'Comme je descendais des Fleuves impassibles'.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "hard"
+    },
+    "id": "a028ec79",
+    "lang": "fr",
+    "sha256": "9a4b1e0ad0011309a67ffb511f3b3c3141ad622ead9cf6337a6d06db1cde0129"
+  },
+  {
+    "text": "Quel est le logarithme népérien de e ?",
+    "label": "1",
+    "context": "Le logarithme népérien de e est 1.",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "id": "da7f56ed",
+    "lang": "fr",
+    "sha256": "f256fd35e6b3d6361621ea96ab14fdc72b7941fb87fae0c5303cb964dae9bea2"
+  },
+  {
+    "text": "Quel pays est surnommé 'le pays du Soleil-Levant' ?",
+    "label": "Japon",
+    "context": "Le Japon est surnommé le pays du Soleil-Levant.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "id": "8c003a48",
+    "lang": "fr",
+    "sha256": "a2cdbf3639b460e7d93d152538fb1a7b0045db58eba0d4b923ac83a44375df03"
+  },
+  {
+    "text": "Quel est le nom du composé chimique HCl ?",
+    "label": "Acide chlorhydrique",
+    "context": "Le composé chimique HCl est appelé acide chlorhydrique.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "30b4e4d2",
+    "lang": "fr",
+    "sha256": "fb0784207fd531ee077f3f9a043a521de5e2ca718f3458cda8e056a587d6c868"
+  }
+]

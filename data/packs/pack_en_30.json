@@ -1,0 +1,362 @@
+[
+  {
+    "text": "What is the capital of France?",
+    "label": "Paris",
+    "context": "The capital of France is Paris.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "81018c68",
+    "lang": "en",
+    "sha256": "2e9b346f9a74417645917d44fafd6efa2f2a863c421855e76e4739661a5137a4"
+  },
+  {
+    "text": "Who proposed the theory of relativity?",
+    "label": "Albert Einstein",
+    "context": "The theory of relativity was proposed by Albert Einstein.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "ecad5940",
+    "lang": "en",
+    "sha256": "fde919f5ea525fd75aff54ef9aadd0f4769286e35616bcf47bb5a1c8163dd4cd"
+  },
+  {
+    "text": "What is the chemical symbol for water?",
+    "label": "H2O",
+    "context": "The chemical symbol for water is H2O.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "d1acddd0",
+    "lang": "en",
+    "sha256": "89c0a36d61f1c506588c434612d37187a3540f54a0260fe03c88ef1804105eba"
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "label": "Leonardo da Vinci",
+    "context": "The Mona Lisa was painted by Leonardo da Vinci.",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "id": "9afcfd72",
+    "lang": "en",
+    "sha256": "cf903d8062046e659e7e74b2cec5d47777f646bc42350e9969eef9d15fc2e5b5"
+  },
+  {
+    "text": "What is 7 * 8?",
+    "label": "56",
+    "context": "7 multiplied by 8 equals 56.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "9a1813c1",
+    "lang": "en",
+    "sha256": "0c8d4195f43be11cd8335b1c3f82f67fbd412e51fa55c6b9dcf95685021d7083"
+  },
+  {
+    "text": "In which continent is Kenya located?",
+    "label": "Africa",
+    "context": "Kenya is located in Africa.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "323a811d",
+    "lang": "en",
+    "sha256": "7c1be9b634ca93d8106ba8165805b55ab2b4326d31975e3d1bb6ded4f528bf5b"
+  },
+  {
+    "text": "What is the largest planet in our Solar System?",
+    "label": "Jupiter",
+    "context": "The largest planet in our Solar System is Jupiter.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "0f8e5c19",
+    "lang": "en",
+    "sha256": "79a62666a2420d28b4f1916a669017d61125eee7168d395d33e4a7bfc7eaf084"
+  },
+  {
+    "text": "Who is known as the father of computers?",
+    "label": "Charles Babbage",
+    "context": "Charles Babbage is known as the father of computers.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "id": "ffc8d747",
+    "lang": "en",
+    "sha256": "f1f5f24ba67a0c01317d445ae3e3671d93d4ca7ac82ca60548c461695acb4dd7"
+  },
+  {
+    "text": "What year did the Titanic sink?",
+    "label": "1912",
+    "context": "The Titanic sank in 1912.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "id": "4cdb6fe1",
+    "lang": "en",
+    "sha256": "4c515c01456d2b4248dce5572e7734fb9bb71cf70618a0e926f6a4e6de9b35c8"
+  },
+  {
+    "text": "What is the boiling point of water in Celsius?",
+    "label": "100°C",
+    "context": "The boiling point of water is 100°C.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "e49b3368",
+    "lang": "en",
+    "sha256": "8757c05e0fec523d4149e6f6191d9596338c82a894343a142433a0ea9e596509"
+  },
+  {
+    "text": "Who wrote 'Pride and Prejudice'?",
+    "label": "Jane Austen",
+    "context": "'Pride and Prejudice' was written by Jane Austen.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "id": "6766f264",
+    "lang": "en",
+    "sha256": "55304d4591f5de117aaff17d1eb494174e35b96996cbc5744c91cb4de9a9a9aa"
+  },
+  {
+    "text": "What is the square root of 144?",
+    "label": "12",
+    "context": "The square root of 144 is 12.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "d4ff7c71",
+    "lang": "en",
+    "sha256": "a43fe8a08e876272891a5abdc154f44be07b51da5108aa6a7ec754d397810651"
+  },
+  {
+    "text": "Which element has atomic number 6?",
+    "label": "Carbon",
+    "context": "The element with atomic number 6 is Carbon.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "71692dfe",
+    "lang": "en",
+    "sha256": "513e1e905d8955c2767b3ca6face13a65e046c3ee356c147021e0716c658f2f9"
+  },
+  {
+    "text": "What is the currency of Japan?",
+    "label": "Yen",
+    "context": "The currency of Japan is the Yen.",
+    "tags": {
+      "category": "economics",
+      "difficulty": "easy"
+    },
+    "id": "31850589",
+    "lang": "en",
+    "sha256": "158633cd95d81afb44166abf66d1a967fae7a2716df6aa2dba9694964986233d"
+  },
+  {
+    "text": "Who discovered penicillin?",
+    "label": "Alexander Fleming",
+    "context": "Penicillin was discovered by Alexander Fleming.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "9e2da788",
+    "lang": "en",
+    "sha256": "d0bf7b324343402be2b1ad5464a43485b85ab86f56e63b8e4c509b5d9ed252fc"
+  },
+  {
+    "text": "What is the smallest prime number?",
+    "label": "2",
+    "context": "The smallest prime number is 2.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "515de1df",
+    "lang": "en",
+    "sha256": "39b8fd4fad4b61de5b197688370cf3bd09d33b19ad999d447c30dc70935f4a18"
+  },
+  {
+    "text": "Which country hosted the 2016 Summer Olympics?",
+    "label": "Brazil",
+    "context": "The 2016 Summer Olympics were hosted by Brazil.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "medium"
+    },
+    "id": "c40b2a5e",
+    "lang": "en",
+    "sha256": "06fcadbd816e6724f0c957aff4fa13f2d6520a8cab655ec62cbf1c2513d2c794"
+  },
+  {
+    "text": "What is the capital city of Australia?",
+    "label": "Canberra",
+    "context": "The capital city of Australia is Canberra.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "30890f91",
+    "lang": "en",
+    "sha256": "6fdde6a0778702ec13eb93026d013cfe9e096ed97ef22c3afa729a16ff34037b"
+  },
+  {
+    "text": "What gas do plants absorb from the atmosphere?",
+    "label": "Carbon dioxide",
+    "context": "Plants absorb Carbon dioxide from the atmosphere.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "f494826e",
+    "lang": "en",
+    "sha256": "c0d5a63f76db79302a384b3ccf9bde611117ebe21619acc1add2ccf30a2a5d73"
+  },
+  {
+    "text": "Who wrote 'Hamlet'?",
+    "label": "William Shakespeare",
+    "context": "'Hamlet' was written by William Shakespeare.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "id": "2405032b",
+    "lang": "en",
+    "sha256": "170f13d716b48d87a13043e95490a8a1dc9041c6fd01b86d67ec506e1058011e"
+  },
+  {
+    "text": "What is the largest ocean on Earth?",
+    "label": "Pacific Ocean",
+    "context": "The largest ocean on Earth is the Pacific Ocean.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "16979109",
+    "lang": "en",
+    "sha256": "c272f9db95cd037b7c77351716cce267ea33007882d8875a2b5daac31ca60741"
+  },
+  {
+    "text": "What is 15% of 200?",
+    "label": "30",
+    "context": "15% of 200 is 30.",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "id": "aa9561e1",
+    "lang": "en",
+    "sha256": "2c72edb67388615f4446d7a12e83d7344a0af6e9b629c7b845857c98a9512fd7"
+  },
+  {
+    "text": "Who is the Greek god of the sea?",
+    "label": "Poseidon",
+    "context": "Poseidon is the Greek god of the sea.",
+    "tags": {
+      "category": "mythology",
+      "difficulty": "medium"
+    },
+    "id": "5ab7c185",
+    "lang": "en",
+    "sha256": "373c5fff86cf7502799587ede0acc8e5965358cdc57b20efe04f583d191b5cf0"
+  },
+  {
+    "text": "What year did World War II end?",
+    "label": "1945",
+    "context": "World War II ended in 1945.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "id": "e57f4fb4",
+    "lang": "en",
+    "sha256": "25a86cb5e7ad950e377a95650c7aad903d80e23774c72ebd7306bf22e58037bb"
+  },
+  {
+    "text": "What is the main language spoken in Brazil?",
+    "label": "Portuguese",
+    "context": "The main language spoken in Brazil is Portuguese.",
+    "tags": {
+      "category": "language",
+      "difficulty": "easy"
+    },
+    "id": "d4240b2a",
+    "lang": "en",
+    "sha256": "c6d773ca14ee0e0127344ee168fd74ab473fae909bee419d81b83bb41f6eb498"
+  },
+  {
+    "text": "What is the chemical formula for table salt?",
+    "label": "NaCl",
+    "context": "The chemical formula for table salt is NaCl.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "6fa46322",
+    "lang": "en",
+    "sha256": "9a99327a2bfd989f38b387a5dce90916e22bd3a23d0a8454c12e8784a22a6a5d"
+  },
+  {
+    "text": "Who painted 'Starry Night'?",
+    "label": "Vincent van Gogh",
+    "context": "'Starry Night' was painted by Vincent van Gogh.",
+    "tags": {
+      "category": "art",
+      "difficulty": "medium"
+    },
+    "id": "09adf039",
+    "lang": "en",
+    "sha256": "0f4f417c6ebeb1919d2be724dff3e6ab638a5c7362db2ef123cc64a7cd32396a"
+  },
+  {
+    "text": "What is the value of pi rounded to two decimal places?",
+    "label": "3.14",
+    "context": "The value of pi rounded to two decimal places is 3.14.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "d2155f92",
+    "lang": "en",
+    "sha256": "111bd661d7247e9f0f2ef9e93a85027a3f99761b96d8497564b6b08fa55edb3d"
+  },
+  {
+    "text": "Which planet is known as the Red Planet?",
+    "label": "Mars",
+    "context": "Mars is known as the Red Planet.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "285dec43",
+    "lang": "en",
+    "sha256": "837f7c7bb281fca94e3880e4f6421e4f36170119100373c36429f1a5485792b8"
+  },
+  {
+    "text": "What is the tallest mountain in the world?",
+    "label": "Mount Everest",
+    "context": "Mount Everest is the tallest mountain in the world.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "id": "5f7967dc",
+    "lang": "en",
+    "sha256": "e3e0ee695911afe5932c08a596cbfd02e8780837f10ad8c328ac9bb1245b22a2"
+  }
+]

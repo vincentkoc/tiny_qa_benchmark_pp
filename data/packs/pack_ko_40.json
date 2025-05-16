@@ -1,0 +1,602 @@
+[
+  {
+    "text": "태양계에서 가장 큰 행성은 무엇인가요?",
+    "label": "목성",
+    "context": "목성은 태양계에서 가장 큰 행성입니다.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "easy"
+    },
+    "sha256": "07a04e0d0ccfff51792e4dc2bd8f651bb20fe17228c21970689695acaa271a5f",
+    "id": "fb50a28d",
+    "lang": "ko"
+  },
+  {
+    "text": "한국의 수도는 어디인가요?",
+    "label": "서울",
+    "context": "서울은 대한민국의 수도입니다.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "77cb923368a3ab84e871e200e9013142b9e1c294bbf4e87c01b10080779465bf",
+    "id": "8c21d542",
+    "lang": "ko"
+  },
+  {
+    "text": "물의 화학식은 무엇인가요?",
+    "label": "H2O",
+    "context": "물의 화학식은 H2O입니다.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "easy"
+    },
+    "sha256": "add9f492bec9ac2c75e8e869fa8123c1c7b113a9ea567eee080767cc0511558f",
+    "id": "6260a2bf",
+    "lang": "ko"
+  },
+  {
+    "text": "대한독립만세는 어느 해에 선언되었나요?",
+    "label": "1919년",
+    "context": "1919년은 대한민국 임시정부 수립과 함께 독립운동이 활발해진 해입니다.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "3cb6020ad16dc2d7a163c79fd06aa10f33011b33bb8817cbe0cc697820fbc916",
+    "id": "ce558463",
+    "lang": "ko"
+  },
+  {
+    "text": "피타고라스 정리에서 빗변을 제곱한 값은 무엇의 합과 같나요?",
+    "label": "두 직각변의 제곱합",
+    "context": "빗변을 제곱한 값은 두 직각변의 제곱합과 같습니다.",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "sha256": "24d3bf9ee3dfe95f729c607b3dc5d0b7cfe768193bce57529457026548b47b67",
+    "id": "3c016187",
+    "lang": "ko"
+  },
+  {
+    "text": "셰익스피어의 희곡 햄릿의 원제는 무엇인가요?",
+    "label": "Hamlet",
+    "context": "Hamlet은 셰익스피어가 쓴 비극입니다.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "hard"
+    },
+    "sha256": "096fdf7bfe05b26d00442176c9a049da5981c436cb5bd54d1a5b07d725e66a0b",
+    "id": "36a0b961",
+    "lang": "ko"
+  },
+  {
+    "text": "빙하기 이후 인류가 농경을 시작한 혁명을 일반적으로 무엇이라고 하나요?",
+    "label": "신석기 혁명",
+    "context": "신석기 혁명은 빙하기 이후 농경을 시작한 시대적 변화를 의미합니다.",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "sha256": "a7d4ca5b51e683f62f569bfa188977d846492844c7459822333c4b8cb8060057",
+    "id": "7365e4ab",
+    "lang": "ko"
+  },
+  {
+    "text": "사과의 씨앗은 보통 몇 개의 염색체를 가지고 있나요?",
+    "label": "34개",
+    "context": "사과의 씨앗은 34개의 염색체를 가지고 있습니다.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "hard"
+    },
+    "sha256": "233e2a5a908123ab17c47e2da2f87c4aa340cd201d7c969f6bf053eb9c61ac8d",
+    "id": "5ebe1160",
+    "lang": "ko"
+  },
+  {
+    "text": "정수 7과 3의 최대공약수(GCD)는 무엇인가요?",
+    "label": "1",
+    "context": "7과 3의 최대공약수(GCD)는 1입니다.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "sha256": "86d28b14fb4bd7cfd28f8e7ddd1cbcb3ef272d75638aa682a2b1dc38fe15f807",
+    "id": "9b7ce412",
+    "lang": "ko"
+  },
+  {
+    "text": "세계에서 가장 깊은 호수는 무엇인가요?",
+    "label": "바이칼 호",
+    "context": "바이칼 호는 세계에서 가장 깊은 호수입니다.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "826eb9f95dc46e1c167d5a78c2b213dac9c4a595644c1206f45851a494537f6a",
+    "id": "cde126cb",
+    "lang": "ko"
+  },
+  {
+    "text": "빛의 속도는 진공에서 초당 대략 얼마인가요?",
+    "label": "299,792,458 m/s",
+    "context": "빛의 속도는 진공에서 299,792,458 m/s입니다.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "medium"
+    },
+    "sha256": "955e7efc25299a87272a8690ab270b5d97b0cb2238caa36638beecdcfdfddfdc",
+    "id": "1cdd71f5",
+    "lang": "ko"
+  },
+  {
+    "text": "한국의 국가(국악)는 무엇인가요?",
+    "label": "애국가",
+    "context": "애국가는 대한민국의 국가입니다.",
+    "tags": {
+      "category": "music",
+      "difficulty": "easy"
+    },
+    "sha256": "7672fe4533edf6b61e9e938eedb77ea590d47c8b6e78996bcb1a9b9785bfe321",
+    "id": "4ceb8237",
+    "lang": "ko"
+  },
+  {
+    "text": "세계에서 가장 긴 강은 무엇인가요?",
+    "label": "나일 강",
+    "context": "나일 강은 세계에서 가장 긴 강입니다.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "9cbae85f42babf6dd723cd00957da92e3f0bb463f2eeb11d8a2be850252e78ea",
+    "id": "aa903c71",
+    "lang": "ko"
+  },
+  {
+    "text": "소리의 속도는 공기 중에서 약 얼마인가요?",
+    "label": "343 m/s",
+    "context": "소리의 속도는 공기 중에서 약 343 m/s입니다.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "medium"
+    },
+    "sha256": "27e79ae6fb46122c692c48935b19cc3642a18f74ae02a8508191f29ffa3f02ef",
+    "id": "514e085e",
+    "lang": "ko"
+  },
+  {
+    "text": "루브르 박물관이 위치한 도시는 어디인가요?",
+    "label": "파리",
+    "context": "루브르 박물관은 파리에 위치해 있습니다.",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "sha256": "e189a3481f389b18ad226a037cef1290a3dfe82dfffc493be7dde17a7a581202",
+    "id": "1502f590",
+    "lang": "ko"
+  },
+  {
+    "text": "비트코인은 최초로 언제 발행되었나요?",
+    "label": "2009년",
+    "context": "비트코인은 2009년에 최초로 발행되었습니다.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "sha256": "ce3c690532465cfc7638fa463ac136077148387d1de39b6c44e6cd83202de8db",
+    "id": "33147e54",
+    "lang": "ko"
+  },
+  {
+    "text": "세계에서 가장 높은 산의 이름은 무엇인가요?",
+    "label": "에베레스트 산",
+    "context": "에베레스트 산은 세계에서 가장 높은 산입니다.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "d9a127574a0ea3df775f7db2c7d8afaa51d11dd2e0d565bebcfaf80853b6709c",
+    "id": "dfccbf47",
+    "lang": "ko"
+  },
+  {
+    "text": "DNA의 이중 나선 구조를 발견한 과학자는 누구인가요?",
+    "label": "제임스 왓슨",
+    "context": "제임스 왓슨은 DNA의 이중 나선 구조를 발견한 과학자입니다.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "medium"
+    },
+    "sha256": "a757dc3872e04b40057ad8511d6d7dc2a9239f99f8cc166d10b4635788a891a6",
+    "id": "88a92137",
+    "lang": "ko"
+  },
+  {
+    "text": "한국에서 가장 높은 산은 무엇인가요?",
+    "label": "한라산",
+    "context": "한라산은 한국에서 가장 높은 산입니다.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "423aeae0d9e7e6294b70d5320bb7775f2d4ef419b918b189108eda69f0f93add",
+    "id": "e1ed9a66",
+    "lang": "ko"
+  },
+  {
+    "text": "알렉산더 대왕이 페르시아 제국을 정복한 해는 언제인가요?",
+    "label": "기원전 330년",
+    "context": "기원전 330년에 알렉산더 대왕이 페르시아 제국을 정복했습니다.",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "sha256": "b13b0f9675743490a8a4b5aceb74d3714e52004d4f954af5638acbc8d7f58c40",
+    "id": "b4f99106",
+    "lang": "ko"
+  },
+  {
+    "text": "원주율 π의 소수점 이하는 몇 자리까지 알려져 있나요?",
+    "label": "수조 자리",
+    "context": "원주율 π의 소수점 이하는 수조 자리까지 계산되었습니다.",
+    "tags": {
+      "category": "math",
+      "difficulty": "hard"
+    },
+    "sha256": "253c8d85489215ec9bfe8caa2822bbe2a3c418ec1bafc707ab810531bf728d65",
+    "id": "009685f9",
+    "lang": "ko"
+  },
+  {
+    "text": "셰익스피어가 쓴 로맨틱 희곡은 무엇인가요?",
+    "label": "로미오와 줄리엣",
+    "context": "로미오와 줄리엣은 셰익스피어가 쓴 로맨틱 희곡입니다.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "sha256": "71cebf1a9908aead561c37699ec44748d1c2e74a16bc3f5179f08b21359fa2e9",
+    "id": "2988a4bb",
+    "lang": "ko"
+  },
+  {
+    "text": "나폴레옹이 워털루 전투에서 패배한 해는 언제인가요?",
+    "label": "1815년",
+    "context": "1815년에 나폴레옹이 워털루 전투에서 패배했습니다.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "1282ebf93f8ab6bdd21ce313b9577845238ea856ad1e90c34d98becb12555d13",
+    "id": "a405433e",
+    "lang": "ko"
+  },
+  {
+    "text": "컴퓨터 과학에서 알고리즘을 처음 정의한 사람은 누구인가요?",
+    "label": "도널드 크누스",
+    "context": "도널드 크누스는 알고리즘을 체계적으로 정의한 컴퓨터 과학자입니다.",
+    "tags": {
+      "category": "computer science",
+      "difficulty": "hard"
+    },
+    "sha256": "d83b74c65f71b8725833c4ea0ae4b073e2604070d1b27792ef5c0ce393faf38e",
+    "id": "29251ff6",
+    "lang": "ko"
+  },
+  {
+    "text": "오 헨리의 단편 소설 '크리스마스 선물'의 원제는 무엇인가요?",
+    "label": "The Gift of the Magi",
+    "context": "The Gift of the Magi는 오 헨리의 단편 소설 원제입니다.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "hard"
+    },
+    "sha256": "983c6b00b27d3856a6a7ed93530e3e4678732de1752742153cd2318ffeed9e69",
+    "id": "de43c781",
+    "lang": "ko"
+  },
+  {
+    "text": "세계 인구가 80억 명을 넘은 해는 언제인가요?",
+    "label": "2022년",
+    "context": "2022년에 세계 인구는 80억 명을 넘었습니다.",
+    "tags": {
+      "category": "demography",
+      "difficulty": "medium"
+    },
+    "sha256": "d07e160cfb1096a4335c0d3c8e1bdf9a185471912854a712dbd5f654dddd344c",
+    "id": "d9a6b197",
+    "lang": "ko"
+  },
+  {
+    "text": "일본의 수도는 어디인가요?",
+    "label": "도쿄",
+    "context": "도쿄는 일본의 수도입니다.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "4c751d55cf9dc94eb46b33502323ec77b6856c4b6e11f792d66fdea5c26a97fb",
+    "id": "1aa4843e",
+    "lang": "ko"
+  },
+  {
+    "text": "바흐가 작곡한 토카타와 푸가는 어느 악곡군에 속하나요?",
+    "label": "오르간 작품",
+    "context": "Toccata and Fugue in D minor는 바흐의 오르간 작품입니다.",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "sha256": "eb9d1922f18db3493d3abe507150b6b83554c5d787555eb3416d102656f26d41",
+    "id": "6e7bb3ae",
+    "lang": "ko"
+  },
+  {
+    "text": "유클리드 기하학에서 평행선의 공리는 몇 번째 공리인가요?",
+    "label": "5번 공리",
+    "context": "평행선의 공리는 유클리드 기하학의 5번 공리입니다.",
+    "tags": {
+      "category": "math",
+      "difficulty": "hard"
+    },
+    "sha256": "68c44a4aca145953ed3af026ad39276731cc17ecddb43003ee3b9c63becb3f4d",
+    "id": "01b3e4e9",
+    "lang": "ko"
+  },
+  {
+    "text": "페테르부르크의 구 이름은 무엇인가요?",
+    "label": "레닌그라드",
+    "context": "레닌그라드는 한때 페테르부르크의 구 이름이었습니다.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "090bad91c7175b5a45ec5aa02ccc678486b09b57e35241cfb77d566d7b393a07",
+    "id": "7e0ed19e",
+    "lang": "ko"
+  },
+  {
+    "text": "컴퓨터 프로그래밍 언어 파이썬을 개발한 사람은 누구인가요?",
+    "label": "귀도 반 로섬",
+    "context": "귀도 반 로섬은 파이썬을 개발한 프로그래머입니다.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    "sha256": "57300be62f00281693ab3a13ef93fc541e43766579a661677aaa241a7d6d2a06",
+    "id": "eea0c4f8",
+    "lang": "ko"
+  },
+  {
+    "text": "아인슈타인의 상대성 이론에서 E는 무엇을 의미하나요?",
+    "label": "에너지",
+    "context": "상대성 이론 식 E=mc^2에서 E는 에너지를 의미합니다.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "medium"
+    },
+    "sha256": "0e0b7a8558a44e3c41d98f80d838b5b7da907e017503decc844942710a0c845a",
+    "id": "1abd7928",
+    "lang": "ko"
+  },
+  {
+    "text": "세계에서 가장 많이 사용되는 언어는 무엇인가요?",
+    "label": "중국어",
+    "context": "중국어는 세계에서 가장 많이 사용되는 언어입니다.",
+    "tags": {
+      "category": "language",
+      "difficulty": "easy"
+    },
+    "sha256": "3c638fd9e6d07a41f9f6651b3512827e7ee0bd171f4a5c9e77fcf1352a8f6eae",
+    "id": "714d1dcc",
+    "lang": "ko"
+  },
+  {
+    "text": "노벨 평화상을 가장 많이 받은 국가는 어디인가요?",
+    "label": "미국",
+    "context": "미국은 노벨 평화상을 가장 많이 받은 국가입니다.",
+    "tags": {
+      "category": "politics",
+      "difficulty": "medium"
+    },
+    "sha256": "1d66ba07d43fdae86217db7cd1ac95e7d679cb80fea1dc9754d221e0ebadf4fe",
+    "id": "fb7a210b",
+    "lang": "ko"
+  },
+  {
+    "text": "아리스토텔레스는 어느 시대의 철학자인가요?",
+    "label": "고대 그리스",
+    "context": "아리스토텔레스는 고대 그리스의 철학자입니다.",
+    "tags": {
+      "category": "philosophy",
+      "difficulty": "medium"
+    },
+    "sha256": "76d78bf1d5a1b4e71a17ea2f2ee5df0018cc20fa882f1d63f8da977db6277f00",
+    "id": "529aa0a6",
+    "lang": "ko"
+  },
+  {
+    "text": "피카소가 창시한 회화 양식은 무엇인가요?",
+    "label": "입체파",
+    "context": "입체파는 피카소가 창시한 회화 양식입니다.",
+    "tags": {
+      "category": "art",
+      "difficulty": "hard"
+    },
+    "sha256": "faf95e4568e87e708480016aa8c95b94a5b90539996ab5321c6e5b7d0768937e",
+    "id": "be0222b3",
+    "lang": "ko"
+  },
+  {
+    "text": "리오넬 메시(Lionel Messi)는 어떤 스포츠 종목에서 유명한 선수인가요?",
+    "label": "축구",
+    "context": "리오넬 메시는 축구 선수로 유명합니다.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "sha256": "6a24f934c1caae7e66ee0acd119e9de22898fb8c27ec753c9fcaec6c3a55cee9",
+    "id": "483ad8bc",
+    "lang": "ko"
+  },
+  {
+    "text": "인류가 처음 달에 착륙한 해는 언제인가요?",
+    "label": "1969년",
+    "context": "1969년에 인류가 처음 달에 착륙했습니다.",
+    "tags": {
+      "category": "space",
+      "difficulty": "easy"
+    },
+    "sha256": "4a4b1308f744ac36ff58905b41a2ea06c6cf57dcd53e3ed6ff307b7ceee5b60b",
+    "id": "6ddc092f",
+    "lang": "ko"
+  },
+  {
+    "text": "아름다운 물리학 이론 '끈 이론'의 영어 명칭은 무엇인가요?",
+    "label": "String Theory",
+    "context": "String Theory는 끈 이론의 영어 명칭입니다.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "hard"
+    },
+    "sha256": "ae185b3734928028ccfca3674fc7fd13e2356b493b1280acc07b7073f554bd2f",
+    "id": "085e073c",
+    "lang": "ko"
+  },
+  {
+    "text": "흰 눈을 보면 굴절로 인해 어떤 색이 보이나요?",
+    "label": "무지개 색",
+    "context": "흰 눈을 보면 무지개 색이 보일 수 있습니다.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "sha256": "447dc46d80e8027d71c243b6dd71debe4607cb5dec7717a8ccbee65af13da6f6",
+    "id": "ef21e413",
+    "lang": "ko"
+  },
+  {
+    "text": "프랑스 혁명은 어느 해에 시작되었나요?",
+    "label": "1789년",
+    "context": "1789년에 프랑스 혁명이 시작되었습니다.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "sha256": "f50cee221903069cfa2781c2e4d3a3ad59e093233acf72d86e6a038d1dc10f59",
+    "id": "82d47d16",
+    "lang": "ko"
+  },
+  {
+    "text": "제임스 웹 우주 망원경의 약자는 무엇인가요?",
+    "label": "JWST",
+    "context": "JWST는 제임스 웹 우주 망원경의 약자입니다.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "medium"
+    },
+    "sha256": "d7a3c46ddaee437dacdabfe2858a32dd40a2c05bdb6e4998750fbf8db4be0e2d",
+    "id": "41f53f8e",
+    "lang": "ko"
+  },
+  {
+    "text": "콜럼버스가 아메리카 대륙을 발견한 해는 언제인가요?",
+    "label": "1492년",
+    "context": "1492년에 콜럼버스가 아메리카 대륙을 발견했습니다.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "464bfe7d7649ceaa69d28d1cb1ed3ba0a1d9e55452a9031dd5e55799e2c0acf9",
+    "id": "5257642f",
+    "lang": "ko"
+  },
+  {
+    "text": "고대 로마의 대표적 도로망은 무엇으로 알려져 있나요?",
+    "label": "아피아 가도",
+    "context": "아피아 가도는 고대 로마의 대표적 도로망입니다.",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "sha256": "77dd38f0915307887734d6a58251382a0ec5b9b46310a91e8d880b690f8bba4a",
+    "id": "6711ebda",
+    "lang": "ko"
+  },
+  {
+    "text": "SQL에서 데이터를 조회할 때 사용하는 명령어는 무엇인가요?",
+    "label": "SELECT",
+    "context": "SELECT는 SQL에서 데이터를 조회할 때 사용하는 명령어입니다.",
+    "tags": {
+      "category": "computer science",
+      "difficulty": "easy"
+    },
+    "sha256": "583bfc0b5de5d102ea47b2c2e14ac2c3ad2466577341198cfe61c9b5193eb7a1",
+    "id": "55c9cedb",
+    "lang": "ko"
+  },
+  {
+    "text": "한국 전쟁은 어느 해에 발발했나요?",
+    "label": "1950년",
+    "context": "1950년에 한국 전쟁이 발발했습니다.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "sha256": "5de0bbed42ee0ce90ce34d9f69d52826ac466e121dfdb2910f87a54c47359979",
+    "id": "02d94a50",
+    "lang": "ko"
+  },
+  {
+    "text": "일은 주어진 시간을 다 채운다는 법칙으로 알려진 사람의 이름은 무엇인가요?",
+    "label": "파킨슨",
+    "context": "파킨슨은 일은 주어진 시간을 다 채운다는 법칙을 제시한 사람입니다.",
+    "tags": {
+      "category": "economics",
+      "difficulty": "hard"
+    },
+    "sha256": "21b92972b824d6597b618f54e9e7b18c2d3a52c2204f67b2302c8dbca9353bec",
+    "id": "81a81823",
+    "lang": "ko"
+  },
+  {
+    "text": "빛의 굴절 법칙을 발견한 물리학자의 이름은 무엇인가요?",
+    "label": "스넬",
+    "context": "스넬은 빛의 굴절 법칙을 발견한 물리학자입니다.",
+    "tags": {
+      "category": "physics",
+      "difficulty": "medium"
+    },
+    "sha256": "a8255e1973afbc617c45550ba280e4810f2fb5ce28102ee99e01fbad7c29adc3",
+    "id": "117bfdf4",
+    "lang": "ko"
+  },
+  {
+    "text": "2020 도쿄 올림픽이 개최된 연도는 언제인가요?",
+    "label": "2021년",
+    "context": "2021년에 2020 도쿄 올림픽이 개최되었습니다.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "sha256": "24bef5efae97e3cf6f620bf06d246a7e73836c5bd53fe69929f038bfd8227890",
+    "id": "1aa578e4",
+    "lang": "ko"
+  },
+  {
+    "text": "빅데이터 분석에 자주 사용되는 오픈소스 분산 처리 시스템은 무엇인가요?",
+    "label": "하둡",
+    "context": "하둡은 빅데이터 분석에 자주 사용되는 오픈소스 분산 처리 시스템입니다.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "sha256": "f4d130ae4a01903fb287d508b4dd9141b898bb2d863def24fb870b385836db72",
+    "id": "2b716f07",
+    "lang": "ko"
+  }
+]

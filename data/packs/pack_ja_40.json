@@ -1,0 +1,482 @@
+[
+  {
+    "text": "5 × 7 は何ですか？",
+    "label": "35",
+    "context": "5 × 7 は 35 です。",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "b8cabceb",
+    "lang": "ja",
+    "sha256": "199ea4c33f6e9f1619f3ccfdb4b20c6cd39ba2c7722404d3c1ced9a455b5a9d4"
+  },
+  {
+    "text": "水の沸点は何度ですか？",
+    "label": "100°C",
+    "context": "水の沸点は 100°C です。",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "89e96f5f",
+    "lang": "ja",
+    "sha256": "7aa8766399da9d51ff4afa216c4cd63d78fdc076f7834be3eb344802be5e891d"
+  },
+  {
+    "text": "日本の首都はどこですか？",
+    "label": "東京",
+    "context": "日本の首都は東京です。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "02f96eb0",
+    "lang": "ja",
+    "sha256": "6c14ec50d05e63c524cf450d00340874db8baa2b039669128feeb04afa0b2072"
+  },
+  {
+    "text": "アメリカ独立宣言が採択された年は？",
+    "label": "1776年",
+    "context": "アメリカ独立宣言は1776年に採択されました。",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "id": "44a3ba04",
+    "lang": "ja",
+    "sha256": "db56561f8e14acc70f7f99dd217b85a4fbb7b959e81e1a122ed97863aedd5811"
+  },
+  {
+    "text": "『ハリー・ポッター』シリーズの作者は？",
+    "label": "J.K.ローリング",
+    "context": "『ハリー・ポッター』シリーズの作者はJ.K.ローリングです。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "id": "bdb640fb",
+    "lang": "ja",
+    "sha256": "13480247883f8b658a037314f5aea58ad7c48b2a46c7915ef1019dbce4be3f83"
+  },
+  {
+    "text": "『イエロー・サブマリン』という曲を作ったバンドは？",
+    "label": "The Beatles",
+    "context": "『イエロー・サブマリン』という曲を作ったのはThe Beatlesです。",
+    "tags": {
+      "category": "music",
+      "difficulty": "easy"
+    },
+    "id": "9b80519b",
+    "lang": "ja",
+    "sha256": "2a2ae1b59b3ddc6b96fb47ecb29ed076048df1b77aaded8f0c2d792bd4c05838"
+  },
+  {
+    "text": "サッカーの試合は何人対何人で行われますか？",
+    "label": "11対11",
+    "context": "サッカーの試合は11対11で行われます。",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "id": "1912a8b1",
+    "lang": "ja",
+    "sha256": "dd5acb0791c975a9c593880b836741e5a2ad4fb936a2a567893695a466f27e6a"
+  },
+  {
+    "text": "モナ・リザを描いたのは誰ですか？",
+    "label": "レオナルド・ダ・ヴィンチ",
+    "context": "モナ・リザを描いたのはレオナルド・ダ・ヴィンチです。",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "id": "ade90e76",
+    "lang": "ja",
+    "sha256": "d6d9997d5f180b3f7abd70ea633356f821c4833454051a16086e439f8a696ca7"
+  },
+  {
+    "text": "太陽系で最も大きい惑星は何ですか？",
+    "label": "木星",
+    "context": "太陽系で最も大きい惑星は木星です。",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "78608e90",
+    "lang": "ja",
+    "sha256": "e4931c5823fde802abeef8eea8fbf8b9369b104699145d5b611e570be58c6293"
+  },
+  {
+    "text": "アマゾン川はどの大陸を流れていますか？",
+    "label": "南アメリカ大陸",
+    "context": "アマゾン川は南アメリカ大陸を流れています。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "id": "2cb0c488",
+    "lang": "ja",
+    "sha256": "6864251529fe9bdffd0810139633a32f2d4dcae509222977f467ce5972a06ce2"
+  },
+  {
+    "text": "フランス革命が始まった年は？",
+    "label": "1789年",
+    "context": "フランス革命は1789年に始まりました。",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "id": "b405cc03",
+    "lang": "ja",
+    "sha256": "b722805209e48f6c45fb0522a4440efa78f13d6ff579a80c1c3e3039cb94f571"
+  },
+  {
+    "text": "三角形の内角の和はいくつですか？",
+    "label": "180度",
+    "context": "三角形の内角の和は180度です。",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "id": "87d9506d",
+    "lang": "ja",
+    "sha256": "ad15ec15766dcb209c909815240551ad70f9614db0fc289add9dde56d9884def"
+  },
+  {
+    "text": "『源氏物語』の作者は誰ですか？",
+    "label": "紫式部",
+    "context": "『源氏物語』の作者は紫式部です。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "id": "9b567307",
+    "lang": "ja",
+    "sha256": "4c5dd4664c48d08aea2ca3358f45e6a0742ee77a6e76c3146dbfa3db6a17ad07"
+  },
+  {
+    "text": "交響曲第九番『合唱』を作曲したのは？",
+    "label": "ベートーヴェン",
+    "context": "交響曲第九番『合唱』を作曲したのはベートーヴェンです。",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "id": "6578aed6",
+    "lang": "ja",
+    "sha256": "2b06cd149291432d794002f4bd326ca515e0bcb175bcfc560ffd40b4a2c936c4"
+  },
+  {
+    "text": "マラソンの距離は何キロメートルですか？",
+    "label": "42.195km",
+    "context": "マラソンの距離は42.195kmです。",
+    "tags": {
+      "category": "sports",
+      "difficulty": "medium"
+    },
+    "id": "2276e3ab",
+    "lang": "ja",
+    "sha256": "5b02b87e6785a4bfe9b985a1e7d3b8de5b849bc2fc1ab7dbc085a67955cabe56"
+  },
+  {
+    "text": "『星月夜』を描いた画家は誰ですか？",
+    "label": "ゴッホ",
+    "context": "『星月夜』を描いた画家はゴッホです。",
+    "tags": {
+      "category": "art",
+      "difficulty": "medium"
+    },
+    "id": "7865e4a1",
+    "lang": "ja",
+    "sha256": "545f85daa7ddf8ba577020c7da81c38a8b065ec09063a7b3508003548cd4eb6d"
+  },
+  {
+    "text": "電子の電荷は何クーロンですか？",
+    "label": "-1.602×10^-19C",
+    "context": "電子の電荷は-1.602×10^-19Cです。",
+    "tags": {
+      "category": "science",
+      "difficulty": "hard"
+    },
+    "id": "c03f67dc",
+    "lang": "ja",
+    "sha256": "6a130c42fc7ecd84a9e449e3b6a2bdc32d145a947278a4f15e05011c5c50e41e"
+  },
+  {
+    "text": "世界で最も深い湖の名前は？",
+    "label": "バイカル湖",
+    "context": "世界で最も深い湖はバイカル湖です。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "hard"
+    },
+    "id": "c6b8d885",
+    "lang": "ja",
+    "sha256": "c1be0b77e457ba339aa4897bcd16680bbe09f5c8b9bac62038a6c2e41e0de87f"
+  },
+  {
+    "text": "第二次世界大戦が始まった年は？",
+    "label": "1939年",
+    "context": "第二次世界大戦は1939年に始まりました。",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "id": "00147361",
+    "lang": "ja",
+    "sha256": "6927bde70e6d678db41670d83a36147a849e7f6053c9f5bc4ad8acb2bfe23fab"
+  },
+  {
+    "text": "微分積分学を確立した数学者は？",
+    "label": "ニュートンとライプニッツ",
+    "context": "微分積分学を確立したのはニュートンとライプニッツです。",
+    "tags": {
+      "category": "math",
+      "difficulty": "hard"
+    },
+    "id": "97bb3ef1",
+    "lang": "ja",
+    "sha256": "d65819bd592ceaa4d864c83fef503d06b3593ec570e445fcce9e895cf36fb275"
+  },
+  {
+    "text": "『失われた時を求めて』の著者は誰ですか？",
+    "label": "マルセル・プルースト",
+    "context": "『失われた時を求めて』の著者はマルセル・プルーストです。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "hard"
+    },
+    "id": "4cb408e0",
+    "lang": "ja",
+    "sha256": "765b68ce391adac4f49e1ecbbbb5445c31818bdcd65d273f19fb8c4ff14ad647"
+  },
+  {
+    "text": "グレン・グールドが録音で有名になった『ゴールドベルク変奏曲』を作曲したのは？",
+    "label": "バッハ",
+    "context": "グレン・グールドが録音で有名になった『ゴールドベルク変奏曲』を作曲したのはバッハです。",
+    "tags": {
+      "category": "music",
+      "difficulty": "hard"
+    },
+    "id": "12c1ab5d",
+    "lang": "ja",
+    "sha256": "fbc2d0eb01be776892d55f32263aeb225b43de5adfbb8326a298b91670cf0b62"
+  },
+  {
+    "text": "サッカーのオウンゴールが初めて記録されたワールドカップ大会はどれですか？",
+    "label": "1954年大会",
+    "context": "サッカーのオウンゴールが初めて記録されたワールドカップ大会は1954年大会です。",
+    "tags": {
+      "category": "sports",
+      "difficulty": "hard"
+    },
+    "id": "7c09b49f",
+    "lang": "ja",
+    "sha256": "a2e7804dfbc6c99a3ff191b16d7e3d0166a8a11d20da94d7a16ba48dc2badf78"
+  },
+  {
+    "text": "『夜警』を描いたオランダの画家は？",
+    "label": "レンブラント",
+    "context": "『夜警』を描いたオランダの画家はレンブラントです。",
+    "tags": {
+      "category": "art",
+      "difficulty": "hard"
+    },
+    "id": "67e1cd60",
+    "lang": "ja",
+    "sha256": "045e9b0057db4bb2d0a5fff820503ab39ccd5ca534544ba9bb5525e49b027917"
+  },
+  {
+    "text": "10 - 3 は何ですか？",
+    "label": "7",
+    "context": "10 - 3 は7です。",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "id": "c39158b7",
+    "lang": "ja",
+    "sha256": "a16cf0164d1a688e0924ba9650ed19cee46b300350da89126a312ff565fc5ca2"
+  },
+  {
+    "text": "地球は太陽の周りを何回公転しますか？",
+    "label": "1回",
+    "context": "地球は一年で太陽の周りを1回公転します。",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "0959eb81",
+    "lang": "ja",
+    "sha256": "d6f1a44e2474e7011c34fceda24650ad480bf49dccffec31daff2bd31e5f8831"
+  },
+  {
+    "text": "富士山の標高は何メートルですか？",
+    "label": "3776m",
+    "context": "富士山の標高は3776mです。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "id": "b3838f29",
+    "lang": "ja",
+    "sha256": "4d0b8932ebe75cf51df266193ddc50ac67e8f3c3638b4afcdd3e8cdd2fa9c148"
+  },
+  {
+    "text": "日本が第二次世界大戦に降伏した年は？",
+    "label": "1945年",
+    "context": "日本は第二次世界大戦に1945年に降伏しました。",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "id": "bb1be22b",
+    "lang": "ja",
+    "sha256": "1dbda2233ffe7869cd50a5230dc5daae0ef1152d611146123ab1cfb2963c28e5"
+  },
+  {
+    "text": "『吾輩は猫である』の作者は？",
+    "label": "夏目漱石",
+    "context": "『吾輩は猫である』の作者は夏目漱石です。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "id": "117023b1",
+    "lang": "ja",
+    "sha256": "32aeff896fc23c46c91fba22ed2f4d3100b6fb5be07d13a933daae9612f1bee8"
+  },
+  {
+    "text": "交響曲第5番『運命』を作曲したのは？",
+    "label": "ベートーヴェン",
+    "context": "交響曲第5番『運命』を作曲したのはベートーヴェンです。",
+    "tags": {
+      "category": "music",
+      "difficulty": "easy"
+    },
+    "id": "50fa0374",
+    "lang": "ja",
+    "sha256": "102ba9e75899e4ac12968ce1006ecf6e82069fa9f08c7eb7726a59a75e4602b4"
+  },
+  {
+    "text": "テニスのグランドスラム4大会のうち、クレーコートで行われる大会は？",
+    "label": "全仏オープン",
+    "context": "テニスのグランドスラム4大会のうち、クレーコートで行われるのは全仏オープンです。",
+    "tags": {
+      "category": "sports",
+      "difficulty": "medium"
+    },
+    "id": "38c3a0b0",
+    "lang": "ja",
+    "sha256": "87cd1b84676f927c4769a597573dedbab10da0e4a88ffabed799463b95fa77b0"
+  },
+  {
+    "text": "元素記号Feは何の元素を表しますか？",
+    "label": "鉄",
+    "context": "元素記号Feは鉄を表します。",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "id": "2122abd8",
+    "lang": "ja",
+    "sha256": "4302e3c4bc0ec8e1f65bad7477f9120ee011550991e1921a1f46b29eb36d7065"
+  },
+  {
+    "text": "ヨーロッパで国土面積が最大の国は？",
+    "label": "ロシア",
+    "context": "ヨーロッパで国土面積が最大の国はロシアです。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "id": "97514daa",
+    "lang": "ja",
+    "sha256": "89a74f0255e70e74724cea72e3ebc359f8f41bcf053ef132efe211e29b0d170c"
+  },
+  {
+    "text": "大化の改新が行われた時代は何世紀？",
+    "label": "7世紀",
+    "context": "大化の改新は7世紀に行われました。",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "id": "e79af956",
+    "lang": "ja",
+    "sha256": "58db5a1e72a64951e49a5ae8b64a27a6f6c27de6fdd38386d8a3773dfe888ed6"
+  },
+  {
+    "text": "行列Aの対角化には何が必要ですか？",
+    "label": "固有ベクトル",
+    "context": "行列Aの対角化には固有値と固有ベクトルが必要です。",
+    "tags": {
+      "category": "math",
+      "difficulty": "hard"
+    },
+    "id": "ea19a50c",
+    "lang": "ja",
+    "sha256": "eaefbb4c40243617f82c900ee33df6815b2d706d413ae84d669aef9ceeaa14f4"
+  },
+  {
+    "text": "『百年の孤独』の原語タイトルは？",
+    "label": "Cien años de soledad",
+    "context": "『百年の孤独』の原語タイトルはCien años de soledadです。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "hard"
+    },
+    "id": "ab1df004",
+    "lang": "ja",
+    "sha256": "3b4a26f0bf77f5fc87b9ab83a200b90a601669eaefd4003dbfc94274b793700e"
+  },
+  {
+    "text": "十二音技法を提唱した作曲家は？",
+    "label": "シェーンベルク",
+    "context": "十二音技法を提唱したのはシェーンベルクです。",
+    "tags": {
+      "category": "music",
+      "difficulty": "hard"
+    },
+    "id": "12e69d06",
+    "lang": "ja",
+    "sha256": "a9e111b0ca451e20bcd80f89eaf66bfdaf4271b19b9bebe7a72c1ae3e82c417f"
+  },
+  {
+    "text": "F1で最も多くのワールドチャンピオンを獲得したドライバーは？",
+    "label": "ルイス・ハミルトン",
+    "context": "F1で最も多くのワールドチャンピオンを獲得したのはルイス・ハミルトンです。",
+    "tags": {
+      "category": "sports",
+      "difficulty": "hard"
+    },
+    "id": "04ce34db",
+    "lang": "ja",
+    "sha256": "47b86a416be12e52e257e59f6b1bc146f21ef2b28fa0d73efe995e55e791400e"
+  },
+  {
+    "text": "ピカソが創始した美術様式は？",
+    "label": "キュビスム",
+    "context": "ピカソが創始した美術様式はキュビスムです。",
+    "tags": {
+      "category": "art",
+      "difficulty": "medium"
+    },
+    "id": "996f483b",
+    "lang": "ja",
+    "sha256": "e087391807cb8227b2511e18c1aad2638d772c67002fe53e73ba4be813efe945"
+  },
+  {
+    "text": "光の速さは約何キロメートル毎秒ですか？",
+    "label": "約30万km/s",
+    "context": "光の速さは約30万km/sです。",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "id": "6d6afd66",
+    "lang": "ja",
+    "sha256": "8bc83bcf8f9ccc9e3378221e2aa612b7553b62aede57ceb829b29da8ce8e53a1"
+  }
+]

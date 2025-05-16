@@ -1,0 +1,602 @@
+[
+  {
+    "text": "2 + 2 等於多少？",
+    "label": "4",
+    "context": "2 + 2 等於 4。",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "sha256": "254568afff77315be911fba7f05515ecf2f1923ee7361573ad33f03ff6e3c9d2",
+    "id": "d2c76751",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "臺灣的首都是哪裡？",
+    "label": "台北",
+    "context": "中華民國首都設於台北。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "3103ebe9a649800b135a8679ef82016821b86e7e43f48e7392f209d82637ff17",
+    "id": "1bb1297a",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "誰寫了《紅樓夢》？",
+    "label": "曹雪芹",
+    "context": "《紅樓夢》的作者是曹雪芹。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "sha256": "109e9b1f7fdb25e04284f43884503b28d5150acf88e27fd78652852ab46aaf06",
+    "id": "54bfc884",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "地球繞太陽一圈大約需要多少天？",
+    "label": "365天",
+    "context": "地球繞太陽一圈大約需要365天。",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "sha256": "365c76390a33ae25ccc28a11e974abc3668046175f5c6bf12c5792986f8bb581",
+    "id": "526567c5",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "世界上面積最大的國家是？",
+    "label": "俄羅斯",
+    "context": "世界上面積最大的國家是俄羅斯。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "142ec87f00975d80535c8d15737c6fcf73864501fc50adf6b2bc6bb6d0b3ab98",
+    "id": "5e4eeaf1",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "皮卡丘是屬於哪個遊戲系列的角色？",
+    "label": "寶可夢",
+    "context": "皮卡丘是寶可夢遊戲系列的角色。",
+    "tags": {
+      "category": "entertainment",
+      "difficulty": "easy"
+    },
+    "sha256": "1cef22903a67126fc4a902c822f8591e1676770640be752d9416750510a697b3",
+    "id": "9a4715a2",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "水的化學式是什麼？",
+    "label": "H2O",
+    "context": "水的化學式是H2O。",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "sha256": "d0494a8f6ada98051adf5f55500aa3b808e77bb791855083090365294ebf76fd",
+    "id": "5d49b3d9",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "北京故宮的又稱是？",
+    "label": "紫禁城",
+    "context": "北京故宮又稱為紫禁城。",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "7d0d45f5f08da69411b89e0d802a8f236e92f713ff4abe1b6cd263ca840c79c5",
+    "id": "ecd814c4",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "莎士比亞的著名悲劇之一是？",
+    "label": "《哈姆雷特》",
+    "context": "《哈姆雷特》是莎士比亞著名的悲劇之一。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "sha256": "277fe59fda9187d99933613596dd99d21b2ce0db2bf7844bc941d6099d7585f2",
+    "id": "585673fe",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "台灣最高的山是？",
+    "label": "玉山",
+    "context": "台灣最高的山是玉山。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "4290716b6c1510cc3497f96436782be1b22f97f0ae750d1c3b6f0a786a0c61a9",
+    "id": "32b8d3f2",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "足球世界杯每四年舉辦一次，最近一次是在哪一年？",
+    "label": "2022",
+    "context": "最近一次足球世界杯是在2022年舉辦的。",
+    "tags": {
+      "category": "sports",
+      "difficulty": "medium"
+    },
+    "sha256": "020d1bda0413cd174f8e0f0299919ecf32a24ebd4e3f3751a5365c264425aee4",
+    "id": "0e1c944c",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "Python是一種什麼類型的程式語言？",
+    "label": "高階",
+    "context": "Python是一種高階程式語言。",
+    "tags": {
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    "sha256": "a61a3269924fb686a7264bb7a22a8e0bf8c4e74c9a3a39c2d72d7b86540edc8f",
+    "id": "dd6b5c02",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "莫札特是哪個時期的作曲家？",
+    "label": "古典",
+    "context": "莫札特是古典時期的作曲家。",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "sha256": "dc995b934a0277b5d088546d7924f9795f802be984424c2721bb018c464d33e7",
+    "id": "2615a9a7",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "世界上最深的海溝是？",
+    "label": "馬里亞納海溝",
+    "context": "世界上最深的海溝是馬里亞納海溝。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "hard"
+    },
+    "sha256": "9b523539edfbd87542d5f77ce8201ce9f9b7c6d35ac17bb770916404681bdaa0",
+    "id": "4a72538d",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "二戰期間，盟軍在諾曼第登陸的代號是？",
+    "label": "霸王行動",
+    "context": "二戰期間盟軍在諾曼第登陸的代號是霸王行動。",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "sha256": "10374f0e91829b3292775bd2daf1f8af3772c8fef96e3ae74c4ac67144656b65",
+    "id": "9d0d0f0b",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "元素表中原子序數為6的元素是？",
+    "label": "碳",
+    "context": "元素表中原子序數為6的元素是碳。",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "sha256": "6b0cafbeeaab02081d92fe9617049cc06689e0c87b6784214729af432d216733",
+    "id": "d6de6930",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "唐朝詩人李白的號是？",
+    "label": "青蓮居士",
+    "context": "唐朝詩人李白被稱為青蓮居士。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "hard"
+    },
+    "sha256": "b6eea5c90a5fb27d1bda2c4af44c78ca8ab5f6290dcbef1ea2dd2729e435457a",
+    "id": "41fdbe78",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "人類登月的第一個太空任務是？",
+    "label": "阿波羅11號",
+    "context": "阿波羅11號是人類首次登月的太空任務。",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "sha256": "251da6eadeec13b0244bec71964714ec9f0d14f28ca94ca5eeb7ad9a1a81000b",
+    "id": "5c5b97e7",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "中國的四大發明包括造紙術、指南針、火藥和什麼？",
+    "label": "印刷術",
+    "context": "中國的四大發明包括造紙術、指南針、火藥和印刷術。",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "sha256": "46da6836629c00db37b37cc8052a70c4cea378ca1e1ed9b67e536fb2f4e6e2ee",
+    "id": "ae15a94a",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "NBA歷史上得分王是？",
+    "label": "勒布朗·詹姆斯",
+    "context": "截至目前NBA歷史上得分王是勒布朗·詹姆斯。",
+    "tags": {
+      "category": "sports",
+      "difficulty": "medium"
+    },
+    "sha256": "dbd8d9838a5809187c7ce3dccb09834cfef2753f1cd6c13198888b6bae4cbb70",
+    "id": "d7e97ddf",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "哈利波特系列的作者是？",
+    "label": "J.K.羅琳",
+    "context": "哈利波特系列小說的作者是J.K.羅琳。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "sha256": "8e677a49aa4b3cab080330ceb812c7bfc3a992eac9093513f4ceea3c40576eff",
+    "id": "3ed4f2f8",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "電腦的中央處理器英文縮寫是？",
+    "label": "CPU",
+    "context": "電腦的中央處理器英文縮寫是CPU。",
+    "tags": {
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    "sha256": "9ee35273dab68e1134cebc329e7c8ea7925a9233a8c808b992e136cc9c81a052",
+    "id": "a25d938e",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "古希臘哲學家蘇格拉底的學生是？",
+    "label": "柏拉圖",
+    "context": "古希臘哲學家蘇格拉底的學生是柏拉圖。",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "610b579944c7d769e7466482ca73a4ada1a858d8c53967161a54cb22fb4b2495",
+    "id": "4d1a078d",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "哪個粒子是電子的帶正電對應物？",
+    "label": "陽電子",
+    "context": "陽電子是電子的帶正電對應物。",
+    "tags": {
+      "category": "science",
+      "difficulty": "hard"
+    },
+    "sha256": "0003e5a53c47035a760ed78122323db9fcbc77796173f0169d322efa1751ff20",
+    "id": "116c7227",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "法國的首都是？",
+    "label": "巴黎",
+    "context": "法國的首都是巴黎。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "c6987393e2f14ee06c219a944b400707a444ba12ef7c256cc032a7cf933165f1",
+    "id": "3b9181cf",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "世界上人口最多的國家是？",
+    "label": "中國",
+    "context": "世界上人口最多的國家是中國。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "a3761ea4016b52fd6070940fe3cdfaf25d4683c04e2a4902192f95f4dd3b6f52",
+    "id": "aa7531c4",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "麥可·傑克森被稱為什麼稱號？",
+    "label": "流行音樂之王",
+    "context": "麥可·傑克森被稱為流行音樂之王。",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "sha256": "853ecb65b686eb45304d4b9b531a33cdf1785ff05293266b137d7e3e714e9dcd",
+    "id": "48664d7e",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "希臘神話中的海神叫什麼？",
+    "label": "波塞頓",
+    "context": "希臘神話中的海神是波塞頓。",
+    "tags": {
+      "category": "mythology",
+      "difficulty": "medium"
+    },
+    "sha256": "20ce37fb99302dab29eb86f99d8ab62927407a54cef082703a147cc3455265b1",
+    "id": "96bae131",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "人類的血型系統主要依據什麼抗原？",
+    "label": "ABO系統",
+    "context": "人類的血型系統主要依據ABO系統的抗原。",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "sha256": "f3f9a7ca8894af945f4756111d77c7eb179e08af5265443bdd569df073cde0ce",
+    "id": "e5927ed7",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "比爾·蓋茨是在哪家公司共同創辦的？",
+    "label": "微軟",
+    "context": "比爾·蓋茨是微軟公司的共同創辦人。",
+    "tags": {
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    "sha256": "ba5611b677b0c3dae65c9d302c9ee718ec81bdfd6003e730ed426d931c947ce5",
+    "id": "3e3805ef",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "《星際大戰》系列中原力的光劍顏色常見有紅色和什麼顏色？",
+    "label": "藍色",
+    "context": "《星際大戰》系列中光劍常見顏色有紅色和藍色。",
+    "tags": {
+      "category": "entertainment",
+      "difficulty": "easy"
+    },
+    "sha256": "c2f617d976be046b9ccf14a9bc91904bbd3a21c882394ca31bbf27241ec120f5",
+    "id": "3204dcd6",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "牛頓發現了哪個自然現象定律？",
+    "label": "萬有引力定律",
+    "context": "牛頓提出了萬有引力定律描述天體運行。",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "sha256": "fe99901f9a80206d32dcec275b87993ca25782f7b83eba226418432085775871",
+    "id": "17f0b719",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "中國現存最早的長城遺跡可追溯到哪個朝代？",
+    "label": "戰國",
+    "context": "中國現存最早的長城遺跡可追溯到戰國時期。",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "sha256": "67b4fa7df08b4e15f875c9a683023a0952be6b0be7bd2a27ebf8b30bad6717bf",
+    "id": "6e0124e3",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "英文字母裡第13個字母是？",
+    "label": "M",
+    "context": "英文字母裡第13個字母是M。",
+    "tags": {
+      "category": "language",
+      "difficulty": "easy"
+    },
+    "sha256": "8a6faa27b845994d5bd1bfcca68961d538b44b3d79221b1984b2dcfe5bac4f1f",
+    "id": "83fbfa31",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "莫高窟位於中國哪個省？",
+    "label": "甘肅",
+    "context": "莫高窟位於中國甘肅省。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "232ab8dae47447905c7285cfbb53473bf9bb47e3658a7271bed54ea2fd608929",
+    "id": "d3d1abbf",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "人體內最大的器官是？",
+    "label": "皮膚",
+    "context": "人體內最大的器官是皮膚。",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "sha256": "550ae9a17ab121e58e7772c2aaddf0b29deed1899f96f82ebb92166fe82e79a5",
+    "id": "e44a4d10",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "象棋裡有多少個棋子？",
+    "label": "32",
+    "context": "象棋裡每方各16個棋子，共32個棋子。",
+    "tags": {
+      "category": "games",
+      "difficulty": "medium"
+    },
+    "sha256": "84aa8f9d8aacdd834023682f6bd7e3c5103b70f58b85661fb513bd8a3aa4f540",
+    "id": "f26f9a4b",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "古埃及著名的女王克麗奧佩脫拉是哪國人？",
+    "label": "埃及",
+    "context": "克麗奧佩脫拉是古埃及的女王。",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "sha256": "31ef53537687d2f0050c56ed9a2a2b431663c6b565862dc7ab7131086b7e6822",
+    "id": "7be47c98",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "鋼鐵是主要由哪兩種元素組成的合金？",
+    "label": "鐵和碳",
+    "context": "鋼鐵是由鐵和碳組成的合金。",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "sha256": "71210069cb317f3efabc63198025d4569d9beb946193b80498ebea810cf0bc4b",
+    "id": "2b75c8a4",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "唐詩《靜夜思》的作者是？",
+    "label": "李白",
+    "context": "《靜夜思》的作者是李白。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "sha256": "9fcf39929f758ddc60523960a4aa2825d9f93c22771c41528053a502385b4590",
+    "id": "a773dfe8",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "中國象棋中的將帥只能在哪個區域內移動？",
+    "label": "九宮格",
+    "context": "中國象棋中的將帥只能在九宮格內移動。",
+    "tags": {
+      "category": "games",
+      "difficulty": "medium"
+    },
+    "sha256": "444ee5dd1fdaee7ea47e487205f16a8e97512c3119434387af9a005de5e0130b",
+    "id": "919e18c5",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "蘋果公司前 CEO 是誰？",
+    "label": "史提夫·喬布斯",
+    "context": "蘋果公司前CEO是史提夫·喬布斯。",
+    "tags": {
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    "sha256": "2fd91c98a197d9c8e5f6594b527b1b544dc6353cc7dd3efd898f91a8e5150c76",
+    "id": "3987a0ee",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "世界貿易組織的英文縮寫是？",
+    "label": "WTO",
+    "context": "世界貿易組織的英文縮寫是WTO。",
+    "tags": {
+      "category": "politics",
+      "difficulty": "easy"
+    },
+    "sha256": "c24a01e0fde61d1069a0f0f93c47fa142e8a8bcdacdd12ecd4260b29645c7b7b",
+    "id": "4ac409d6",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "量子力學中著名的貓實驗由哪位物理學家提出？",
+    "label": "薛丁格",
+    "context": "薛丁格提出了著名的貓實驗。",
+    "tags": {
+      "category": "science",
+      "difficulty": "hard"
+    },
+    "sha256": "711058e37e8b68fad2278e73820bce9d992fac6415af92e010b7ad00f8e67ee1",
+    "id": "be627a1f",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "阿拉伯數字系統起源於哪個地區？",
+    "label": "印度",
+    "context": "阿拉伯數字系統起源於印度。",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "f12718f5a6888b70169d33006dc6cc5f5bef7f74037e8f199c29b9a932e1b27d",
+    "id": "44bcbb42",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "瑞士的官方貨幣是？",
+    "label": "瑞士法郎",
+    "context": "瑞士的官方貨幣是瑞士法郎。",
+    "tags": {
+      "category": "economics",
+      "difficulty": "medium"
+    },
+    "sha256": "d70f3324aafc0b55ac0560738736b62ae528ecda9bfa44cc4171232f302c6505",
+    "id": "58be4273",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "段考成績是根據什麼進行評定的？",
+    "label": "百分制",
+    "context": "段考成績通常是根據百分制進行評定的。",
+    "tags": {
+      "category": "education",
+      "difficulty": "easy"
+    },
+    "sha256": "d184a6899a0122a4edf707e201c84270bc69e8cbca193e1a60bb830cb9927aa2",
+    "id": "a720042e",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "《荷馬史詩》包括《伊利亞特》和哪一部作品？",
+    "label": "《奧德賽》",
+    "context": "《荷馬史詩》包括《伊利亞特》和《奧德賽》。",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "sha256": "98b10d2588dfc8aed6d6cf5504ab94f4004ef330f39c307cf6380e0a363b3e38",
+    "id": "55617467",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "日本的貨幣單位是？",
+    "label": "日圓",
+    "context": "日本的貨幣單位是日圓。",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "3b1b7d60fd584488b0c3acefb5e4ba766251d1ca957bdcdfec2100c61803edc1",
+    "id": "232e539f",
+    "lang": "zh-Hant"
+  },
+  {
+    "text": "製作陶瓷的主要原料是黏土和什麼？",
+    "label": "長石",
+    "context": "製作陶瓷的主要原料是黏土和長石。",
+    "tags": {
+      "category": "art",
+      "difficulty": "medium"
+    },
+    "sha256": "997a0a3f8a82a31806aa844eb54aa8f9a1dcdcda293500e2d291d46a95c66642",
+    "id": "141ec358",
+    "lang": "zh-Hant"
+  }
+]

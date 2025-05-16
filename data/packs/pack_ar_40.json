@@ -1,0 +1,602 @@
+[
+  {
+    "text": "ما ناتج جمع 5 و7؟",
+    "label": "12",
+    "context": "مجموع 5 و7 هو 12.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "sha256": "361683389d71821b8e32f657fc66f4001bd1bcee394704e3119c20884a401cf8",
+    "id": "ec404d3d",
+    "lang": "ar"
+  },
+  {
+    "text": "ما حاصل ضرب 6 في 8؟",
+    "label": "48",
+    "context": "حاصل ضرب 6 في 8 هو 48.",
+    "tags": {
+      "category": "math",
+      "difficulty": "easy"
+    },
+    "sha256": "df83af301a902626a99eee3686c01b15f72216c450be9f57bbc0dc4aa265f151",
+    "id": "b66a42bd",
+    "lang": "ar"
+  },
+  {
+    "text": "ما قيمة الجذر التربيعي للرقم 144؟",
+    "label": "12",
+    "context": "الجذر التربيعي للرقم 144 هو 12.",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "sha256": "1ad099e41ff496e38a0c937ab608a799c37570929f0bc2d8b0077490a4c0557c",
+    "id": "f62ec633",
+    "lang": "ar"
+  },
+  {
+    "text": "ما ناتج 2 أس 5؟",
+    "label": "32",
+    "context": "2 أس 5 يساوي 32.",
+    "tags": {
+      "category": "math",
+      "difficulty": "medium"
+    },
+    "sha256": "46baf47dd68e36fb142e1ccf40403dacd025d237459bc54a5b8f5ef1f1d5e328",
+    "id": "fd683dcd",
+    "lang": "ar"
+  },
+  {
+    "text": "ما مجموع الزوايا الداخلية لمضلع خماسي؟",
+    "label": "540 درجة",
+    "context": "مجموع الزوايا الداخلية لمضلع خماسي هو 540 درجة.",
+    "tags": {
+      "category": "math",
+      "difficulty": "hard"
+    },
+    "sha256": "c2309943c7eefecc28f92a33d05c8df1a66090a094ccbe47ae7171b1db689fee",
+    "id": "93d0ef2c",
+    "lang": "ar"
+  },
+  {
+    "text": "كم ضلعاً يحتوي السداسي المنتظم؟",
+    "label": "ستة",
+    "context": "السداسي المنتظم يحتوي على ستة أضلاع.",
+    "tags": {
+      "category": "geometry",
+      "difficulty": "medium"
+    },
+    "sha256": "be5cf069e613ad4f527450c5d78ced559b87fcaa893bd14383607a57b099d337",
+    "id": "10677e77",
+    "lang": "ar"
+  },
+  {
+    "text": "من كتب رواية 'البؤساء'؟",
+    "label": "فيكتور هوجو",
+    "context": "رواية 'البؤساء' كتبها فيكتور هوجو.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    "sha256": "64b595b380c006b7cfb79c0a6a47ae1eb94e94734a0bdfdda637b386bcbb4d08",
+    "id": "ff714137",
+    "lang": "ar"
+  },
+  {
+    "text": "في أي عام نُشرت رواية 'الحرب والسلام' لأول مرة؟",
+    "label": "1869",
+    "context": "نُشرت رواية 'الحرب والسلام' لأول مرة عام 1869.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "medium"
+    },
+    "sha256": "ff3ef5979078166c363d7665095a104ae3524ccdbe5220a7f8662e3a75d21f0f",
+    "id": "e5703679",
+    "lang": "ar"
+  },
+  {
+    "text": "ما اسم بطل قصة 'الأمير الصغير'؟",
+    "label": "الأمير الصغير",
+    "context": "بطل قصة 'الأمير الصغير' هو الأمير الصغير.",
+    "tags": {
+      "category": "literature",
+      "difficulty": "hard"
+    },
+    "sha256": "cf757be3c8b74ef7d74e731088100df6845b7dd21a906f2c44a47163b1a4d520",
+    "id": "ebc4f71c",
+    "lang": "ar"
+  },
+  {
+    "text": "ما عاصمة فرنسا؟",
+    "label": "باريس",
+    "context": "عاصمة فرنسا هي باريس.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "easy"
+    },
+    "sha256": "50b0a49f8c9670dc06b7de4bad163f06a30af7309e521640ff658975c06d6d39",
+    "id": "b95a50e4",
+    "lang": "ar"
+  },
+  {
+    "text": "في أي قارة تقع الأرجنتين؟",
+    "label": "أمريكا الجنوبية",
+    "context": "الأرجنتين تقع في قارة أمريكا الجنوبية.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "medium"
+    },
+    "sha256": "2d1e6b518b27d42757999e5d42995c7f7b20db7e30eca3cf19cd29ff4bc9715b",
+    "id": "afbb20bc",
+    "lang": "ar"
+  },
+  {
+    "text": "ما أطول نهر في آسيا؟",
+    "label": "نهر اليانغتسي",
+    "context": "أطول نهر في آسيا هو نهر اليانغتسي.",
+    "tags": {
+      "category": "geography",
+      "difficulty": "hard"
+    },
+    "sha256": "b10ef28dd6d98989ae2e552509fe065e26ec87c358524f79c050b47cc9a75f0f",
+    "id": "4b5816af",
+    "lang": "ar"
+  },
+  {
+    "text": "من هو أول رئيس للولايات المتحدة؟",
+    "label": "جورج واشنطن",
+    "context": "أول رئيس للولايات المتحدة هو جورج واشنطن.",
+    "tags": {
+      "category": "history",
+      "difficulty": "easy"
+    },
+    "sha256": "7492f0ad18b34832c239d37c4b38e466d887856c68d095cc537832d977d41322",
+    "id": "5ef46852",
+    "lang": "ar"
+  },
+  {
+    "text": "في أي سنة انتهت الحرب العالمية الثانية؟",
+    "label": "1945",
+    "context": "انتهت الحرب العالمية الثانية في سنة 1945.",
+    "tags": {
+      "category": "history",
+      "difficulty": "medium"
+    },
+    "sha256": "95ca4b9136d0657b0e2e6db409a8e839f055bb30736acdf07b1d106f5ee39085",
+    "id": "b61da2a2",
+    "lang": "ar"
+  },
+  {
+    "text": "من كان ملك بريطانيا أثناء الثورة الأمريكية؟",
+    "label": "جورج الثالث",
+    "context": "ملك بريطانيا أثناء الثورة الأمريكية كان جورج الثالث.",
+    "tags": {
+      "category": "history",
+      "difficulty": "hard"
+    },
+    "sha256": "30b4f6bf0e92677fad99057d49b502db9f838c3008eaf56a28edc47742ff9d65",
+    "id": "93374d1c",
+    "lang": "ar"
+  },
+  {
+    "text": "ما الرمز الكيميائي للماء؟",
+    "label": "H2O",
+    "context": "الرمز الكيميائي للماء هو H2O.",
+    "tags": {
+      "category": "science",
+      "difficulty": "easy"
+    },
+    "sha256": "d2ae6a7fb4ef53a736f6fd22888f978aced4979d77daacb5929612660325a781",
+    "id": "0f7bb225",
+    "lang": "ar"
+  },
+  {
+    "text": "ما وحدة قياس شدة التيار الكهربائي؟",
+    "label": "الأمبير",
+    "context": "وحدة قياس شدة التيار الكهربائي هي الأمبير.",
+    "tags": {
+      "category": "science",
+      "difficulty": "medium"
+    },
+    "sha256": "e04352a7e7036093b9ceb66108c6c56ad22948ea74ddafeb6132f0fd441ad9c6",
+    "id": "01157e26",
+    "lang": "ar"
+  },
+  {
+    "text": "ما اسم العملية التي يتم فيها انشطار نواة الذرة؟",
+    "label": "الانشطار النووي",
+    "context": "العملية التي يتم فيها انشطار نواة الذرة تسمى الانشطار النووي.",
+    "tags": {
+      "category": "science",
+      "difficulty": "hard"
+    },
+    "sha256": "e1d8e96df131d95ecfaf37a9892fa0d9cb268835f7a9f3b308974fb4c696dd6b",
+    "id": "1ab13301",
+    "lang": "ar"
+  },
+  {
+    "text": "كم عدد حواس الإنسان الرئيسية؟",
+    "label": "خمسة",
+    "context": "للإنسان خمسة حواس رئيسية.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "easy"
+    },
+    "sha256": "ce9e97ca948e780076395c9d24446a08f8f39eb816813d6f50c5e289eb521c0f",
+    "id": "1d66b6df",
+    "lang": "ar"
+  },
+  {
+    "text": "ما اسم الخلية التي تحمل الأكسجين في الدم؟",
+    "label": "خلايا الدم الحمراء",
+    "context": "الخلايا التي تحمل الأكسجين في الدم هي خلايا الدم الحمراء.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "medium"
+    },
+    "sha256": "9267c32635eaf2d57b2a2b65bc550b823dfc041b6ecf2ff261b9035d0dc17556",
+    "id": "5885992f",
+    "lang": "ar"
+  },
+  {
+    "text": "ما اسم العضية التي تقوم بإنتاج الطاقة في الخلية؟",
+    "label": "الميتوكوندريا",
+    "context": "العضية التي تقوم بإنتاج الطاقة في الخلية هي الميتوكوندريا.",
+    "tags": {
+      "category": "biology",
+      "difficulty": "hard"
+    },
+    "sha256": "4d1dd8626d58c51485a893565a3963155462cd1b6f019fa8fb4a0db8cf59f08e",
+    "id": "d85a9e8e",
+    "lang": "ar"
+  },
+  {
+    "text": "ما الرمز الكيميائي لعنصر الذهب؟",
+    "label": "Au",
+    "context": "الرمز الكيميائي لعنصر الذهب هو Au.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "medium"
+    },
+    "sha256": "ddd4d730186df9d70098d75c061648756bf58f2a4c2937d28d997550eb77dcd0",
+    "id": "86a4f0cf",
+    "lang": "ar"
+  },
+  {
+    "text": "ما عدد إلكترونات التكافؤ في ذرة الكربون؟",
+    "label": "أربعة",
+    "context": "ذرة الكربون لديها أربعة إلكترونات تكافؤ.",
+    "tags": {
+      "category": "chemistry",
+      "difficulty": "hard"
+    },
+    "sha256": "1d4d5282341ce807ed2d32aa149d6af775c9c51e9f57858e9232cffce25a7f1b",
+    "id": "538ec82a",
+    "lang": "ar"
+  },
+  {
+    "text": "كم عدد كواكب المجموعة الشمسية؟",
+    "label": "ثمانية",
+    "context": "المجموعة الشمسية تتكون من ثمانية كواكب.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "easy"
+    },
+    "sha256": "9a6a3835ab5b00f54534c437e9edc598f9e1f0586db4a982161663f211ba8ef1",
+    "id": "113f1bc1",
+    "lang": "ar"
+  },
+  {
+    "text": "ما اسم أول قمر صناعي أُرسل إلى الفضاء؟",
+    "label": "سبوتنيك 1",
+    "context": "أول قمر صناعي أُرسل إلى الفضاء كان سبوتنيك 1.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "medium"
+    },
+    "sha256": "c625d5d1a51755d76b91a40b7744cd5c37ce99928a085ce536a1870c7dba42eb",
+    "id": "e62cd485",
+    "lang": "ar"
+  },
+  {
+    "text": "ما اسم النجم الأقرب إلى الأرض بعد الشمس؟",
+    "label": "بروكسيما قنطورس",
+    "context": "نجم بروكسيما قنطورس هو النجم الأقرب إلى الأرض بعد الشمس.",
+    "tags": {
+      "category": "astronomy",
+      "difficulty": "hard"
+    },
+    "sha256": "584a9c2390b29ac3b5c287215150826f123bf37f66085bb7c55611a61334dbe8",
+    "id": "63c8415d",
+    "lang": "ar"
+  },
+  {
+    "text": "من رسم لوحة الموناليزا؟",
+    "label": "ليوناردو دافنشي",
+    "context": "لوحة الموناليزا رسمها ليوناردو دافنشي.",
+    "tags": {
+      "category": "art",
+      "difficulty": "easy"
+    },
+    "sha256": "7f56d0b113517f0d150ef55f1a5ebc01ccabb37797332e50f57b05c43e2c9b03",
+    "id": "ef9cc481",
+    "lang": "ar"
+  },
+  {
+    "text": "في أي عصر نشأ الفن البيزنطي؟",
+    "label": "العصر البيزنطي",
+    "context": "نشأ الفن البيزنطي في العصر البيزنطي.",
+    "tags": {
+      "category": "art",
+      "difficulty": "medium"
+    },
+    "sha256": "84184a52d671c3cbdd0b40ad5b02b0a6a03537e4d5208c82f0f6e04b57886357",
+    "id": "18d35ac3",
+    "lang": "ar"
+  },
+  {
+    "text": "ما تقنية الرسم التي تستخدم ألوان البيض كمادة رابطة؟",
+    "label": "التمبرا",
+    "context": "التقنية التي تستخدم ألوان البيض كمادة رابطة هي التمبرا.",
+    "tags": {
+      "category": "art",
+      "difficulty": "hard"
+    },
+    "sha256": "3683e2258e6aaaac1d7dd229ee5b2a01214469e89f904ff47539ea6bf66a0e4c",
+    "id": "845904fe",
+    "lang": "ar"
+  },
+  {
+    "text": "كم عدد أوتار الكمان التقليدي؟",
+    "label": "أربع",
+    "context": "الكمان التقليدي له أربع أوتار.",
+    "tags": {
+      "category": "music",
+      "difficulty": "easy"
+    },
+    "sha256": "58c0c2a7ca91b5273a7d132ab5e52024df723d05a3550cee5f2543d9195f0fcb",
+    "id": "d53e2249",
+    "lang": "ar"
+  },
+  {
+    "text": "ما اسم المفتاح الموسيقي الذي يمثل النغمة G؟",
+    "label": "مفتاح السول",
+    "context": "المفتاح الموسيقي الذي يمثل النغمة G هو مفتاح السول.",
+    "tags": {
+      "category": "music",
+      "difficulty": "medium"
+    },
+    "sha256": "b64a7e8cdc42abe1ffde1e51dbb9bb55f94a5feb60ba25db8662d1f566a3c75c",
+    "id": "995a8ea3",
+    "lang": "ar"
+  },
+  {
+    "text": "ما المقام الذي يتكون من الطبقات التالية: دو، مي، صول، سي؟",
+    "label": "المقام البياتي",
+    "context": "المقام الذي يتكون من دو، مي، صول، سي هو المقام البياتي.",
+    "tags": {
+      "category": "music",
+      "difficulty": "hard"
+    },
+    "sha256": "2b358cd37b60d7302f4b0a8b4a21048112ea8d93a3f6a7248bb90958b5ed22b5",
+    "id": "e9de31b3",
+    "lang": "ar"
+  },
+  {
+    "text": "كم عدد لاعبي فريق كرة القدم؟",
+    "label": "أحد عشر",
+    "context": "يتكون فريق كرة القدم من أحد عشر لاعباً.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    "sha256": "fb982fea4e2c10c7f3fdedcdbbfa07e857aff28d71565b3a0cf59f1ee2a4eca4",
+    "id": "7c99e1d0",
+    "lang": "ar"
+  },
+  {
+    "text": "في أي سنة استضافت اليابان أولمبياد طوكيو؟",
+    "label": "1964",
+    "context": "استضافت اليابان أولمبياد طوكيو في سنة 1964.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "medium"
+    },
+    "sha256": "5ef91c70368fe63706a3d48b66ecebcb3c03b8dd09e3ce5059388642fa08c327",
+    "id": "7debdeec",
+    "lang": "ar"
+  },
+  {
+    "text": "ما أول دولة فازت بكأس العالم لكرة القدم؟",
+    "label": "أوروغواي",
+    "context": "أول دولة فازت بكأس العالم لكرة القدم هي أوروغواي.",
+    "tags": {
+      "category": "sports",
+      "difficulty": "hard"
+    },
+    "sha256": "c643b46aedfb1ef19e8e635310e0846e5d0c855831ac286375f63647fab77d46",
+    "id": "08692042",
+    "lang": "ar"
+  },
+  {
+    "text": "ما اختصار مصطلح 'وحدة المعالجة المركزية' بالإنجليزية؟",
+    "label": "CPU",
+    "context": "اختصار مصطلح 'وحدة المعالجة المركزية' بالإنجليزية هو CPU.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "medium"
+    },
+    "sha256": "c4a459b99f9e6387038f8845fa9f06933c7e8ce756a2d16dc7ce2e713a590803",
+    "id": "be1254f8",
+    "lang": "ar"
+  },
+  {
+    "text": "ما اسم بروتوكول نقل النص الفائق الآمن؟",
+    "label": "HTTPS",
+    "context": "بروتوكول نقل النص الفائق الآمن يُعرف باسم HTTPS.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "hard"
+    },
+    "sha256": "dfd9b56df740c97a979527d52ea54b41159a32068cfa8b6208792211a88a5fa0",
+    "id": "5307afb9",
+    "lang": "ar"
+  },
+  {
+    "text": "ما جهاز الحاسوب الذي يستخدم للتنقل المحمول عادةً؟",
+    "label": "اللاب توب",
+    "context": "الجهاز الذي يستخدم للتنقل المحمول عادةً هو اللاب توب.",
+    "tags": {
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    "sha256": "4e7e6e89759c37ae00f9670b1a53922203cde20ee673e78a156ccc016fc62313",
+    "id": "1ed073bc",
+    "lang": "ar"
+  },
+  {
+    "text": "ما ضمير المتكلم المفرد المؤنث في اللغة العربية؟",
+    "label": "أنا",
+    "context": "ضمير المتكلم المفرد المؤنث في اللغة العربية هو أنا.",
+    "tags": {
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    "sha256": "e949a9e1991a0d1343e2cc609c1b009427e4259511428e41249e74cdcdce3861",
+    "id": "99b935e4",
+    "lang": "ar"
+  },
+  {
+    "text": "ما نوع الجملة 'متى ستصل؟'؟",
+    "label": "استفهامية",
+    "context": "الجملة 'متى ستصل؟' هي جملة استفهامية.",
+    "tags": {
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    "sha256": "f39ecad0461ccb69f06911fb7b627d7129584a52702c89edd8fc378242f0fd05",
+    "id": "93ac3654",
+    "lang": "ar"
+  },
+  {
+    "text": "ما الوظيفة النحوية لكلمة 'الذي' في الجملة؟",
+    "label": "اسم موصول",
+    "context": "كلمة 'الذي' في الجملة تعمل كاسم موصول.",
+    "tags": {
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    "sha256": "48e395d7962d67560ff397948cec9880096b11a126d22dd06e37a832ffb1a6e0",
+    "id": "598a7d05",
+    "lang": "ar"
+  },
+  {
+    "text": "ما الزي التقليدي في اليابان؟",
+    "label": "الكيمونو",
+    "context": "الزي التقليدي في اليابان هو الكيمونو.",
+    "tags": {
+      "category": "culture",
+      "difficulty": "medium"
+    },
+    "sha256": "e64f57594eafe82e01729266d5aaa7116e640af1a6c5ea616460658661a1a3d9",
+    "id": "e165a5b9",
+    "lang": "ar"
+  },
+  {
+    "text": "ما العيد الذي يحتفل به المسيحيون في 25 ديسمبر؟",
+    "label": "عيد الميلاد",
+    "context": "يحتفل المسيحيون في 25 ديسمبر بعيد الميلاد.",
+    "tags": {
+      "category": "culture",
+      "difficulty": "hard"
+    },
+    "sha256": "7324aac92bd60f0f7f5a0747c34b99de59942d2ef254a08313075bf67c83973d",
+    "id": "3ee79364",
+    "lang": "ar"
+  },
+  {
+    "text": "ما الطبق الوطني في اليابان؟",
+    "label": "السوشي",
+    "context": "يعتبر السوشي الطبق الوطني في اليابان.",
+    "tags": {
+      "category": "cuisine",
+      "difficulty": "easy"
+    },
+    "sha256": "9b6595c22168ba08828887dc9f259a6755a69b13c8123b7d3ef7e46e978723c2",
+    "id": "3afe47bf",
+    "lang": "ar"
+  },
+  {
+    "text": "ما المكون الرئيسي في طبق الريزوتو الإيطالي؟",
+    "label": "الأرز",
+    "context": "المكون الرئيسي في طبق الريزوتو الإيطالي هو الأرز.",
+    "tags": {
+      "category": "cuisine",
+      "difficulty": "medium"
+    },
+    "sha256": "b3008b9b7b1aea204052721f3a0c3f6e34db454105b8b33f23f270e17cf14062",
+    "id": "56c572b1",
+    "lang": "ar"
+  },
+  {
+    "text": "ما نوع اللبن المستخدم في تحضير الجبن الريكوتا الإيطالي؟",
+    "label": "حليب البقر",
+    "context": "يُستخدم حليب البقر في تحضير الجبن الريكوتا الإيطالي.",
+    "tags": {
+      "category": "cuisine",
+      "difficulty": "hard"
+    },
+    "sha256": "3f9f1f7d5afc65b8f151673076108cecfc8da53d33f015bb6384434b0635927b",
+    "id": "2ae085e1",
+    "lang": "ar"
+  },
+  {
+    "text": "ما عدد حروف الأبجدية العربية؟",
+    "label": "ثمانية وعشرون",
+    "context": "تتكون الأبجدية العربية من ثمانية وعشرين حرفاً.",
+    "tags": {
+      "category": "language",
+      "difficulty": "medium"
+    },
+    "sha256": "999e752e9e049c1ece7d6bda234e92b45a5da8c3c7c51f30b2bda8eef643adeb",
+    "id": "da274c27",
+    "lang": "ar"
+  },
+  {
+    "text": "ما مصطلح تحويل الكلمات من صيغة المفرد إلى صيغة المثنى؟",
+    "label": "التثنية",
+    "context": "مصطلح تحويل الكلمات من صيغة المفرد إلى صيغة المثنى هو التثنية.",
+    "tags": {
+      "category": "language",
+      "difficulty": "hard"
+    },
+    "sha256": "d0c777be1614dc0ccfae19a31fb333362ae8a725f94c83c0f74ccfe1d89be7a0",
+    "id": "976ec42c",
+    "lang": "ar"
+  },
+  {
+    "text": "ما الغاز الذي تحتاجه النباتات لعملية البناء الضوئي؟",
+    "label": "ثاني أكسيد الكربون",
+    "context": "تحتاج النباتات لثاني أكسيد الكربون في عملية البناء الضوئي.",
+    "tags": {
+      "category": "environmental",
+      "difficulty": "medium"
+    },
+    "sha256": "d1c8987a95fb0c0f8ed2ca95bd515f2138467c62cc15024349e6be619565e407",
+    "id": "d46dbd2e",
+    "lang": "ar"
+  },
+  {
+    "text": "ما مقياس لمعدل التضخم الذي يتتبع الأسعار الإجمالية للبضائع والخدمات المكتسبة من قبل الأسر؟",
+    "label": "مؤشر أسعار المستهلك",
+    "context": "مقياس معدل التضخم الذي يتتبع الأسعار الإجمالية للبضائع والخدمات المكتسبة من قبل الأسر هو مؤشر أسعار المستهلك.",
+    "tags": {
+      "category": "economics",
+      "difficulty": "hard"
+    },
+    "sha256": "2f489a2c4d3b3740e32aad3e208644a2791bc93011259011728c98873e87a510",
+    "id": "34393d02",
+    "lang": "ar"
+  }
+]

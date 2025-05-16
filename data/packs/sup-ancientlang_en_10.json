@@ -1,0 +1,122 @@
+[
+  {
+    "text": "Which ancient script was used by Egyptian priests for administrative records on papyrus?",
+    "label": "Hieratic",
+    "context": "Pharaonic Egyptian administrative documents were recorded in the Hieratic script on papyrus.",
+    "tags": {
+      "category": "ancient languages",
+      "difficulty": "hard"
+    },
+    "id": "28d1b662",
+    "lang": "en",
+    "sha256": "1b72c420bdb7c29006574a8c50019220c1a7e540f19f842ff8be16d448fb0f86"
+  },
+  {
+    "text": "What cuneiform alphabet, discovered at Ras Shamra, was used to write a Northwest Semitic language?",
+    "label": "Ugaritic",
+    "context": "The Ugaritic cuneiform alphabet was discovered at the site of Ras Shamra.",
+    "tags": {
+      "category": "ancient languages",
+      "difficulty": "hard"
+    },
+    "id": "93768716",
+    "lang": "en",
+    "sha256": "02060766f3f441b41a7a71e08e790efc88a032fdb8787fbc5ae45c6ead8d0c5a"
+  },
+  {
+    "text": "What classification is given to the Sumerian language due to its lack of known relatives?",
+    "label": "language isolate",
+    "context": "Sumerian is classified as a language isolate due to its lack of known relatives.",
+    "tags": {
+      "category": "ancient languages",
+      "difficulty": "hard"
+    },
+    "id": "982d0855",
+    "lang": "en",
+    "sha256": "e64fc050770f02a301d7bc84682a5720b3b3297a7067ae196e48cbc25b55c7ae"
+  },
+  {
+    "text": "Which dialect of Ancient Greek is used in the Iliad and the Odyssey?",
+    "label": "Ionic",
+    "context": "The Iliad and the Odyssey are composed primarily in the Ionic dialect of Ancient Greek.",
+    "tags": {
+      "category": "ancient languages",
+      "difficulty": "hard"
+    },
+    "id": "b55887bd",
+    "lang": "en",
+    "sha256": "fb1b3d60f5133d4bea4212fea94a7049402556cc25ad34cc770b857d5aeb37cc"
+  },
+  {
+    "text": "Which undeciphered script was used by the Minoan civilization on Crete?",
+    "label": "Linear A",
+    "context": "The Minoans on Crete wrote in Linear A, which remains undeciphered.",
+    "tags": {
+      "category": "ancient languages",
+      "difficulty": "hard"
+    },
+    "id": "46d265e1",
+    "lang": "en",
+    "sha256": "4c080bf0a0cd40057bc83b662651a0a926a58ae2fbc4bdd9e870a8fb4e109898"
+  },
+  {
+    "text": "In which language is the Zoroastrian Avesta composed?",
+    "label": "Avestan",
+    "context": "The Zoroastrian Avesta is written in the Avestan language.",
+    "tags": {
+      "category": "ancient languages",
+      "difficulty": "hard"
+    },
+    "id": "7b3acf3e",
+    "lang": "en",
+    "sha256": "63af6303d68fb9d25898fcea86a9f6fc956eaac6d47469390abed7babb05b80a"
+  },
+  {
+    "text": "What script, derived from Phoenician, was used to write the Punic language?",
+    "label": "Punic alphabet",
+    "context": "The Punic language was written using the Punic alphabet derived from Phoenician.",
+    "tags": {
+      "category": "ancient languages",
+      "difficulty": "hard"
+    },
+    "id": "a6774f47",
+    "lang": "en",
+    "sha256": "acb6183f9eb42cd95091482291ca45feb006089389b7c305241984293a315a74"
+  },
+  {
+    "text": "What writing system did the Hittites adapt to record their language?",
+    "label": "Hittite cuneiform",
+    "context": "The Hittites adapted the cuneiform script, producing what is known as Hittite cuneiform.",
+    "tags": {
+      "category": "ancient languages",
+      "difficulty": "hard"
+    },
+    "id": "5fe4fb49",
+    "lang": "en",
+    "sha256": "a75084eac96c0dd51add134e3b89c1611580346875acb10d3dad8691109c4859"
+  },
+  {
+    "text": "Which Greek dialect was written in the Cypriot syllabary on the island of Cyprus?",
+    "label": "Arcadocypriot Greek",
+    "context": "Arcadocypriot Greek was written using the Cypriot syllabary.",
+    "tags": {
+      "category": "ancient languages",
+      "difficulty": "hard"
+    },
+    "id": "ea629005",
+    "lang": "en",
+    "sha256": "60d751c6939f83dd769e988ec79820dbbf816cb79b2823ce909a4769feefd9d1"
+  },
+  {
+    "text": "What undeciphered script was used by the Harappan civilization of the Indus Valley?",
+    "label": "Indus script",
+    "context": "The Harappan civilization used the Indus script, which remains undeciphered.",
+    "tags": {
+      "category": "ancient languages",
+      "difficulty": "hard"
+    },
+    "id": "a9f11470",
+    "lang": "en",
+    "sha256": "c901f46196b7836e7120869931f4dec77fb477a840010f11a2cc0590b6c81360"
+  }
+]

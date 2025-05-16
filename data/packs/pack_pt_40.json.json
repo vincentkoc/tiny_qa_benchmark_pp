@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Qual é a capital da França?",
+    "label": "Paris",
+    "context": "Paris é a capital da França.",
+    "tags": {
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    "sha256": "2eaa4e9698bf0865b32ebb32562333108efcdb0937e774e97ddbd013764a2ae8",
+    "id": "ffa7ec0d",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem pintou a Mona Lisa?",
+    "label": "Leonardo da Vinci",
+    "context": "A Mona Lisa foi pintada por Leonardo da Vinci.",
+    "tags": {
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    "sha256": "47a1b028bb0d9d75b36a6bb7a2e7c8d2f291541440f76d086190f098bee3db48",
+    "id": "de4bc023",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é o resultado de 7 x 8?",
+    "label": "56",
+    "context": "7 x 8 resulta em 56.",
+    "tags": {
+      "category": "matemática",
+      "difficulty": "easy"
+    },
+    "sha256": "e24a95f9dea4d6be3fcdd9bf15275e0cf22f74981183f48d96630d9b2cf0342a",
+    "id": "4e048e4c",
+    "lang": "pt"
+  },
+  {
+    "text": "Em que ano ocorreu a independência do Brasil?",
+    "label": "1822",
+    "context": "O Brasil alcançou sua independência em 1822.",
+    "tags": {
+      "category": "história",
+      "difficulty": "easy"
+    },
+    "sha256": "526a238ea71a06cb19665e34708a45d81bb247fceffb1d2d29137d661709e0ee",
+    "id": "b3508e6a",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é o elemento químico de símbolo O?",
+    "label": "Oxigênio",
+    "context": "O Oxigênio é o elemento químico de símbolo O.",
+    "tags": {
+      "category": "química",
+      "difficulty": "easy"
+    },
+    "sha256": "d780a182f7e79d1212171437148c3e7436f62c816bcc604559ecaddd6c9517f9",
+    "id": "35e3cf9a",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem escreveu 'Dom Casmurro'?",
+    "label": "Machado de Assis",
+    "context": "Dom Casmurro foi escrito por Machado de Assis.",
+    "tags": {
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    "sha256": "3f7c130b8ae733e1af3fcf581b2d1b438d7d9e84f91e1a583141effe5060948a",
+    "id": "04d97377",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual planeta é conhecido como Planeta Vermelho?",
+    "label": "Marte",
+    "context": "Marte é conhecido como Planeta Vermelho.",
+    "tags": {
+      "category": "astronomia",
+      "difficulty": "easy"
+    },
+    "sha256": "177e96d3c56ef65c5d877224ab877013df6348331b0ed5e927154dc68c8f85cf",
+    "id": "e42d7f57",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual a fórmula química da água?",
+    "label": "H2O",
+    "context": "A fórmula química da água é H2O.",
+    "tags": {
+      "category": "química",
+      "difficulty": "easy"
+    },
+    "sha256": "0beed844a1da2ec23421afcef52542ded5640ebb4fc963085ea230b47be4d6b7",
+    "id": "c6247d3a",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem descobriu a gravidade ao ver uma maçã cair?",
+    "label": "Isaac Newton",
+    "context": "Isaac Newton formulou a teoria da gravidade.",
+    "tags": {
+      "category": "física",
+      "difficulty": "medium"
+    },
+    "sha256": "1ed5cbb916ef95a5be05d9e70bd1c281ea09d4ba224d70beadba9bbfa4b57e60",
+    "id": "0427e85d",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual montanha é a mais alta do mundo?",
+    "label": "Everest",
+    "context": "O Everest é a montanha mais alta do mundo.",
+    "tags": {
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    "sha256": "7d57f100bf129c81489eb5ccaeadf708b36476a82224b931a2528076487665ec",
+    "id": "f1dc9a78",
+    "lang": "pt"
+  },
+  {
+    "text": "Em que continente fica a Nigéria?",
+    "label": "África",
+    "context": "A Nigéria fica no continente África.",
+    "tags": {
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    "sha256": "addeab8cfa652f74efed48b2fc721b1c5ec980519c64b7a9d379806fd4b17342",
+    "id": "033cf4e6",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem compôs a 9ª Sinfonia?",
+    "label": "Ludwig van Beethoven",
+    "context": "A 9ª Sinfonia foi composta por Ludwig van Beethoven.",
+    "tags": {
+      "category": "música",
+      "difficulty": "medium"
+    },
+    "sha256": "ab7435b58494dbc11088e2fe3af1fe458b0bacead440dc6d53661977e2141078",
+    "id": "9800de94",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual a raiz quadrada de 144?",
+    "label": "12",
+    "context": "A raiz quadrada de 144 é 12.",
+    "tags": {
+      "category": "matemática",
+      "difficulty": "easy"
+    },
+    "sha256": "81d3a03e20a93ba3b68a9c447b19a89843ea41e19bd7e8269c928dccf3ef2b95",
+    "id": "b8b3fe03",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é o idioma oficial do Brasil?",
+    "label": "Português",
+    "context": "O idioma oficial do Brasil é o Português.",
+    "tags": {
+      "category": "cultura",
+      "difficulty": "easy"
+    },
+    "sha256": "f6fab6a2eb0433dbeec2234fd315085170dcd2170bb40ba4486a0926379d9417",
+    "id": "4879bd94",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem foi o primeiro imperador romano?",
+    "label": "Augusto",
+    "context": "Augusto foi o primeiro imperador romano.",
+    "tags": {
+      "category": "história",
+      "difficulty": "medium"
+    },
+    "sha256": "aa47f0ed6367514e62d3ac12bb9f2f166f3914d985372a2f6af909ca16a1b5b3",
+    "id": "902717f7",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual animal é conhecido como rei da selva?",
+    "label": "Leão",
+    "context": "O Leão é conhecido como rei da selva.",
+    "tags": {
+      "category": "biologia",
+      "difficulty": "easy"
+    },
+    "sha256": "efc90fa6defb955fc3c4f28b5791f1c1d4d12f93645c96a719ff80275988a2cc",
+    "id": "4820e890",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é a capital do Japão?",
+    "label": "Tóquio",
+    "context": "Tóquio é a capital do Japão.",
+    "tags": {
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    "sha256": "c6d926f6a259c80c92abef78680a6ee5c1e2c433c8692cffb2fff70e17a1614d",
+    "id": "f81d9ce4",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem escreveu 'Dom Quixote'?",
+    "label": "Miguel de Cervantes",
+    "context": "Dom Quixote foi escrito por Miguel de Cervantes.",
+    "tags": {
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    "sha256": "31f1778f93e109134cedbc3825f97f5104e3ca778867788c0bd6479eb49ebd68",
+    "id": "1c03f00d",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é a unidade de medida de corrente elétrica?",
+    "label": "Ampère",
+    "context": "Ampère é a unidade de medida de corrente elétrica.",
+    "tags": {
+      "category": "física",
+      "difficulty": "medium"
+    },
+    "sha256": "b9599bd4651a12018ad53f6edd98c5832b949641c0b5042aceceed2ad861d041",
+    "id": "d07deba9",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual país é maior em área territorial?",
+    "label": "Rússia",
+    "context": "A Rússia é o país maior em área territorial.",
+    "tags": {
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    "sha256": "9a252d6aa7bda1f8f55fc67cbe2bdbf39a1b5b57b9ccc707d065b750bb2e288c",
+    "id": "4554a223",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é o símbolo químico do ouro?",
+    "label": "Au",
+    "context": "O Au é o símbolo químico do ouro.",
+    "tags": {
+      "category": "química",
+      "difficulty": "easy"
+    },
+    "sha256": "53e7b8e087963b8ba2d5ab388567f25dcd4fa16d46167a48d85019c8a57d727f",
+    "id": "2868380c",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem pintou 'Starry Night'?",
+    "label": "Vincent van Gogh",
+    "context": "Starry Night foi pintada por Vincent van Gogh.",
+    "tags": {
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    "sha256": "69c006ce65e3239a99407762fd1a4d49509f99548b2335a5296bf7b81fd82cf3",
+    "id": "52c26c39",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é o maior oceano do planeta?",
+    "label": "Pacífico",
+    "context": "O Pacífico é o maior oceano do planeta.",
+    "tags": {
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    "sha256": "2477e6b955b19588637f73a79b74290635c0838fb80f44ca418fac46d020d0df",
+    "id": "bd73fc71",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual o nome da molécula de DNA?",
+    "label": "Ácido desoxirribonucleico",
+    "context": "O DNA é Ácido desoxirribonucleico.",
+    "tags": {
+      "category": "biologia",
+      "difficulty": "hard"
+    },
+    "sha256": "d0d6d954b54adac178888b70b55e4bd0ee175e010b22d0bb4d7d49830aa3f100",
+    "id": "535e3e21",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem escreveu a peça 'Romeu e Julieta'?",
+    "label": "William Shakespeare",
+    "context": "Romeu e Julieta foi escrita por William Shakespeare.",
+    "tags": {
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    "sha256": "6f897ed180ccddfe813014aa14f2809464046cfa450481437d5e21e883b31769",
+    "id": "d53628ff",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual cidade é conhecida como a Big Apple?",
+    "label": "Nova York",
+    "context": "Nova York é conhecida como a Big Apple.",
+    "tags": {
+      "category": "cultura",
+      "difficulty": "easy"
+    },
+    "sha256": "9f6924440053d8fbb232f63788bf0ef6683d65d06a5aa7bcd7174e1ea2746d49",
+    "id": "2e59e354",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é a velocidade da luz no vácuo (km/s)?",
+    "label": "300000",
+    "context": "A velocidade da luz no vácuo é 300000 km/s.",
+    "tags": {
+      "category": "física",
+      "difficulty": "medium"
+    },
+    "sha256": "ae3573866b837c098367a976ff184871a739df550b0e702e69d8b426dc61f253",
+    "id": "c115ba0e",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é a capital do Canadá?",
+    "label": "Ottawa",
+    "context": "Ottawa é a capital do Canadá.",
+    "tags": {
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    "sha256": "39dc82cf475717db48cec6bbb33d05923ba63d94ff7b4ae8a4802a9dc70b6c68",
+    "id": "46b2933b",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem descobriu a vacina contra a varíola?",
+    "label": "Edward Jenner",
+    "context": "Edward Jenner desenvolveu a vacina contra a varíola.",
+    "tags": {
+      "category": "ciências",
+      "difficulty": "medium"
+    },
+    "sha256": "b28088c56b7375353131c55c15236f861f4d6dfca30269582a399cefc6ab6fb0",
+    "id": "d92e0668",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é o elemento mais leve da tabela periódica?",
+    "label": "Hidrogênio",
+    "context": "O Hidrogênio é o elemento mais leve da tabela periódica.",
+    "tags": {
+      "category": "química",
+      "difficulty": "easy"
+    },
+    "sha256": "128c507a500515f1adfe94149e1ee788193c51ec357729c03162f50b49c8e38d",
+    "id": "c2f205fd",
+    "lang": "pt"
+  },
+  {
+    "text": "Em que país se originou o samba?",
+    "label": "Brasil",
+    "context": "O samba se originou no Brasil.",
+    "tags": {
+      "category": "cultura",
+      "difficulty": "easy"
+    },
+    "sha256": "5bb7a34c0bd139673a3fdfc1bf8fafb3e72deff2278e10e6424863a3f0a4ad64",
+    "id": "0b0b14be",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual programador criou a linguagem C?",
+    "label": "Dennis Ritchie",
+    "context": "Dennis Ritchie criou a linguagem C.",
+    "tags": {
+      "category": "informática",
+      "difficulty": "medium"
+    },
+    "sha256": "44f489f0086b9b4d12e7b57bfe335a8848b86d91778735f3941d06783d6102d7",
+    "id": "35ac17da",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é o maior deserto do mundo?",
+    "label": "Sahara",
+    "context": "O Sahara é o maior deserto do mundo.",
+    "tags": {
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    "sha256": "4ba4a6d806106a71e224d4fd4d476853ba09f90bd54a8704608ab3a37f325124",
+    "id": "ee5d8d44",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem escreveu 'O Pequeno Príncipe'?",
+    "label": "Antoine de Saint-Exupéry",
+    "context": "O Pequeno Príncipe foi escrito por Antoine de Saint-Exupéry.",
+    "tags": {
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    "sha256": "8a0e207ca241ab2d781c20b6ec61131cb9158fe511845ede4a817c4645d54b43",
+    "id": "b8ea29f3",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual metal é líquido à temperatura ambiente?",
+    "label": "Mercúrio",
+    "context": "O Mercúrio é líquido à temperatura ambiente.",
+    "tags": {
+      "category": "química",
+      "difficulty": "medium"
+    },
+    "sha256": "5b3cc14ac090e109bc7cb7b1d348436dc51301e36b16465072bc52c47677eebf",
+    "id": "dd61ac56",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é a fórmula da área de um círculo?",
+    "label": "πr²",
+    "context": "A fórmula da área de um círculo é πr².",
+    "tags": {
+      "category": "matemática",
+      "difficulty": "medium"
+    },
+    "sha256": "0ca384e67ffc472bfae29a32d98eb8f8e7568351c40466b11247ecfb376f648d",
+    "id": "c510a5fb",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem compôs 'As Quatro Estações'?",
+    "label": "Vivaldi",
+    "context": "As Quatro Estações foi composta por Vivaldi.",
+    "tags": {
+      "category": "música",
+      "difficulty": "medium"
+    },
+    "sha256": "1f1acdf1ea9227ee765bd2cb15c35f3568d49aca3ffa51f7d16c76caf5bbb695",
+    "id": "7211b1e5",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual rio é o mais longo do mundo?",
+    "label": "Nilo",
+    "context": "O Nilo é o rio mais longo do mundo.",
+    "tags": {
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    "sha256": "594374c205e014a1df5676955ac023d4b2d926c45f49344c3354f4db06af0eaf",
+    "id": "51b7d133",
+    "lang": "pt"
+  },
+  {
+    "text": "Em que ano caiu o Muro de Berlim?",
+    "label": "1989",
+    "context": "O Muro de Berlim caiu em 1989.",
+    "tags": {
+      "category": "história",
+      "difficulty": "medium"
+    },
+    "sha256": "7f9170f6e0fc1aa18599702b704401c5974e143dbb209966ac69775ad53ced3a",
+    "id": "48b2d673",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é o principal gás responsável pelo efeito estufa?",
+    "label": "Dióxido de carbono",
+    "context": "O Dióxido de carbono é o principal gás responsável pelo efeito estufa.",
+    "tags": {
+      "category": "ciências",
+      "difficulty": "medium"
+    },
+    "sha256": "509bf4ff7e517b2f2730fa9c7f0c7f450da50c3fde1d6fc46794a3cf688814ff",
+    "id": "bd887852",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual planeta tem mais luas conhecidas?",
+    "label": "Saturno",
+    "context": "Saturno é o planeta com mais luas conhecidas.",
+    "tags": {
+      "category": "astronomia",
+      "difficulty": "hard"
+    },
+    "sha256": "2a1f9d05111e39fd822642a9bfb076f6110a6f455ffae85b8048d6870abe21ac",
+    "id": "c8ac24a3",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem foi o líder da Revolução Russa de 1917?",
+    "label": "Lenin",
+    "context": "Lenin foi o líder da Revolução Russa de 1917.",
+    "tags": {
+      "category": "história",
+      "difficulty": "hard"
+    },
+    "sha256": "6bfbc0e382739aa71afd4d1a488ef690c3e6f5c6043bccc56a0e456216d8afe8",
+    "id": "38cba65d",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é a raiz cúbica de 27?",
+    "label": "3",
+    "context": "A raiz cúbica de 27 é 3.",
+    "tags": {
+      "category": "matemática",
+      "difficulty": "easy"
+    },
+    "sha256": "27fadefb7cf3c44faf090b717a8f61e29eaaad32c53ec03a9b56a489b59350f8",
+    "id": "a7e19cad",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual pintor é famoso por suas garrafas de tinta em formato de balão?",
+    "label": "Takashi Murakami",
+    "context": "Takashi Murakami é famoso por suas garrafas de tinta em formato de balão.",
+    "tags": {
+      "category": "arte",
+      "difficulty": "hard"
+    },
+    "sha256": "5befe43ec3ddb21f5fa265a697993e5197b059e829bacdd29a9984bf8905a546",
+    "id": "e6ae90f9",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é o principal componente do sol?",
+    "label": "Hidrogênio",
+    "context": "O Sol é composto principalmente por Hidrogênio.",
+    "tags": {
+      "category": "astronomia",
+      "difficulty": "medium"
+    },
+    "sha256": "dd161d311e60f099ab5d1a0282be34fdce30214eaeb952633748d39c9f5d140e",
+    "id": "b1945065",
+    "lang": "pt"
+  },
+  {
+    "text": "Quem escreveu 'A Metamorfose'?",
+    "label": "Franz Kafka",
+    "context": "A Metamorfose foi escrita por Franz Kafka.",
+    "tags": {
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    "sha256": "e2b0c3e7e54c84d6bd0bb256a630cf9f9a76b30820654ff8330d66b968de0e6f",
+    "id": "071a0c76",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é a capital da Austrália?",
+    "label": "Camberra",
+    "context": "Camberra é a capital da Austrália.",
+    "tags": {
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    "sha256": "d857119395d06347e2b0efa341615ddbfe44a8f82d05673276e56181c36d7e8e",
+    "id": "0f77a739",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual artifício matemático aproxima valores numéricos?",
+    "label": "Arredondamento",
+    "context": "O Arredondamento aproxima valores numéricos.",
+    "tags": {
+      "category": "matemática",
+      "difficulty": "easy"
+    },
+    "sha256": "379293d87f2b71d9a02d6e8c1150e76dea9b9b50101b535582dc72ff89d2373d",
+    "id": "3a3f4cee",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual filósofo grego foi professor de Alexandre, o Grande?",
+    "label": "Aristóteles",
+    "context": "Aristóteles foi professor de Alexandre, o Grande.",
+    "tags": {
+      "category": "filosofia",
+      "difficulty": "hard"
+    },
+    "sha256": "9c2f55d538af3668611c8b21af4a8b2134ef710c988ab5585f728c6d3c439820",
+    "id": "56564859",
+    "lang": "pt"
+  },
+  {
+    "text": "Qual é o nome do satélite natural da Terra?",
+    "label": "Lua",
+    "context": "A Lua é o satélite natural da Terra.",
+    "tags": {
+      "category": "astronomia",
+      "difficulty": "easy"
+    },
+    "sha256": "c5185176efe2551badfd19f1b98baf56714218f2d21da049f69210f698cc35b6",
+    "id": "a5d465cd",
+    "lang": "pt"
+  }
+]
