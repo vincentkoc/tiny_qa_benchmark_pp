@@ -6,4 +6,4 @@ core_en:
 core_en.dev.v0:
   class: evals.elsuite.basic.match:Match
   args:
-    samples_jsonl: core_en_open-ai-eval.jsonl 
+    samples_jsonl: intergrations/openai-evals/core_en_open-ai-eval.jsonl 
