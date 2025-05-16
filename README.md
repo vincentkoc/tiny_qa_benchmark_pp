@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: Apache-2.0 OR CC BY 4.0 OR other -->
-<div align="center"><b><a href="README.md">English</a> | <a href="README_zh.md">简体中文 (Coming Soon)</a> | <a href="README_ja.md">日本語</a> | <a href="README_es.md">Español</a> | <a href="README_fr.md">Français</a></b></div>
+<div align="center"><b><a href="README.md">English</a> | <a href="README_zh.md">简体中文</a> | <a href="README_ja.md">日本語</a> | <a href="README_es.md">Español</a> | <a href="README_fr.md">Français</a></b></div>
 
 <h1 align="center" style="border: none">
     <div style="border: none">
@@ -135,7 +135,7 @@ If you use TQB++ in your research or work, please cite the original TQB and the 
 
 ```bibtex
 % This synthetic dataset and generator
-@misc{koctinyqabenchmark_pp_dataset,
+@misc{koctinyqabenchmarkpp,
   author       = {Vincent Koc},
   title        = {Tiny QA Benchmark++ (TQB++) Datasets and Toolkit},
   year         = {2025},
