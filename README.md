@@ -57,19 +57,82 @@ This repository contains the official implementation and synthetic datasets for 
 *   **LLMOps Alignment:** Designed for easy integration into CI/CD pipelines, prompt-engineering workflows, cross-lingual drift detection, and observability dashboards.
 *   **Multilingual Packs:** Pre-built packs for languages including English, French, Spanish, Portuguese, German, Chinese, Japanese, Turkish, Arabic, and Russian.
 
-## Installation
+## Using the `tinyqabenchmarkpp` Python Package
 
-The TQB++ toolkit, including the dataset generator and evaluation utilities, can be installed as a Python package from PyPI.
+The core synthetic generation capabilities of TQB++ are available as a Python package, `tinyqabenchmarkpp`, which can be installed from PyPI.
 
-### Generating Synthetic Datasets (python package)
+### Installation
 
 ```bash
 pip install tinyqabenchmarkpp
 ```
 
-(Note: Ensure you have Python 3.8+ and pip installed. The exact package name on PyPI might vary; please check the official project links if this command doesn't work.)
+(Note: Ensure you have Python 3.8+ and pip installed. If this command doesn't work, please check the official [PyPI project page](https://pypi.org/project/tinyqabenchmarkpp/) for the correct package name.)
 
-Once installed, you should be able to use the generator and evaluation scripts from your command line or import functionalities into your Python projects.
+### Generating Synthetic Datasets via CLI
+
+Once installed, the package provides a command-line interface (CLI) for generating synthetic QA datasets. You can invoke it using `python -m tinyqabenchmarkpp.generator` or the `tinyqa-generate` script (if it's in your PATH).
+
+**Basic Usage:**
+
+```bash
+python -m tinyqabenchmarkpp.generator --num 5 --languages "en,fr" --categories "history" --output-file "./my_custom_pack.jsonl"
+```
+
+Or using the script alias:
+```bash
+tinyqa-generate --num 5 --languages "en,fr" --categories "history" --output-file "./my_custom_pack.jsonl"
+```
+
+This command will generate 5 questions related to history, in both English and French, and save them to `my_custom_pack.jsonl`.
+
+**Key Generator Parameters:**
+
+The generator offers several parameters to customize your datasets:
+
+*   `--num N`: Total number of QA items to generate.
+*   `--languages CODES`: Comma-separated language codes (e.g., `en,es,ja`).
+*   `--categories TOPICS`: Comma-separated list of categories/topics (e.g., `science,art,mixed`).
+*   `--difficulty LEVEL`: Desired difficulty (e.g., `easy,medium,hard,mixed`).
+*   `--model MODEL_ID`: The LLM to use for generation, specified in LiteLLM format (e.g., `openai/gpt-4o-mini`, `openrouter/google/gemma-7b-it`, `ollama/llama3`).
+*   `--output-file PATH`: Path to save the generated JSONL file. If omitted, output is named `tinyqa_generated_<timestamp>.json` by default (unless `--str-output` is used).
+*   `--str-output`: Print the generated JSON to stdout instead of a file (suppresses most logs).
+*   `--context "TEXT"`: Provide a string of domain-specific context to guide question generation (see example below).
+*   `--temperature TEMP`: Set the sampling temperature for the LLM (default: 0.7).
+*   `--max-tokens MAX`: Maximum tokens for the LLM response.
+*   `--base_url URL`: For Ollama or other self-hosted models, specify the API base URL.
+*   `--opik`: Enable OpikLogger for LiteLLM tracing (if `opik` is installed).
+
+**Example: Generating Questions from Custom Context**
+
+The `--context` parameter is powerful for creating benchmarks based on specific information. For instance, if you have a text about a fictional topic:
+
+```text
+The Zephyr Snidget is a mythical bird that navigates by sensing subtle shifts in atmospheric pressure and primarily consumes stardust. It is known for its iridescent blue feathers and a song that mimics the sound of wind chimes.
+```
+
+You can pass this information directly (or from a file) to the generator:
+
+```bash
+CONTEXT_INFO="The Zephyr Snidget is a mythical bird that navigates by sensing subtle shifts in atmospheric pressure and primarily consumes stardust. It is known for its iridescent blue feathers and a song that mimics the sound of wind chimes."
+
+python -m tinyqabenchmarkpp.generator \
+    --num 3 \
+    --languages "en" \
+    --categories "mythical_birds" \
+    --difficulty "medium" \
+    --model "openai/gpt-4o-mini" \
+    --context "$CONTEXT_INFO" \
+    --output-file "./data/packs/zephyr_snidget_qa.jsonl"
+```
+This will guide the LLM to generate questions based on the details of the Zephyr Snidget.
+
+For a complete list of all parameters and their detailed descriptions, please refer to the generator's dedicated README at `tools/generator/README.md` or run:
+```bash
+python -m tinyqabenchmarkpp.generator --help
+```
+
+While the `tinyqabenchmarkpp` package focuses on dataset *generation*, the TQB++ project also provides pre-generated datasets and evaluation tools, as described below.
 
 ## Loading Datasets with Hugging Face `datasets`
 
