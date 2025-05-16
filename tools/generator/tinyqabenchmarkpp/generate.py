@@ -180,9 +180,11 @@ def generate_qa_pairs(
     output_path: Optional[str] = None,
     verbose: bool = True,
     use_opik: bool = False,
-) -> Optional[str]:
+) -> Union[List[Dict[str, Any]], None]:
     """
-    Generates TinyQA++ items and either saves them to a file or returns as a JSON string.
+    Generates TinyQA++ items. 
+    If output_path is provided, saves as a pretty-printed JSON array to the file.
+    If output_path is None, returns a list of item dictionaries.
 
     Args:
         model: Name of the model to use (e.g., "openai/gpt-4o-mini").
@@ -194,12 +196,12 @@ def generate_qa_pairs(
         temperature: Sampling temperature for the model.
         max_tokens: Maximum tokens for the model response.
         seed: Optional seed for reproducibility.
-        output_path: Optional path to save the generated JSON file. If None, items are returned as a JSON string.
+        output_path: Optional path to save the generated JSON file. If None, items are returned as a list of dictionaries.
         verbose: If True, print progress and debug information. LiteLLM verbosity is also controlled.
         use_opik: If True, enable OpikLogger for LiteLLM.
 
     Returns:
-        A JSON string of the generated items if output_path is None, otherwise None.
+        A list of item dictionaries if output_path is None, otherwise None (file is written).
     """
     log_func: Callable[..., None] = print if verbose else lambda *args, **kwargs: None
 
@@ -247,21 +249,21 @@ def generate_qa_pairs(
         all_items.extend(batch_items)
         if len(lang_list_str) > 1 and len(all_items) < num_total_items: time.sleep(0.5)
 
-    json_output = json.dumps(all_items, indent=2, ensure_ascii=False)
     if output_path:
+        json_output = json.dumps(all_items, indent=2, ensure_ascii=False)
         try:
             out_p = Path(output_path)
             out_p.parent.mkdir(exist_ok=True, parents=True)
             out_p.write_text(json_output, encoding="utf-8")
-            if verbose: log_func(f"✅  {len(all_items)} items generated and saved to {out_p}")
+            if verbose: log_func(f"✅  {len(all_items)} items generated and saved to {out_p} (JSON format)")
             return None
         except IOError as e:
             if verbose: log_func(f"[ERROR] Could not write to output file {output_path}: {e}")
             if not verbose: log_func(f"Failed to write to {output_path}")
-            return None
+            return None # Explicitly return None on error as well
     else:
-        if verbose: log_func(f"✅  {len(all_items)} items generated. Returning as JSON string.")
-        return json_output 
+        if verbose: log_func(f"✅  {len(all_items)} items generated. Returning as list of dicts.")
+        return all_items
 
 def main_cli() -> None:
     p = argparse.ArgumentParser(
@@ -275,7 +277,7 @@ def main_cli() -> None:
     p.add_argument("--model", default="openai/gpt-4o-mini", help="LLM model (via LiteLLM).")
     out_group = p.add_mutually_exclusive_group()
     out_group.add_argument("--output-file", help="Path to save JSON. Default: tinyqa_generated_<timestamp>.json if not --str-output.")
-    out_group.add_argument("--str-output", action="store_true", help="Output JSON to stdout; suppresses most logs.")
+    out_group.add_argument("--str-output", action="store_true", help="Output JSONL to stdout; suppresses most logs.")
     p.add_argument("--seed", type=int, help="Random seed for generation.")
     p.add_argument("--context", default="", help="Optional domain context string.")
     p.add_argument("--temperature", type=float, default=0.7, help="Model sampling temperature.")
@@ -295,15 +297,25 @@ def main_cli() -> None:
         actual_output_path = f"tinyqa_generated_{int(time.time())}.json"
         cli_log_func(f"[CLI INFO] No output file specified. Defaulting to: {actual_output_path}")
     try:
-        result_json_str = generate_qa_pairs(
-            model=args.model, languages=args.languages, num_total_items=args.num,
-            categories=args.categories, difficulty=args.difficulty, domain_ctx=args.context,
-            temperature=args.temperature, max_tokens=args.max_tokens, seed=args.seed,
-            output_path=actual_output_path, verbose=generator_verbose, use_opik=args.opik
-        )
         if args.str_output:
-            if result_json_str is not None: print(result_json_str)
-        elif actual_output_path and not generator_verbose: cli_log_func(f"[CLI INFO] Items saved to {actual_output_path}")
+            items_list = generate_qa_pairs(
+                model=args.model, languages=args.languages, num_total_items=args.num,
+                categories=args.categories, difficulty=args.difficulty, domain_ctx=args.context,
+                temperature=args.temperature, max_tokens=args.max_tokens, seed=args.seed,
+                output_path=None, verbose=generator_verbose, use_opik=args.opik
+            )
+            if items_list is not None:
+                jsonl_output = "\n".join([json.dumps(item, ensure_ascii=False) for item in items_list])
+                print(jsonl_output)
+        else: # Writing to a file (actual_output_path will be set)
+            generate_qa_pairs(
+                model=args.model, languages=args.languages, num_total_items=args.num,
+                categories=args.categories, difficulty=args.difficulty, domain_ctx=args.context,
+                temperature=args.temperature, max_tokens=args.max_tokens, seed=args.seed,
+                output_path=actual_output_path, verbose=generator_verbose, use_opik=args.opik
+            )
+            if actual_output_path and not generator_verbose: 
+                cli_log_func(f"[CLI INFO] Items saved to {actual_output_path}")
 
     except ValueError as e: 
         print(f"[CLI ERROR] Configuration error: {e}", file=sys.stderr)
