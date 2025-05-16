@@ -103,6 +103,7 @@ Synthetically generated packs also include `id`, `lang` (language code), and `sh
 *   **Prompt Engineering:** Get immediate feedback on prompt changes.
 *   **Cross-Lingual Drift Detection:** Monitor performance consistency across languages.
 *   **Targeted Evaluations:** Use or generate packs for specific domains/topics of interest.
+*   **Evaluation Tooling Integration:** The main GitHub repository ([vincentkoc/tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny_qa_benchmark_pp)) includes an `intergrations/` directory with out-of-the-box support for frameworks like OpenAI Evals and guidance for tools such as Comet Opik. This allows for streamlined setup of TQB++ within your existing evaluation workflows.
 
 ## Licensing
 

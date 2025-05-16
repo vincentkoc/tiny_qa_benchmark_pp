@@ -137,7 +137,7 @@ TQB++ is designed for various LLMOps and evaluation workflows:
 
 *   **CI/CD Pipeline Testing:** Use as a unit test with LLM testing tooling for LLM services to catch regressions.
 *   **Prompt Engineering & Agent Development:** Get rapid feedback when iterating on prompts or agent designs.
-*   **Evaluation Harness Integration:** Encode as an OpenAI Evals YAML or Opik dataset for dashboard tracking.
+*   **Evaluation Harness Integration:** Designed for seamless use with evaluation harnesses. Encode as an OpenAI Evals YAML (see `intergrations/openai-evals/README.md`) or an Opik dataset for dashboard tracking and robust LLM assessment. The `intergrations/` folder provides further details on available out-of-the-box support.
 *   **Cross-Lingual Drift Detection:** Monitor localization regressions using multilingual TQB++ packs.
 *   **Adaptive Testing:** Synthesize new micro-benchmarks on-the-fly tailored to specific features or data drifts.
 *   **Monitoring Fine-tuning Dynamics:** Track knowledge erosion or unintended capability changes during fine-tuning.

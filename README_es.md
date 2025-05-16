@@ -141,7 +141,7 @@ TQB++ está diseñado para diversos flujos de trabajo de LLMOps y evaluación:
 
 *   **Pruebas de Pipeline CI/CD:** Úsalo como prueba unitaria con herramientas de prueba de LLM para servicios LLM para detectar regresiones.
 *   **Ingeniería de Prompts y Desarrollo de Agentes:** Obtén retroalimentación rápida al iterar en prompts o diseños de agentes.
-*   **Integración de Arnés de Evaluación:** Codifícalo como un YAML de OpenAI Evals o un conjunto de datos de Opik para el seguimiento en el panel de control.
+*   **Integración de Arnés de Evaluación:** Diseñado para un uso fluido con arneses de evaluación. Codifícalo como un YAML de OpenAI Evals (consulta `intergrations/openai-evals/README.md`) o un conjunto de datos de Opik para el seguimiento en el panel de control y una evaluación robusta de LLM. La carpeta `intergrations/` proporciona más detalles sobre el soporte listo para usar disponible.
 *   **Detección de Deriva Multilingüe:** Monitoriza las regresiones de localización usando paquetes TQB++ multilingües.
 *   **Pruebas Adaptativas:** Sintetiza nuevos micro-benchmarks sobre la marcha adaptados a características específicas o derivas de datos.
 *   **Monitorización de Dinámicas de Ajuste Fino:** Rastrea la erosión del conocimiento o cambios de capacidad no deseados durante el ajuste fino.
