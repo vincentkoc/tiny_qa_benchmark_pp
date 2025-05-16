@@ -19,6 +19,7 @@ language:
 - ja
 - es
 - tr
+- ru
 tags:
 - synthetic
 - qa
