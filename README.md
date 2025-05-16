@@ -1,46 +1,43 @@
+<!-- SPDX-License-Identifier: Apache-2.0 OR CC BY 4.0 OR other -->
 <div align="center"><b><a href="README.md">English</a> | <a href="README_zh.md">简体中文 (Coming Soon)</a> | <a href="README_ja.md">日本語</a> | <a href="README_es.md">Español</a> | <a href="README_fr.md">Français</a></b></div>
 
-<h1 align="center" style="border-bottom: none">
-    <div>
+<h1 align="center" style="border: none">
+    <div style="border: none">
         <!-- If you have a logo, you can add it here. Example:
         <a href="YOUR_PROJECT_LINK"><picture>
             <source media="(prefers-color-scheme: dark)" srcset="PATH_TO_DARK_LOGO.svg">
             <source media="(prefers-color-scheme: light)" srcset="PATH_TO_LIGHT_LOGO.svg">
             <img alt="Project Logo" src="PATH_TO_LIGHT_LOGO.svg" width="200" />
         </picture></a>
-        -->
         <br>
+        -->
         Tiny QA Benchmark++ (TQB++)
     </div>
-    Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests<br>
 </h1>
 
 <p align="center">
-An ultra-lightweight evaluation suite and Python package to expose critical LLM failures in seconds, ideal for CI/CD and LLMOps.
+An ultra-lightweight evaluation dataset and synthetic generator <br>to expose critical LLM failures in seconds, ideal for CI/CD and LLMOps.
 </p>
 
 <div align="center">
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><img alt="PyPI version" src="https://img.shields.io/pypi/v/tinyqabenchmarkpp"></a>
-    <a href="https://github.com/vincentkoc/tiny-qa-benchmark-pp-paper/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/vincentkoc/tiny_qa_benchmark_pp"></a>
+    <a href="https://github.com/vincentkoc/tinyqa_benchmark-pp/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/vincentkoc/tinyqa-benchmark-pp"></a>
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Hugging Face Dataset" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a>
     <!-- Consider adding a GitHub Actions workflow badge if you have CI configured -->
     <!-- e.g., <a href="YOUR_WORKFLOW_LINK"><img alt="Build Status" src="YOUR_WORKFLOW_BADGE_SVG_LINK"></a> -->
 </div>
 
 <p align="center">
-    <a href="https://github.com/vincentkoc/tiny-qa-benchmark-pp-paper"><b>GitHub</b></a> •
+    <a href="https://github.com/vincentkoc/tiny-qa-benchmark-pp"><b>GitHub</b></a> •
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><b>Hugging Face Dataset</b></a> •
     <!-- Link to paper once available -->
     <!-- <a href="#"><b>Paper (Link Coming Soon)</b></a> • -->
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><b>PyPI</b></a>
 </p>
 
+<hr>
 <!-- Optional: If you have a project thumbnail image, you can add it here -->
 <!-- <p align="center"><img alt="TQB++ Thumbnail" src="path/to/your/thumbnail.png" width="700"></p> -->
-
-# Tiny QA Benchmark++: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests
-
-<!-- SPDX-License-Identifier: Apache-2.0 OR CC BY 4.0 OR other -->
 
 **Tiny QA Benchmark++ (TQB++)** is an ultra-lightweight evaluation suite and python package designed to expose critical failures in Large Language Model (LLM) systems within seconds. It serves as the LLM software unit tests, ideal for rapid CI/CD checks, prompt engineering, and continuous quality assurance in modern LLMOps to be used alongside existing LLM evaluation tooling such as [Opik](https://github.com/comet-ml/opik/).
 
@@ -48,8 +45,8 @@ This repository contains the official implementation and synthetic datasets for 
 
 **Paper:** (Details and link to preprint will be provided here once published)
 
-**Hugging Face Hub:** [datasets/vincentkoc/tiny_qa_benchmark_pp](https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp)
-**GitHub Repository:** [vincentkoc/tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny-qa-benchmark-pp-paper)
+- **Hugging Face Hub:** [datasets/vincentkoc/tiny_qa_benchmark_pp](https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp)
+- **GitHub Repository:** [vincentkoc/tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny-qa-benchmark-pp-paper)
 
 ## Key Features
 
