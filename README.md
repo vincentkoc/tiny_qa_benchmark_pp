@@ -21,14 +21,14 @@ An ultra-lightweight evaluation dataset and synthetic generator <br>to expose cr
 
 <div align="center">
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><img alt="PyPI version" src="https://img.shields.io/pypi/v/tinyqabenchmarkpp"></a>
-    <a href="https://github.com/vincentkoc/tinyqa_benchmark-pp/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/vincentkoc/tinyqa-benchmark-pp"></a>
+    <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/vincentkoc/tiny_qa_benchmark_pp"></a>
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Hugging Face Dataset" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a>
     <!-- Consider adding a GitHub Actions workflow badge if you have CI configured -->
     <!-- e.g., <a href="YOUR_WORKFLOW_LINK"><img alt="Build Status" src="YOUR_WORKFLOW_BADGE_SVG_LINK"></a> -->
 </div>
 
 <p align="center">
-    <a href="https://github.com/vincentkoc/tiny-qa-benchmark-pp"><b>GitHub</b></a> •
+    <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp"><b>GitHub</b></a> •
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><b>Hugging Face Dataset</b></a> •
     <!-- Link to paper once available -->
     <!-- <a href="#"><b>Paper (Link Coming Soon)</b></a> • -->
@@ -46,7 +46,7 @@ This repository contains the official implementation and synthetic datasets for 
 **Paper:** (Details and link to preprint will be provided here once published)
 
 - **Hugging Face Hub:** [datasets/vincentkoc/tiny_qa_benchmark_pp](https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp)
-- **GitHub Repository:** [vincentkoc/tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny-qa-benchmark-pp-paper)
+- **GitHub Repository:** [vincentkoc/tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny_qa_benchmark_pp)
 
 ## Key Features
 
