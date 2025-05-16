@@ -1,0 +1,41 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.toc
+*.lof
+*.lot
+*.run.xml
+*.bcf
+*.idx
+*.ilg
+*.ind
+*.dvi
+*.xdv
+*.ps
+*.eps
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db 
+
+# Suplimentary files
+*/data/
+*/batch_results/
+*/tinyqa_generated_*.json.gz
+*/tinyqa_generated_*.json.gz.part
+
+# Paper
+*.pdf
+!figures/*.pdf  # Keep PDF figures
