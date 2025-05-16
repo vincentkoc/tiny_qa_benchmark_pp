@@ -1,6 +1,6 @@
 ---
 license: other
-license_name: evaluation-only
+license_name: eval-only-nc-nd
 license_link: >-
   https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENCE.data_packs.md
 task_categories:
