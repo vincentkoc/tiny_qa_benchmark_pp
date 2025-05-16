@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tinyqabenchmarkpp"
+version = "0.1.0"
+authors = [
+    { name = "Vincent Koc", email = "vincentkoc@ieee.org" },
+]
+description = "A tiny synthetic QA LLM benchmark dataset generator using LiteLLM."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+]
+dependencies = [
+    "litellm>=1.38.3",
+    "opik",
+]
+
+[project.scripts]
+tinyqa-generate = "tinyqa_generator.core:main_cli"
+
+[project.urls]
+"Homepage" = "https://github.com/vincentkoc/tinyqa-benchmark-pp"
+"Bug Tracker" = "https://github.com/vincentkoc/tinyqa-benchmark-pp/issues"
