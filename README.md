@@ -71,66 +71,16 @@ pip install tinyqabenchmarkpp
 
 ### Generating Synthetic Datasets via CLI
 
-Once installed, the package provides a command-line interface (CLI) for generating synthetic QA datasets. You can invoke it using `python -m tinyqabenchmarkpp.generator` or the `tinyqa-generate` script (if it's in your PATH).
+Once installed, you can use the `tinyqabenchmarkpp` command (or `python -m tinyqabenchmarkpp.generate`) to create custom QA datasets. 
 
-**Basic Usage:**
-
+**Example:**
 ```bash
-python -m tinyqabenchmarkpp.generator --num 5 --languages "en,fr" --categories "history" --output-file "./my_custom_pack.jsonl"
+tinyqabenchmarkpp --num 10 --languages "en,es" --categories "science" --output-file "./science_pack.jsonl"
 ```
 
-Or using the script alias:
-```bash
-tinyqa-generate --num 5 --languages "en,fr" --categories "history" --output-file "./my_custom_pack.jsonl"
-```
+This will generate a small pack of 10 English and Spanish science questions.
 
-This command will generate 5 questions related to history, in both English and French, and save them to `my_custom_pack.jsonl`.
-
-**Key Generator Parameters:**
-
-The generator offers several parameters to customize your datasets:
-
-*   `--num N`: Total number of QA items to generate.
-*   `--languages CODES`: Comma-separated language codes (e.g., `en,es,ja`).
-*   `--categories TOPICS`: Comma-separated list of categories/topics (e.g., `science,art,mixed`).
-*   `--difficulty LEVEL`: Desired difficulty (e.g., `easy,medium,hard,mixed`).
-*   `--model MODEL_ID`: The LLM to use for generation, specified in LiteLLM format (e.g., `openai/gpt-4o-mini`, `openrouter/google/gemma-7b-it`, `ollama/llama3`).
-*   `--output-file PATH`: Path to save the generated JSONL file. If omitted, output is named `tinyqa_generated_<timestamp>.json` by default (unless `--str-output` is used).
-*   `--str-output`: Print the generated JSON to stdout instead of a file (suppresses most logs).
-*   `--context "TEXT"`: Provide a string of domain-specific context to guide question generation (see example below).
-*   `--temperature TEMP`: Set the sampling temperature for the LLM (default: 0.7).
-*   `--max-tokens MAX`: Maximum tokens for the LLM response.
-*   `--base_url URL`: For Ollama or other self-hosted models, specify the API base URL.
-*   `--opik`: Enable OpikLogger for LiteLLM tracing (if `opik` is installed).
-
-**Example: Generating Questions from Custom Context**
-
-The `--context` parameter is powerful for creating benchmarks based on specific information. For instance, if you have a text about a fictional topic:
-
-```text
-The Zephyr Snidget is a mythical bird that navigates by sensing subtle shifts in atmospheric pressure and primarily consumes stardust. It is known for its iridescent blue feathers and a song that mimics the sound of wind chimes.
-```
-
-You can pass this information directly (or from a file) to the generator:
-
-```bash
-CONTEXT_INFO="The Zephyr Snidget is a mythical bird that navigates by sensing subtle shifts in atmospheric pressure and primarily consumes stardust. It is known for its iridescent blue feathers and a song that mimics the sound of wind chimes."
-
-python -m tinyqabenchmarkpp.generator \
-    --num 3 \
-    --languages "en" \
-    --categories "mythical_birds" \
-    --difficulty "medium" \
-    --model "openai/gpt-4o-mini" \
-    --context "$CONTEXT_INFO" \
-    --output-file "./data/packs/zephyr_snidget_qa.jsonl"
-```
-This will guide the LLM to generate questions based on the details of the Zephyr Snidget.
-
-For a complete list of all parameters and their detailed descriptions, please refer to the generator's dedicated README at `tools/generator/README.md` or run:
-```bash
-python -m tinyqabenchmarkpp.generator --help
-```
+For detailed instructions on all available parameters (like `--model`, `--context`, `--difficulty`, etc.), advanced usage, and examples for different LLM providers (OpenAI, OpenRouter, Ollama), please refer to the **[Generator Toolkit README](tools/generator/README.md)** or run `tinyqabenchmarkpp --help`.
 
 While the `tinyqabenchmarkpp` package focuses on dataset *generation*, the TQB++ project also provides pre-generated datasets and evaluation tools, as described below.
 

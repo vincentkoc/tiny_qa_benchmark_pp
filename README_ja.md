@@ -61,19 +61,32 @@
 *   **LLMOps との連携：** CI/CD パイプライン、プロンプトエンジニアリングワークフロー、多言語ドリフト検出、および可観測性ダッシュボードへの容易な統合のために設計されています。
 *   **多言語パック：** 英語、フランス語、スペイン語、ポルトガル語、ドイツ語、中国語、日本語、トルコ語、アラビア語、ロシア語など、多数の言語用の事前構築済みパック。
 
-## インストール
+## `tinyqabenchmarkpp` Python パッケージの使用
 
-TQB++ ツールキット (データセットジェネレータと評価ユーティリティを含む) は、PyPI から Python パッケージとしてインストールできます。
+TQB++ のコア合成生成機能は、PyPI からインストールできる Python パッケージ `tinyqabenchmarkpp` として利用できます。
 
-### 合成データセットの生成 (python パッケージ)
+### インストール
 
 ```bash
 pip install tinyqabenchmarkpp
 ```
 
-(注意：Python 3.8 以降と pip がインストールされていることを確認してください。PyPI 上の正確なパッケージ名は異なる場合があります。このコマンドが機能しない場合は、公式のプロジェクトリンクを確認してください。)
+(注意：Python 3.8 以降と pip がインストールされていることを確認してください。PyPI 上の正確なパッケージ名は異なる場合があります。このコマンドが機能しない場合は、公式の [PyPI プロジェクトページ](https://pypi.org/project/tinyqabenchmarkpp/) で正しいパッケージ名を確認してください。)
 
-インストール後、コマンドラインからジェネレータと評価スクリプトを使用したり、機能を Python プロジェクトにインポートしたりできるようになります。
+### CLI を介した合成データセットの生成
+
+インストール後、`tinyqabenchmarkpp` コマンド (または `python -m tinyqabenchmarkpp.generate`) を使用してカスタム QA データセットを作成できます。
+
+**例：**
+```bash
+tinyqabenchmarkpp --num 10 --languages "en,es" --categories "science" --output-file "./science_pack.jsonl"
+```
+
+これにより、10 個の英語とスペイン語の科学に関する質問の小さなパックが生成されます。
+
+利用可能なすべてのパラメータ ( `--model`、`--context`、`--difficulty` など)、高度な使用法、およびさまざまな LLM プロバイダー (OpenAI、OpenRouter、Ollama) の例に関する詳細な手順については、**[ジェネレータツールキット README](tools/generator/README.md)** を参照するか、`tinyqabenchmarkpp --help` を実行してください。
+
+`tinyqabenchmarkpp` パッケージはデータセットの*生成*に重点を置いていますが、TQB++ プロジェクトでは、以下で説明するように、事前に生成されたデータセットと評価ツールも提供しています。
 
 ## Hugging Face `datasets` を使用したデータセットの読み込み
 

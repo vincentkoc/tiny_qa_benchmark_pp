@@ -61,19 +61,32 @@ Este repositorio contiene la implementación oficial y los conjuntos de datos si
 *   **Alineación con LLMOps:** Diseñado para una fácil integración en pipelines de CI/CD, flujos de trabajo de ingeniería de prompts, detección de deriva multilingüe y paneles de observabilidad.
 *   **Paquetes Multilingües:** Paquetes preconstruidos para numerosos idiomas, incluyendo inglés, francés, español, portugués, alemán, chino, japonés, turco, árabe y ruso.
 
-## Instalación
+## Uso del Paquete de Python `tinyqabenchmarkpp`
 
-El kit de herramientas TQB++ (incluyendo el generador de conjuntos de datos y las utilidades de evaluación) se puede instalar como un paquete de Python desde PyPI.
+Las capacidades principales de generación sintética de TQB++ están disponibles como un paquete de Python, `tinyqabenchmarkpp`, que se puede instalar desde PyPI.
 
-### Generación de Conjuntos de Datos Sintéticos (paquete de python)
+### Instalación
 
 ```bash
 pip install tinyqabenchmarkpp
 ```
 
-(Nota: Asegúrate de tener Python 3.8+ y pip instalados. El nombre exacto del paquete en PyPI puede variar; por favor, comprueba los enlaces oficiales del proyecto si este comando no funciona.)
+(Nota: Asegúrate de tener Python 3.8+ y pip instalados. El nombre exacto del paquete en PyPI puede variar; por favor, comprueba la [página oficial del proyecto en PyPI](https://pypi.org/project/tinyqabenchmarkpp/) para el nombre correcto del paquete si este comando no funciona.)
 
-Una vez instalado, deberías poder usar los scripts del generador y de evaluación desde tu línea de comandos o importar funcionalidades en tus proyectos de Python.
+### Generación de Conjuntos de Datos Sintéticos vía CLI
+
+Una vez instalado, puedes usar el comando `tinyqabenchmarkpp` (o `python -m tinyqabenchmarkpp.generate`) para crear conjuntos de datos QA personalizados.
+
+**Ejemplo:**
+```bash
+tinyqabenchmarkpp --num 10 --languages "en,es" --categories "science" --output-file "./science_pack.jsonl"
+```
+
+Esto generará un pequeño paquete de 10 preguntas de ciencia en inglés y español.
+
+Para instrucciones detalladas sobre todos los parámetros disponibles (como `--model`, `--context`, `--difficulty`, etc.), uso avanzado y ejemplos para diferentes proveedores de LLM (OpenAI, OpenRouter, Ollama), por favor consulta el **[README del Kit de Herramientas del Generador](tools/generator/README.md)** o ejecuta `tinyqabenchmarkpp --help`.
+
+Aunque el paquete `tinyqabenchmarkpp` se centra en la *generación* de conjuntos de datos, el proyecto TQB++ también proporciona conjuntos de datos pregenerados y herramientas de evaluación, como se describe a continuación.
 
 ## Carga de Conjuntos de Datos con `datasets` de Hugging Face
 

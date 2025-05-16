@@ -26,7 +26,7 @@ dependencies = [
 ]
 
 [project.scripts]
-tinyqa-generate = "tinyqa_generator.core:main_cli"
+tinyqabenchmarkpp = "tinyqabenchmarkpp.core:main_cli"
 
 [project.urls]
 "Homepage" = "https://github.com/vincentkoc/tinyqa-benchmark-pp"

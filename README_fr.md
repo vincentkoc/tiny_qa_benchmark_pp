@@ -61,19 +61,32 @@ Ce dépôt contient l'implémentation officielle et les jeux de données synthé
 *   **Alignement LLMOps :** Conçu pour une intégration facile dans les pipelines CI/CD, les flux de travail d'ingénierie des prompts, la détection de dérive multilingue et les tableaux de bord d'observabilité.
 *   **Packs Multilingues :** Packs préconstruits pour de nombreuses langues, dont l'anglais, le français, l'espagnol, le portugais, l'allemand, le chinois, le japonais, le turc, l'arabe et le russe.
 
-## Installation
+## Utilisation du Package Python `tinyqabenchmarkpp`
 
-La boîte à outils TQB++ (comprenant le générateur de jeux de données et les utilitaires d'évaluation) peut être installée en tant que package Python depuis PyPI.
+Les capacités principales de génération synthétique de TQB++ sont disponibles sous forme de package Python, `tinyqabenchmarkpp`, installable depuis PyPI.
 
-### Génération de Jeux de Données Synthétiques (package python)
+### Installation
 
 ```bash
 pip install tinyqabenchmarkpp
 ```
 
-(Remarque : Assurez-vous que Python 3.8+ et pip sont installés. Le nom exact du package sur PyPI peut varier ; veuillez vérifier les liens officiels du projet si cette commande ne fonctionne pas.)
+(Remarque : Assurez-vous que Python 3.8+ et pip sont installés. Le nom exact du package sur PyPI peut varier ; veuillez consulter la [page officielle du projet PyPI](https://pypi.org/project/tinyqabenchmarkpp/) pour le nom correct du package si cette commande ne fonctionne pas.)
 
-Une fois installé, vous devriez pouvoir utiliser les scripts du générateur et d'évaluation depuis votre ligne de commande ou importer des fonctionnalités dans vos projets Python.
+### Génération de Jeux de Données Synthétiques via CLI
+
+Une fois installé, vous pouvez utiliser la commande `tinyqabenchmarkpp` (ou `python -m tinyqabenchmarkpp.generate`) pour créer des jeux de données QA personnalisés.
+
+**Exemple :**
+```bash
+tinyqabenchmarkpp --num 10 --languages "en,es" --categories "science" --output-file "./science_pack.jsonl"
+```
+
+Cela générera un petit pack de 10 questions scientifiques en anglais et en espagnol.
+
+Pour des instructions détaillées sur tous les paramètres disponibles (comme `--model`, `--context`, `--difficulty`, etc.), l'utilisation avancée et des exemples pour différents fournisseurs LLM (OpenAI, OpenRouter, Ollama), veuillez consulter le **[README de la Boîte à Outils du Générateur](tools/generator/README.md)** ou exécuter `tinyqabenchmarkpp --help`.
+
+Bien que le package `tinyqabenchmarkpp` se concentre sur la *génération* de jeux de données, le projet TQB++ fournit également des jeux de données pré-générés et des outils d'évaluation, comme décrit ci-dessous.
 
 ## Chargement de Jeux de Données avec `datasets` de Hugging Face
 

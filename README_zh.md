@@ -61,19 +61,32 @@
 *   **LLMOps 对齐：** 旨在轻松集成到 CI/CD 管道、提示工程工作流、跨语言漂移检测和可观察性仪表板中。
 *   **多语言包：** 为多种语言（包括英语、法语、西班牙语、葡萄牙语、德语、中文、日语、土耳其语、阿拉伯语和俄语）预构建的包。
 
-## 安装
+## 使用 `tinyqabenchmarkpp` Python 包
 
-TQB++ 工具包（包括数据集生成器和评估实用程序）可以作为 Python 包从 PyPI 安装。
+TQB++ 的核心综合生成功能以 Python 包 `tinyqabenchmarkpp` 的形式提供，可从 PyPI 安装。
 
-### 生成合成数据集 (python 包)
+### 安装
 
 ```bash
 pip install tinyqabenchmarkpp
 ```
 
-(注意：确保您已安装 Python 3.8+ 和 pip。PyPI 上的确切包名称可能会有所不同；如果此命令不起作用，请检查官方项目链接。)
+(注意：确保您已安装 Python 3.8+ 和 pip。PyPI 上的确切包名称可能会有所不同；如果此命令不起作用，请检查官方 [PyPI 项目页面](https://pypi.org/project/tinyqabenchmarkpp/) 获取正确的包名称。)
 
-安装后，您应该能够从命令行使用生成器和评估脚本，或将功能导入到您的 Python 项目中。
+### 通过 CLI 生成合成数据集
+
+安装后，您可以使用 `tinyqabenchmarkpp` 命令 (或 `python -m tinyqabenchmarkpp.generate`) 创建自定义 QA 数据集。
+
+**示例：**
+```bash
+tinyqabenchmarkpp --num 10 --languages "en,es" --categories "science" --output-file "./science_pack.jsonl"
+```
+
+这将生成一个包含 10 个英语和西班牙语科学问题的小型数据包。
+
+有关所有可用参数 (如 `--model`、`--context`、`--difficulty` 等) 的详细说明、高级用法以及不同 LLM 提供程序 (OpenAI、OpenRouter、Ollama) 的示例，请参阅 **[生成器工具包 README](tools/generator/README.md)** 或运行 `tinyqabenchmarkpp --help`。
+
+虽然 `tinyqabenchmarkpp` 包专注于数据集*生成*，但 TQB++ 项目还提供预生成的数据集和评估工具，如下所述。
 
 ## 使用 Hugging Face `datasets` 加载数据集
 
