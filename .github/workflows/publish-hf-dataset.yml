@@ -54,8 +54,13 @@ jobs:
         cp -r ../data/core_en/* ./data/core_en/
         cp -r ../data/packs/* ./data/packs/
         cp -r ../metadata/* ./metadata/
-        # Also copy top-level READMEs and license files for the dataset for completeness
-        cp ../README.md ./README.md
+        # Copy the dedicated Hugging Face README as the main README.md for the dataset card
+        if [ -f ../README_hg.md ]; then
+          cp ../README_hg.md ./README.md
+        else
+          echo "Warning: README_hg.md not found. Falling back to main README.md for Hugging Face dataset card."
+          cp ../README.md ./README.md
+        fi
         cp ../LICENCE.data_packs.md ./LICENCE.data_packs.md
         # Add any other specific files you want in the dataset repo root
 
