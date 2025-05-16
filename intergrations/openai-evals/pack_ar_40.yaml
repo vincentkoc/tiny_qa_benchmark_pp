@@ -1,0 +1,9 @@
+pack_ar_40:
+  id: pack_ar_40.dev.v0
+  metrics: [accuracy]
+  description: Evaluation for the TQB++ pack_ar_40 dataset.
+
+pack_ar_40.dev.v0:
+  class: evals.elsuite.basic.match:Match
+  args:
+    samples_jsonl: data/packs/pack_ar_40.json 

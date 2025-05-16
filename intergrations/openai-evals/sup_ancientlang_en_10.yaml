@@ -1,0 +1,9 @@
+sup_ancientlang_en_10:
+  id: sup_ancientlang_en_10.dev.v0
+  metrics: [accuracy]
+  description: Evaluation for the TQB++ sup-ancientlang_en_10 dataset.
+
+sup_ancientlang_en_10.dev.v0:
+  class: evals.elsuite.basic.match:Match
+  args:
+    samples_jsonl: data/packs/sup-ancientlang_en_10.json 

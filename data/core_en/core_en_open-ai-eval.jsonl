@@ -1,0 +1,52 @@
+{"input": [{"role": "user", "content": "What is the capital of France?"}], "ideal": "Paris"}
+{"input": [{"role": "user", "content": "Who wrote Romeo and Juliet?"}], "ideal": "William Shakespeare"}
+{"input": [{"role": "user", "content": "What is 2 + 2?"}], "ideal": "4"}
+{"input": [{"role": "user", "content": "What is the largest planet in our solar system?"}], "ideal": "Jupiter"}
+{"input": [{"role": "user", "content": "Who painted the Mona Lisa?"}], "ideal": "Leonardo da Vinci"}
+{"input": [{"role": "user", "content": "What is the derivative of sin(x)?"}], "ideal": "cos(x)"}
+{"input": [{"role": "user", "content": "Who discovered penicillin?"}], "ideal": "Alexander Fleming"}
+{"input": [{"role": "user", "content": "What is 5 factorial?"}], "ideal": "120"}
+{"input": [{"role": "user", "content": "In what year did the Berlin Wall fall?"}], "ideal": "1989"}
+{"input": [{"role": "user", "content": "What is the time complexity of binary search on a sorted array?"}], "ideal": "O(log n)"}
+{"input": [{"role": "user", "content": "What is the atomic number of carbon?"}], "ideal": "6"}
+{"input": [{"role": "user", "content": "What is the speed of light in vacuum (m/s)?"}], "ideal": "299792458"}
+{"input": [{"role": "user", "content": "What does HTTP stand for?"}], "ideal": "Hypertext Transfer Protocol"}
+{"input": [{"role": "user", "content": "What year did Apollo 11 land on the Moon?"}], "ideal": "1969"}
+{"input": [{"role": "user", "content": "What is Euler's identity?"}], "ideal": "e^(iπ) + 1 = 0"}
+{"input": [{"role": "user", "content": "What is the boiling point of water at sea level (°C)?"}], "ideal": "100"}
+{"input": [{"role": "user", "content": "What is the capital of Nigeria?"}], "ideal": "Abuja"}
+{"input": [{"role": "user", "content": "What is the capital of Australia?"}], "ideal": "Canberra"}
+{"input": [{"role": "user", "content": "What is the capital of Japan?"}], "ideal": "Tokyo"}
+{"input": [{"role": "user", "content": "What is the square root of 81?"}], "ideal": "9"}
+{"input": [{"role": "user", "content": "What is the value of π to two decimal places?"}], "ideal": "3.14"}
+{"input": [{"role": "user", "content": "What is the sum of the interior angles of a triangle in degrees?"}], "ideal": "180"}
+{"input": [{"role": "user", "content": "Solve for x: x² - 4 = 0"}], "ideal": "x = 2 or x = -2"}
+{"input": [{"role": "user", "content": "How many seconds are in one hour?"}], "ideal": "3600"}
+{"input": [{"role": "user", "content": "How many minutes are in a day?"}], "ideal": "1440"}
+{"input": [{"role": "user", "content": "How many hours are in a week?"}], "ideal": "168"}
+{"input": [{"role": "user", "content": "How many months have 31 days?"}], "ideal": "7"}
+{"input": [{"role": "user", "content": "Which galaxy is Earth located in?"}], "ideal": "The Milky Way"}
+{"input": [{"role": "user", "content": "What is the formula for kinetic energy?"}], "ideal": "½mv²"}
+{"input": [{"role": "user", "content": "What is Newton's second law of motion?"}], "ideal": "F = ma"}
+{"input": [{"role": "user", "content": "What is the standard acceleration due to gravity on Earth (m/s²)??"}], "ideal": "9.81"}
+{"input": [{"role": "user", "content": "Which formula expresses mass–energy equivalence?"}], "ideal": "E = mc²"}
+{"input": [{"role": "user", "content": "What is the powerhouse of the cell?"}], "ideal": "Mitochondria"}
+{"input": [{"role": "user", "content": "What molecule carries genetic information in most living organisms?"}], "ideal": "DNA"}
+{"input": [{"role": "user", "content": "Who wrote the novel 1984?"}], "ideal": "George Orwell"}
+{"input": [{"role": "user", "content": "Who wrote To Kill a Mockingbird?"}], "ideal": "Harper Lee"}
+{"input": [{"role": "user", "content": "Who was the first President of the United States?"}], "ideal": "George Washington"}
+{"input": [{"role": "user", "content": "In which year did World War I begin?"}], "ideal": "1914"}
+{"input": [{"role": "user", "content": "In which year did World War II end?"}], "ideal": "1945"}
+{"input": [{"role": "user", "content": "What is the smallest country in the world by area?"}], "ideal": "Vatican City"}
+{"input": [{"role": "user", "content": "Which element has the chemical symbol Au?"}], "ideal": "Gold"}
+{"input": [{"role": "user", "content": "What does GDP stand for?"}], "ideal": "Gross Domestic Product"}
+{"input": [{"role": "user", "content": "What is the currency of Japan?"}], "ideal": "Yen"}
+{"input": [{"role": "user", "content": "What is the output of print(len([1, 2, 3])) in Python?"}], "ideal": "3"}
+{"input": [{"role": "user", "content": "In Python, what keyword is used to define a function?"}], "ideal": "def"}
+{"input": [{"role": "user", "content": "In JavaScript, what keyword declares a variable with block scope?"}], "ideal": "let"}
+{"input": [{"role": "user", "content": "What is the average-case time complexity of quicksort?"}], "ideal": "O(n log n)"}
+{"input": [{"role": "user", "content": "If P implies Q and Q implies R, does P imply R?"}], "ideal": "Yes"}
+{"input": [{"role": "user", "content": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?"}], "ideal": "No"}
+{"input": [{"role": "user", "content": "What is the binary representation of decimal 10?"}], "ideal": "1010"}
+{"input": [{"role": "user", "content": "In git, what command stages changes for commit?"}], "ideal": "git add"}
+{"input": [{"role": "user", "content": "What is Big O notation used for?"}], "ideal": "Describing algorithm complexity"} 

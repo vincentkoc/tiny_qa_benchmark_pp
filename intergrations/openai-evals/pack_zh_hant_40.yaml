@@ -1,0 +1,9 @@
+pack_zh_hant_40:
+  id: pack_zh_hant_40.dev.v0
+  metrics: [accuracy]
+  description: Evaluation for the TQB++ pack_zh-Hant_40 dataset.
+
+pack_zh_hant_40.dev.v0:
+  class: evals.elsuite.basic.match:Match
+  args:
+    samples_jsonl: data/packs/pack_zh-Hant_40.json 
