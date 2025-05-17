@@ -7,7 +7,9 @@
             "category": "geography",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "d81b322f47f77128255d93de21e9097366a7aa7c38de72bb68e2ba71743549fe",
+        "id": "8036351e"
     },
     {
         "text": "Who wrote Romeo and Juliet?",
@@ -17,7 +19,9 @@
             "category": "literature",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "f3c9d89234499b540196358d832a51c429c6ad10890e9ddd5bae70a1b8397957",
+        "id": "c42189a8"
     },
     {
         "text": "What is 2 + 2?",
@@ -27,7 +31,9 @@
             "category": "math",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "515d28712d3275fa562890e134455b2796728f612432933c10bf7a1ff6e5b5e1",
+        "id": "53ff5f85"
     },
     {
         "text": "What is the largest planet in our solar system?",
@@ -37,7 +43,9 @@
             "category": "astronomy",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "9cac8a0374ee5866d993dc6cf5d7f5d0c087e7667b9a5273f4d16220be1f6764",
+        "id": "7adc6ccc"
     },
     {
         "text": "Who painted the Mona Lisa?",
@@ -47,7 +55,9 @@
             "category": "art",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "a4bc6eee92747d3f56aaf0ef7356744af2aa00b1bbaab95de9bd291febe8662b",
+        "id": "face00a9"
     },
     {
         "text": "What is the derivative of sin(x)?",
@@ -57,7 +67,9 @@
             "category": "calculus",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "3c208044473ae691e42f99f7071e24f1f90de3cd4adcf143baf92817f4156b6b",
+        "id": "e3a80e2e"
     },
     {
         "text": "Who discovered penicillin?",
@@ -67,7 +79,9 @@
             "category": "biology",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "6e08e98c04b9985483d1479bde690a119ba653223ee2e8af64cacaa5f4897d08",
+        "id": "7217ed95"
     },
     {
         "text": "What is 5 factorial?",
@@ -77,7 +91,9 @@
             "category": "math",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "41fae27f2df28627c40028f8af9e030a18660b6d71a98b726c8a2d4fd14f6b6f",
+        "id": "e7112cca"
     },
     {
         "text": "In what year did the Berlin Wall fall?",
@@ -87,7 +103,9 @@
             "category": "history",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "922eb3f79bd10f4b9e9f53a9b0bd7b3920565af398f3545c121a4f949be90ee5",
+        "id": "540fe48a"
     },
     {
         "text": "What is the time complexity of binary search on a sorted array?",
@@ -97,7 +115,9 @@
             "category": "computer science",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "a6d7d032c2c288eb1e4d23e40e61cf7bd9deb8b160f114891c3c776aa63fbe7e",
+        "id": "90859c7c"
     },
     {
         "text": "What is the atomic number of carbon?",
@@ -107,7 +127,9 @@
             "category": "chemistry",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "a70d691c52ef9e5955cb2f4b1dc6eea51d152f020e8a54f69d7d704cf482dba5",
+        "id": "38006061"
     },
     {
         "text": "What is the speed of light in vacuum (m/s)?",
@@ -117,7 +139,9 @@
             "category": "physics",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "d7cfa2044050fdfe5cc7f7c3d0363fad4efc794aa4343b7092cc4aacccea2104",
+        "id": "2f472996"
     },
     {
         "text": "What does HTTP stand for?",
@@ -127,7 +151,9 @@
             "category": "computer science",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "370a4f16132dc6729d27d7bd338ec11979bd5014729a6ceb5be85dcd2b69f2a2",
+        "id": "b22f1e79"
     },
     {
         "text": "What year did Apollo 11 land on the Moon?",
@@ -137,7 +163,9 @@
             "category": "history",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "33a160a30f856b077e629ceda0af6f32880536d1dc88aff0388f59d86cb13099",
+        "id": "cc756e42"
     },
     {
         "text": "What is Euler’s identity?",
@@ -147,7 +175,9 @@
             "category": "math",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "3ac88bf7fa76cc534f64e5fad7971dfadd8e8579dcf7f94b8c2de3354effa1f0",
+        "id": "1a6134c3"
     },
     {
         "text": "What is the boiling point of water at sea level (°C)?",
@@ -157,7 +187,9 @@
             "category": "chemistry",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "9e629a7c62e126141fd6a30e0996703d3d2e0377518e6784b392e2e5d0e5b029",
+        "id": "11e56c34"
     },
     {
         "text": "What is the capital of Nigeria?",
@@ -167,7 +199,9 @@
             "category": "geography",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "bf760aed1bff90b73c551efb1cb423ac56414aed609d982de7ac51cc6b8f57bd",
+        "id": "33315f16"
     },
     {
         "text": "What is the capital of Australia?",
@@ -178,7 +212,9 @@
             "region": "Oceania",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "fcfe8a1fd73f7c1a729289d09148da8bd346a551d7a491886b3d8171d5fa5c3a",
+        "id": "f823d569"
     },
     {
         "text": "What is the capital of Japan?",
@@ -189,7 +225,9 @@
             "region": "Asia",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "e0c40266da98334517866ddcfb9c001c3f6f584ed7af583cea87b8861da84127",
+        "id": "02e68239"
     },
     {
         "text": "What is the square root of 81?",
@@ -199,7 +237,9 @@
             "category": "math",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "9a7d617e48c0b57c47744864dc75ef3b1d3230312a8eade7efc66064a4a87d25",
+        "id": "28c6da10"
     },
     {
         "text": "What is the value of π to two decimal places?",
@@ -209,7 +249,9 @@
             "category": "math",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "bd9e522c1cdb725d5e5dabcf04f5c17b12824f0f7396fcc72ac1d5d7d2ecabef",
+        "id": "1d555c75"
     },
     {
         "text": "What is the sum of the interior angles of a triangle in degrees?",
@@ -219,7 +261,9 @@
             "category": "math",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "422d9d426356f4ac6ab5ab29b9c40629700ead7d8061b6e81be3cecd9cc945ee",
+        "id": "7fcba437"
     },
     {
         "text": "Solve for x: x² - 4 = 0",
@@ -229,7 +273,9 @@
             "category": "math",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "ff17efd7f1d4f3e7ecdfee540b6d8c4266ba7841ba51106a046034741d78bbeb",
+        "id": "589af307"
     },
     {
         "text": "How many seconds are in one hour?",
@@ -239,7 +285,9 @@
             "category": "time",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "2eb4c607c4df37e10c71b56f1fb96ad4d0dae49d4493234df79b1c16a14d6dd2",
+        "id": "e936f78b"
     },
     {
         "text": "How many minutes are in a day?",
@@ -249,7 +297,9 @@
             "category": "time",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "955103f9ee7c5d5f12e1c0fb26a9056e5b837c2d0cffb76deb40330fd176afff",
+        "id": "f35c2e82"
     },
     {
         "text": "How many hours are in a week?",
@@ -259,7 +309,9 @@
             "category": "time",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "019d4fcfcf2b7309a8b3b116ee37bf2fa60dda4f131994ff778c119f13af118d",
+        "id": "5d39bcf4"
     },
     {
         "text": "How many months have 31 days?",
@@ -269,7 +321,9 @@
             "category": "calendar",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "eb973343aa69163d4ea0c564c1d454bc707a32f5eb91b233cf7b1b85ff13b5df",
+        "id": "054acbb3"
     },
     {
         "text": "Which galaxy is Earth located in?",
@@ -279,7 +333,9 @@
             "category": "astronomy",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "2da3eaa07670319c629ab4ecb62b8c6a22d4a9cdb971311bcbc32a29da1ba723",
+        "id": "6e301a8e"
     },
     {
         "text": "What is the formula for kinetic energy?",
@@ -289,7 +345,9 @@
             "category": "physics",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "2380a69a4e6fbc9e3a5c17e9ad0d6d5ec5d9d0592c8ca947072565e980124116",
+        "id": "28f62ae6"
     },
     {
         "text": "What is Newton’s second law of motion?",
@@ -299,7 +357,9 @@
             "category": "physics",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "411d3e78a3ab29a04b1b5296572d5a7d18b66c550bdc10e2475da9201997021f",
+        "id": "02d1f352"
     },
     {
         "text": "What is the standard acceleration due to gravity on Earth (m/s²)?",
@@ -309,7 +369,9 @@
             "category": "physics",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "97d4a0206087744eb1db75b837b6f3fc5bdbb81a83cba5840450addd49883e57",
+        "id": "1ca486ad"
     },
     {
         "text": "Which formula expresses mass–energy equivalence?",
@@ -319,7 +381,9 @@
             "category": "physics",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "d28d76aae3cf2638c14c37099e3829f16bfb4cc6eb8e30835650939b8b7e1f63",
+        "id": "6acad3b2"
     },
     {
         "text": "What is the powerhouse of the cell?",
@@ -329,7 +393,9 @@
             "category": "biology",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "9c6a4bc65f7f50f7092ac7b9ab22f3badc901c34ee3cc8375fea3ca83c5d13b4",
+        "id": "a862e27c"
     },
     {
         "text": "What molecule carries genetic information in most living organisms?",
@@ -339,7 +405,9 @@
             "category": "biology",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "0e3aeac2a38025db65b42d84a68d7891684cd310aca32a6bc1261243f1f2286d",
+        "id": "af1e2f2f"
     },
     {
         "text": "Who wrote the novel 1984?",
@@ -349,7 +417,9 @@
             "category": "literature",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "5ba7903f1b97c6ca9d51fa9d358789302ebaacee05c3b5ca82f69cccfa9b5082",
+        "id": "e5f9c2d9"
     },
     {
         "text": "Who wrote To Kill a Mockingbird?",
@@ -359,7 +429,9 @@
             "category": "literature",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "f1c9c02d4f2f6f586dbf74077d73d6e3c6178b618c224ce2e4a168e14ea9639f",
+        "id": "18509407"
     },
     {
         "text": "Who was the first President of the United States?",
@@ -369,7 +441,9 @@
             "category": "history",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "5e7e207905b147506491246058daa78a5b5775252c58155d5667fdfbeddc1eec",
+        "id": "49edd7b6"
     },
     {
         "text": "In which year did World War I begin?",
@@ -379,7 +453,9 @@
             "category": "history",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "15f1dcf27c1fd1a79eeabb77da4576c46e0349f1e0beb6c3c93e9ed3ab10fab7",
+        "id": "81d33f9e"
     },
     {
         "text": "In which year did World War II end?",
@@ -389,7 +465,9 @@
             "category": "history",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "f8222d18b249b304a459ab037599e29e6754def6be8b90061c1f1f9d27a144f4",
+        "id": "61ffd8d9"
     },
     {
         "text": "What is the smallest country in the world by area?",
@@ -400,7 +478,9 @@
             "region": "Europe",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "9d70732e9a685664aa44cf4870c10501860b83b978a52aa699f76f51b08887d4",
+        "id": "15744a46"
     },
     {
         "text": "Which element has the chemical symbol Au?",
@@ -410,7 +490,9 @@
             "category": "chemistry",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "cb603bb940d1f3764fe3e15adef7f789ae2278f268d12b54604239ea120b6399",
+        "id": "f4e3e895"
     },
     {
         "text": "What does GDP stand for?",
@@ -420,7 +502,9 @@
             "category": "economics",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "7a40b8a922ebeff0fd5648a2aa99c6bf1961972b54f6e745ec1f90517931d6c6",
+        "id": "f1e1de06"
     },
     {
         "text": "What is the currency of Japan?",
@@ -430,7 +514,9 @@
             "category": "economics",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "8004777a1180ca6178ab421a41d1f8c698d2c93d3f340efbcee0fe761533c39e",
+        "id": "1571ad15"
     },
     {
         "text": "What is the output of print(len([1, 2, 3])) in Python?",
@@ -440,7 +526,9 @@
             "category": "computer science",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "cfacf8bec593dead608a24de861e3e519a550e55520d46e77ee26342f84c07e8",
+        "id": "8013f3ab"
     },
     {
         "text": "In Python, what keyword is used to define a function?",
@@ -450,7 +538,9 @@
             "category": "computer science",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "a60e5c9a72f49c27abda50d20310adf23f38fdaee7786639d9aea6255a3b5ee5",
+        "id": "32121f1d"
     },
     {
         "text": "In JavaScript, what keyword declares a variable with block scope?",
@@ -460,7 +550,9 @@
             "category": "computer science",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "463a96536836c78ea49f5c603103af0663b72c501352cca7a321ae94b02f0eb3",
+        "id": "e08e9e76"
     },
     {
         "text": "What is the average-case time complexity of quicksort?",
@@ -470,7 +562,9 @@
             "category": "computer science",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "b7684c728f9171cd175e65a1780e91df1ac248afc57b53ce7362a77a32779ac4",
+        "id": "6bcfad5d"
     },
     {
         "text": "If P implies Q and Q implies R, does P imply R?",
@@ -480,7 +574,9 @@
             "category": "logic",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "04a23b6207b8233da5ff2f794b03963c9229b9f10ea705562a9a3aa892802994",
+        "id": "7e868c97"
     },
     {
         "text": "If all cats are mammals and some mammals are black, can we conclude that some cats are black?",
@@ -490,7 +586,9 @@
             "category": "logic",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "14f2bbd18efe1a4d911c750e9c09b4e048938f95afb24b7beeee34956af597be",
+        "id": "71332e11"
     },
     {
         "text": "What is the binary representation of decimal 10?",
@@ -500,7 +598,9 @@
             "category": "computer science",
             "difficulty": "easy"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "e8861346865f23c77d9005e8ea52f8bedd79c97835ebf3635f0b388a58bde570",
+        "id": "bec2e8c6"
     },
     {
         "text": "In git, what command stages changes for commit?",
@@ -510,7 +610,9 @@
             "category": "computer science",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "ddad54f32728258ffce0cd07a087c7ef80cbdc6206c3b0df36dc9203a5343bb2",
+        "id": "e2b07701"
     },
     {
         "text": "What is Big O notation used for?",
@@ -520,6 +622,8 @@
             "category": "computer science",
             "difficulty": "medium"
         },
-        "lang": "en"
+        "lang": "en",
+        "sha256": "a0c7d08834b52cbb7991f7a9b421d561002dd45e9bcf10016b088e8ace8aa0ba",
+        "id": "21d4231a"
     }
 ]
