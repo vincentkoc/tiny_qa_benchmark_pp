@@ -55,13 +55,17 @@ jobs:
         cp -r ../data/core_en/* ./data/core_en/
         cp -r ../data/packs/* ./data/packs/
 
-        # # Copy metadata directory contents if it exists and is not empty
-        # if [ -d ../metadata ] && [ "$(ls -A ../metadata)" ]; then
-        #   echo "Copying metadata directory contents..."
-        #   cp -r ../metadata/. ./metadata/
-        # else
-        #   echo "Warning: Source metadata directory ../metadata is missing or empty. Skipping metadata copy."
-        # fi
+        # Convert JSON to JSONL for Hugging Face
+        sudo apt-get install -y jq
+        for json_file in data/*/*.json; do
+          if [ -f "$json_file" ]; then
+            jsonl_file="${json_file%.json}.jsonl"
+            jq -c '.[]' "$json_file" > "$jsonl_file"
+            echo "Converted $json_file to $jsonl_file"
+            # Optionally, remove the original JSON file
+            rm "$json_file"
+          fi
+        done
 
         # Copy the dedicated Hugging Face README as the main README.md for the dataset card
         if [ -f ../README_hg.md ]; then
