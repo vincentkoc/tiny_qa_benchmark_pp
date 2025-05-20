@@ -46,8 +46,7 @@ Un conjunto de datos de evaluación ultraligero y un generador sintético <br>pa
 
 Este repositorio contiene la implementación oficial y los conjuntos de datos sintéticos para el artículo: *Tiny QA Benchmark++: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests*.
 
-**Artículo:** (Los detalles y el enlace a la preimpresión se proporcionarán aquí una vez publicados)
-
+- **Artículo:** [arXiv:2505.12058](https://arxiv.org/abs/2505.12058)
 - **Hugging Face Hub:** [datasets/vincentkoc/tiny_qa_benchmark_pp](https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp)
 - **Repositorio de GitHub:** [vincentkoc/tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny_qa_benchmark_pp)
 
@@ -163,38 +162,15 @@ Si usas TQB++ en tu investigación o trabajo, por favor cita el TQB original y e
 
 % Artículo TQB++
 @misc{koc2025tinyqabenchmarkultralightweight,
-      title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
-      author={Vincent Koc},
-      year={2025},
-      eprint={2505.12058},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2505.12058}
-}
-
-% core_en.json original (52 en en)
-@misc{koctinyqabenchmark_original,
-  author       = {Vincent Koc},
-  title        = {tiny_qa_benchmark},
-  year         = {2025},
-  publisher    = {Hugging Face},
-  journal      = {Hugging Face Hub},
-  doi          = {10.57967/hf/5417},
-  url          = {https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark}
+  title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
+  author={Vincent Koc},
+  year={2025},
+  eprint={2505.12058},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2505.12058}
 }
 ```
-
-<!-- % Marcador de posición para la cita del artículo de TQB++ JMLR - actualizar cuando esté disponible
-@article{koc2025tqb_pp,
-  author       = {Vincent Koc},
-  title        = {Tiny QA Benchmark$^{++}$: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests},
-  journal      = {Journal of Machine Learning Research (pendiente)},
-  year         = {2025},
-  volume       = {XX},
-  number       = {X},
-  pages        = {X-XX},
-  url          = {http://jmlr.org/papers/vXX/koc25a.html} % URL de ejemplo
-} -->
 
 ## Licencia
 El código en este repositorio (incluyendo el generador y los scripts de evaluación) y el conjunto de datos `data/core_en` y cualquier otra cosa no mencionada con una licencia están licenciados bajo la Licencia Apache 2.0. Consulta el archivo `LICENSE` para más detalles.

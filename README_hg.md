@@ -133,13 +133,13 @@ If you use TQB++ datasets or the generator toolkit in your research or work, ple
 
 % TQB++ Paper
 @misc{koc2025tinyqabenchmarkultralightweight,
-      title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
-      author={Vincent Koc},
-      year={2025},
-      eprint={2505.12058},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2505.12058}
+  title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
+  author={Vincent Koc},
+  year={2025},
+  eprint={2505.12058},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2505.12058}
 }
 
 % Original core_en.json (52 in en)

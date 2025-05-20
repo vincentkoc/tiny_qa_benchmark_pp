@@ -46,8 +46,7 @@
 
 このリポジトリには、論文 *Tiny QA Benchmark++: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests* の公式実装と合成データセットが含まれています。
 
-**論文：** (詳細はプレプリントのリンクとともに公開され次第ここに記載されます)
-
+- **arXiv 論文:** [arXiv:2505.12058](https://arxiv.org/abs/2505.12058)
 - **Hugging Face Hub：** [datasets/vincentkoc/tiny_qa_benchmark_pp](https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp)
 - **GitHub リポジトリ：** [vincentkoc/tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny_qa_benchmark_pp)
 
@@ -163,24 +162,13 @@ TQB++ は、さまざまな LLMOps および評価ワークフロー向けに設
 
 % TQB++ 論文
 @misc{koc2025tinyqabenchmarkultralightweight,
-      title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
-      author={Vincent Koc},
-      year={2025},
-      eprint={2505.12058},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2505.12058}
-}
-
-% 元の core_en.json (英語で 52 項目)
-@misc{koctinyqabenchmark_original,
-  author       = {Vincent Koc},
-  title        = {tiny_qa_benchmark},
-  year         = {2025},
-  publisher    = {Hugging Face},
-  journal      = {Hugging Face Hub},
-  doi          = {10.57967/hf/5417},
-  url          = {https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark}
+  title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
+  author={Vincent Koc},
+  year={2025},
+  eprint={2505.12058},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2505.12058}
 }
 ```
 

@@ -46,8 +46,7 @@
 
 本存储库包含论文 *Tiny QA Benchmark++: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests* 的官方实现和合成数据集。
 
-**论文：** (详情和预印本链接将在发布后在此处提供)
-
+- **论文:** [arXiv:2505.12058](https://arxiv.org/abs/2505.12058)
 - **Hugging Face Hub：** [datasets/vincentkoc/tiny_qa_benchmark_pp](https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp)
 - **GitHub 存储库：** [vincentkoc/tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny_qa_benchmark_pp)
 
@@ -163,39 +162,15 @@ TQB++ 专为各种 LLMOps 和评估工作流而设计：
 
 % TQB++ 论文
 @misc{koc2025tinyqabenchmarkultralightweight,
-      title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
-      author={Vincent Koc},
-      year={2025},
-      eprint={2505.12058},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2505.12058}
-}
-
-% 原始 core_en.json (52 个英语条目)
-@misc{koctinyqabenchmark_original,
-  author       = {Vincent Koc},
-  title        = {tiny_qa_benchmark},
-  year         = {2025},
-  publisher    = {Hugging Face},
-  journal      = {Hugging Face Hub},
-  doi          = {10.57967/hf/5417},
-  url          = {https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark}
+  title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
+  author={Vincent Koc},
+  year={2025},
+  eprint={2505.12058},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2505.12058}
 }
 ```
-
-<!-- % TQB++ JMLR 论文引文占位符 - 可用时更新
-@article{koc2025tqb_pp,
-  author       = {Vincent Koc},
-  title        = {Tiny QA Benchmark$^{++}$: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests},
-  journal      = {Journal of Machine Learning Research (待定)},
-  year         = {2025},
-  volume       = {XX},
-  number       = {X},
-  pages        = {X-XX},
-  url          = {http://jmlr.org/papers/vXX/koc25a.html} % 示例 URL
-} -->
-
 ## 许可证
 本存储库中的代码（包括生成器和评估脚本）以及 `data/core_en` 数据集和任何其他未提及许可证的内容均在 Apache License 2.0 下获得许可。有关详细信息，请参阅 `LICENSE` 文件。
 

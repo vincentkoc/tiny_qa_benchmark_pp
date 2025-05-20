@@ -30,7 +30,6 @@ An ultra-lightweight evaluation dataset and synthetic generator <br>to expose cr
 <p align="center">
     <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp"><b>GitHub</b></a> •
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><b>Hugging Face Dataset</b></a> •
-    <!-- Link to paper once available -->
     <a href="https://arxiv.org/abs/2505.12058"><b>Paper</b></a> •
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><b>PyPI</b></a>
 </p>
@@ -43,8 +42,7 @@ An ultra-lightweight evaluation dataset and synthetic generator <br>to expose cr
 
 This repository contains the official implementation and synthetic datasets for the paper: *Tiny QA Benchmark++: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests*.
 
-**Paper:** (Details and link to preprint will be provided here once published)
-
+- **Paper:** [arXiv:2505.12058](https://arxiv.org/abs/2505.12058)
 - **Hugging Face Hub:** [datasets/vincentkoc/tiny_qa_benchmark_pp](https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp)
 - **GitHub Repository:** [vincentkoc/tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny_qa_benchmark_pp)
 
@@ -158,29 +156,17 @@ If you use TQB++ in your research or work, please cite the original TQB and the 
   note         = {See also: \url{https://github.com/vincentkoc/tiny_qa_benchmark_pp}}
 }
 
-% Original core_en.json (52 in en)
-@misc{koctinyqabenchmark_original,
-  author       = {Vincent Koc},
-  title        = {tiny_qa_benchmark},
-  year         = {2025},
-  publisher    = {Hugging Face},
-  journal      = {Hugging Face Hub},
-  doi          = {10.57967/hf/5417},
-  url          = {https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark}
+% This is the paper
+@misc{koc2025tinyqabenchmarkultralightweight,
+  title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
+  author={Vincent Koc},
+  year={2025},
+  eprint={2505.12058},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2505.12058}
 }
 ```
-
-<!-- % Placeholder for TQB++ paper citation - will be updated upon publication
-@article{koc2025tqb_pp,
-  author       = {Vincent Koc},
-  title        = {Tiny QA Benchmark$^{++}$: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests},
-  journal      = {Journal of Machine Learning Research (pending)},
-  year         = {2025},
-  volume       = {XX},
-  number       = {X},
-  pages        = {X-XX},
-  url          = {http://jmlr.org/papers/vXX/koc25a.html} % Example URL
-} -->
 
 ## License
 The code in this repository (including the generator and evaluation scripts) and the `data/core_en` dataset and anything else not mentioned with a licence are licensed under the Apache License 2.0. See the `LICENSE` file for details.
