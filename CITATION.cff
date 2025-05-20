@@ -3,8 +3,8 @@ message: "If you use this software or dataset, please cite it as below."
 authors:
   - family-names: "Koc"
     given-names: "Vincent"
-    orcid: "https://orcid.org/0000-0002-6 Vincent Koc_ORCID_PLACEHOLDER"
-    # affiliation: "Comet ML, Inc." # Optional: Add if desired
+    orcid: "https://orcid.org/0000-0002-7830-0017"
+    affiliation: "Comet ML, Inc." # Optional: Add if desired
 
 title: "Tiny QA Benchmark++ (TQB++) Datasets and Toolkit"
 version: 0.1.0 # Corresponds to the planned PyPI package version, update with releases
@@ -28,11 +28,11 @@ keywords:
 
 # Preferred citation for the TQB++ dataset collection and toolkit
 preferred-citation:
-  type: generic # Using 'generic' as it's a collection of datasets and software
+  type: generic
   authors:
   - family-names: "Koc"
     given-names: "Vincent"
-    orcid: "https://orcid.org/0000-0002-6 Vincent Koc_ORCID_PLACEHOLDER"
+    orcid: "https://orcid.org/0000-0002-7830-0017"
   title: "Tiny QA Benchmark++ (TQB++) Datasets and Toolkit"
   year: 2025
   institution:
@@ -41,32 +41,38 @@ preferred-citation:
   doi: 10.57967/hf/5531
   notes: "See also: https://github.com/vincentkoc/tiny_qa_benchmark_pp"
 
-# Reference to the original Tiny QA Benchmark
 references:
+  # Reference to the original Tiny QA Benchmark
   - type: dataset
     title: "tiny_qa_benchmark"
     authors:
       - family-names: "Koc"
         given-names: "Vincent"
-        orcid: "https://orcid.org/0000-0002-6 Vincent Koc_ORCID_PLACEHOLDER"
+        orcid: "https://orcid.org/0000-0002-6"
     year: 2025
     institution:
       name: "Hugging Face"
     doi: "10.57967/hf/5417"
     url: "https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark"
 
-# Placeholder for the JMLR paper - uncomment and fill when available
-# - type: article
-#   title: "Tiny QA Benchmark++: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests"
-#   authors:
-#     - family-names: "Koc"
-#       given-names: "Vincent"
-#       orcid: "https://orcid.org/0000-0002-6 Vincent Koc_ORCID_PLACEHOLDER"
-#   journal: "Journal of Machine Learning Research"
-#   year: 2025
-#   # volume: XX
-#   # issue: X
-#   # start-page: X
-#   # end-page: XX
-#   # doi: "DOI_FOR_PAPER_WHEN_AVAILABLE"
-#   # url: "URL_TO_PAPER_WHEN_AVAILABLE" 
+  # Reference to the preprint of the TQB++ paper
+  - type: article
+    title: "Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation"
+    authors:
+      - family-names: "Koc"
+        given-names: "Vincent"
+        orcid: "https://orcid.org/0000-0002-6"
+    year: 2025
+    status: "preprint"
+    url: "https://arxiv.org/abs/2505.12058"
+    identifiers:
+      - type: arXiv
+        value: "2505.12058"
+      - type: doi
+        value: "10.48550/arXiv.2505.12058"
+        description: "Pending registration"
+    keywords:
+      - "Artificial Intelligence"
+      - "Computation and Language"
+      - "cs.AI"
+      - "cs.CL"

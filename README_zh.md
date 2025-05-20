@@ -27,6 +27,7 @@
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><img alt="PyPI 版本" src="https://img.shields.io/pypi/v/tinyqabenchmarkpp"></a>
     <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="许可证" src="https://img.shields.io/badge/Apache-2.0-green"></a>
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Hugging Face 数据集" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a>
+    <a href="https://arxiv.org/abs/2505.12058"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.12058-b31b1b.svg"></a>
     <!-- 如果您配置了 CI，请考虑添加 GitHub Actions 工作流徽章 -->
     <!-- 例如：<a href="YOUR_WORKFLOW_LINK"><img alt="构建状态" src="YOUR_WORKFLOW_BADGE_SVG_LINK"></a> -->
 </div>
@@ -34,8 +35,7 @@
 <p align="center">
     <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp"><b>GitHub</b></a> •
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><b>Hugging Face 数据集</b></a> •
-    <!-- 论文可用后链接 -->
-    <!-- <a href="#"><b>论文 (链接即将推出)</b></a> • -->
+    <a href="https://arxiv.org/abs/2505.12058"><b>论文 (arXiv:2505.12058)</b></a> •
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><b>PyPI</b></a>
 </p>
 
@@ -160,6 +160,17 @@ TQB++ 专为各种 LLMOps 和评估工作流而设计：
   doi          = {10.57967/hf/5531},
   howpublished = {\\url{https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp}},
   note         = {另请参阅: \\url{https://github.com/vincentkoc/tiny_qa_benchmark_pp}}
+}
+
+% TQB++ 论文
+@misc{koc2025tinyqabenchmarkultralightweight,
+      title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
+      author={Vincent Koc},
+      year={2025},
+      eprint={2505.12058},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2505.12058}
 }
 
 % 原始 core_en.json (52 个英语条目)

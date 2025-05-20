@@ -27,6 +27,7 @@ Un jeu de données d'évaluation ultra-léger et un générateur synthétique <b
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><img alt="Version PyPI" src="https://img.shields.io/pypi/v/tinyqabenchmarkpp"></a>
     <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="Licence" src="https://img.shields.io/badge/Apache-2.0-green"></a>
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Jeu de données Hugging Face" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a>
+    <a href="https://arxiv.org/abs/2505.12058"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.12058-b31b1b.svg"></a>
     <!-- Envisagez d'ajouter un badge de workflow GitHub Actions si vous avez configuré la CI -->
     <!-- ex: <a href="YOUR_WORKFLOW_LINK"><img alt="État de la construction" src="YOUR_WORKFLOW_BADGE_SVG_LINK"></a> -->
 </div>
@@ -34,8 +35,7 @@ Un jeu de données d'évaluation ultra-léger et un générateur synthétique <b
 <p align="center">
     <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp"><b>GitHub</b></a> •
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><b>Jeu de données Hugging Face</b></a> •
-    <!-- Lien vers l'article dès qu'il sera disponible -->
-    <!-- <a href="#"><b>Article (Lien à venir)</b></a> • -->
+    <a href="https://arxiv.org/abs/2505.12058"><b>Article (arXiv:2505.12058)</b></a> •
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><b>PyPI</b></a>
 </p>
 
@@ -160,6 +160,17 @@ Si vous utilisez TQB++ dans vos recherches ou votre travail, veuillez citer le T
   doi          = {10.57967/hf/5531},
   howpublished = {\\url{https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp}},
   note         = {Voir aussi : \\url{https://github.com/vincentkoc/tiny_qa_benchmark_pp}}
+}
+
+% Article TQB++
+@misc{koc2025tinyqabenchmarkultralightweight,
+      title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
+      author={Vincent Koc},
+      year={2025},
+      eprint={2505.12058},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2505.12058}
 }
 
 % core_en.json original (52 en en)

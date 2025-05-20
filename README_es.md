@@ -27,6 +27,7 @@ Un conjunto de datos de evaluación ultraligero y un generador sintético <br>pa
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><img alt="Versión de PyPI" src="https://img.shields.io/pypi/v/tinyqabenchmarkpp"></a>
     <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="Licencia" src="https://img.shields.io/badge/Apache-2.0-green"></a>
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Conjunto de datos de Hugging Face" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a>
+    <a href="https://arxiv.org/abs/2505.12058"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.12058-b31b1b.svg"></a>
     <!-- Considera añadir una insignia de flujo de trabajo de GitHub Actions si tienes CI configurada -->
     <!-- ej.: <a href="YOUR_WORKFLOW_LINK"><img alt="Estado de la compilación" src="YOUR_WORKFLOW_BADGE_SVG_LINK"></a> -->
 </div>
@@ -34,8 +35,7 @@ Un conjunto de datos de evaluación ultraligero y un generador sintético <br>pa
 <p align="center">
     <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp"><b>GitHub</b></a> •
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><b>Conjunto de datos de Hugging Face</b></a> •
-    <!-- Enlace al artículo cuando esté disponible -->
-    <!-- <a href="#"><b>Artículo (Enlace próximamente)</b></a> • -->
+    <a href="https://arxiv.org/abs/2505.12058"><b>Artículo (arXiv:2505.12058)</b></a> •
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><b>PyPI</b></a>
 </p>
 
@@ -160,6 +160,17 @@ Si usas TQB++ en tu investigación o trabajo, por favor cita el TQB original y e
   doi          = {10.57967/hf/5531},
   howpublished = {\\url{https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp}},
   note         = {Ver también: \\url{https://github.com/vincentkoc/tiny_qa_benchmark_pp}}
+}
+
+% Artículo TQB++
+@misc{koc2025tinyqabenchmarkultralightweight,
+      title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
+      author={Vincent Koc},
+      year={2025},
+      eprint={2505.12058},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2505.12058}
 }
 
 % core_en.json original (52 en en)

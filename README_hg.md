@@ -40,7 +40,7 @@ arxiv: 2505.12058
 This Hugging Face dataset repository hosts the core English dataset and various synthetically generated multilingual and topical dataset packs associated with TQB++.
 
 **Main GitHub Repository:** [vincentkoc/tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny_qa_benchmark_pp)
-**Paper:** (Details and link to preprint will be provided here once published on the main GitHub)
+**Paper:** [arXiv:2505.12058](https://arxiv.org/abs/2505.12058)
 
 ## Dataset Overview
 
@@ -125,8 +125,19 @@ If you use TQB++ datasets or the generator toolkit in your research or work, ple
   year         = {2025},
   publisher    = {Hugging Face & GitHub},
   doi          = {10.57967/hf/5531},
-  howpublished = {\url{https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp}},
-  note         = {See also: \url{https://github.com/vincentkoc/tiny_qa_benchmark_pp}}
+  howpublished = {\\\\url{https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp}},
+  note         = {See also: \\\\url{https://github.com/vincentkoc/tiny_qa_benchmark_pp}}
+}
+
+% TQB++ Paper
+@misc{koc2025tinyqabenchmarkultralightweight,
+      title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
+      author={Vincent Koc},
+      year={2025},
+      eprint={2505.12058},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2505.12058}
 }
 
 % Original core_en.json (52 in en)

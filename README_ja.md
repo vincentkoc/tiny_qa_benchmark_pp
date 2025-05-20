@@ -27,6 +27,7 @@
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><img alt="PyPI バージョン" src="https://img.shields.io/pypi/v/tinyqabenchmarkpp"></a>
     <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="ライセンス" src="https://img.shields.io/badge/Apache-2.0-green"></a>
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Hugging Face データセット" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a>
+    <a href="https://arxiv.org/abs/2505.12058"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.12058-b31b1b.svg"></a>
     <!-- CI を設定している場合は、GitHub Actions ワークフローバッジの追加を検討してください -->
     <!-- 例：<a href="YOUR_WORKFLOW_LINK"><img alt="ビルドステータス" src="YOUR_WORKFLOW_BADGE_SVG_LINK"></a> -->
 </div>
@@ -34,8 +35,7 @@
 <p align="center">
     <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp"><b>GitHub</b></a> •
     <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><b>Hugging Face データセット</b></a> •
-    <!-- 論文が利用可能になり次第リンク -->
-    <!-- <a href="#"><b>論文 (リンクは近日公開)</b></a> • -->
+    <a href="https://arxiv.org/abs/2505.12058"><b>論文 (arXiv:2505.12058)</b></a> •
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><b>PyPI</b></a>
 </p>
 
@@ -162,6 +162,17 @@ TQB++ は、さまざまな LLMOps および評価ワークフロー向けに設
   note         = {参照: \\url{https://github.com/vincentkoc/tiny_qa_benchmark_pp}}
 }
 
+% TQB++ 論文
+@misc{koc2025tinyqabenchmarkultralightweight,
+      title={Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation}, 
+      author={Vincent Koc},
+      year={2025},
+      eprint={2505.12058},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2505.12058}
+}
+
 % 元の core_en.json (英語で 52 項目)
 @misc{koctinyqabenchmark_original,
   author       = {Vincent Koc},
@@ -173,18 +184,6 @@ TQB++ は、さまざまな LLMOps および評価ワークフロー向けに設
   url          = {https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark}
 }
 ```
-
-<!-- % TQB++ JMLR 論文引用プレースホルダー - 利用可能になり次第更新
-@article{koc2025tqb_pp,
-  author       = {Vincent Koc},
-  title        = {Tiny QA Benchmark$^{++}$: Micro Gold Dataset with Synthetic Multilingual Generation for Rapid LLMOps Smoke Tests},
-  journal      = {Journal of Machine Learning Research (保留中)},
-  year         = {2025},
-  volume       = {XX},
-  number       = {X},
-  pages        = {X-XX},
-  url          = {http://jmlr.org/papers/vXX/koc25a.html} % URL 例
-} -->
 
 ## ライセンス
 このリポジトリのコード (ジェネレータと評価スクリプトを含む)、`data/core_en` データセット、およびライセンスが記載されていないその他のものは、Apache License 2.0 の下でライセンスされています。詳細については、`LICENSE` ファイルを参照してください。
