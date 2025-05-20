@@ -26,42 +26,66 @@ keywords:
   - "Question Answering"
   - "benchmark"
 
-# Preferred citation for the TQB++ dataset collection and toolkit
+# Preferred citation is now the arXiv paper
 preferred-citation:
-  type: generic
+  type: article
   authors:
   - family-names: "Koc"
     given-names: "Vincent"
     orcid: "https://orcid.org/0000-0002-7830-0017"
-  title: "Tiny QA Benchmark++ (TQB++) Datasets and Toolkit"
+  title: "Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation"
   year: 2025
-  institution:
-    name: "Hugging Face & GitHub"
-  url: "https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"
-  doi: 10.57967/hf/5531
-  notes: "See also: https://github.com/vincentkoc/tiny_qa_benchmark_pp"
+  status: "preprint"
+  url: "https://arxiv.org/abs/2505.12058"
+  identifiers:
+    - type: arXiv
+      value: "2505.12058"
+    - type: doi
+      value: "10.48550/arXiv.2505.12058"
+      description: "Pending registration"
+  # Keywords from the paper can be included if desired, e.g.:
+  # keywords:
+  #   - "Artificial Intelligence"
+  #   - "Computation and Language"
+  #   - "cs.AI"
+  #   - "cs.CL"
 
+# References section includes the dataset collection and other relevant works
 references:
+  # Citation for the TQB++ dataset collection and toolkit (no longer preferred)
+  - type: generic
+    authors:
+    - family-names: "Koc"
+      given-names: "Vincent"
+      orcid: "https://orcid.org/0000-0002-7830-0017"
+    title: "Tiny QA Benchmark++ (TQB++) Datasets and Toolkit"
+    year: 2025
+    institution:
+      name: "Hugging Face & GitHub"
+    url: "https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"
+    doi: 10.57967/hf/5531
+    notes: "See also: https://github.com/vincentkoc/tiny_qa_benchmark_pp"
+
   # Reference to the original Tiny QA Benchmark
   - type: dataset
     title: "tiny_qa_benchmark"
     authors:
       - family-names: "Koc"
         given-names: "Vincent"
-        orcid: "https://orcid.org/0000-0002-6"
+        orcid: "https://orcid.org/0000-0002-7830-0017"
     year: 2025
     institution:
       name: "Hugging Face"
     doi: "10.57967/hf/5417"
     url: "https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark"
 
-  # Reference to the preprint of the TQB++ paper
+  # Reference to the preprint of the TQB++ paper (now also the preferred citation)
   - type: article
     title: "Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation"
     authors:
       - family-names: "Koc"
         given-names: "Vincent"
-        orcid: "https://orcid.org/0000-0002-6"
+        orcid: "https://orcid.org/0000-0002-7830-0017"
     year: 2025
     status: "preprint"
     url: "https://arxiv.org/abs/2505.12058"
