@@ -31,6 +31,8 @@ pretty_name: Tiny QA Benchmark++
 size_categories:
 - n<1K
 arxiv: 2505.12058
+datasets:
+  - vincentkoc/tiny_qa_benchmark
 ---
 
 # Tiny QA Benchmark++ (TQB++)
