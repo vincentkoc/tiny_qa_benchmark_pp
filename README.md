@@ -22,7 +22,8 @@ An ultra-lightweight evaluation dataset and synthetic generator <br>to expose cr
 <div align="center">
     <a href="https://pypi.org/project/tinyqabenchmarkpp/"><img alt="PyPI version" src="https://img.shields.io/pypi/v/tinyqabenchmarkpp"></a>
     <a href="https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/Apache-2.0-green"></a>
-    <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Hugging Face Dataset" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a><a href="https://arxiv.org/abs/2505.12058"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.12058-b31b1b.svg"></a>
+    <a href="https://huggingface.co/datasets/vincentkoc/tiny_qa_benchmark_pp"><img alt="Hugging Face Dataset" src="https://img.shields.io/badge/🤗%20Dataset-Tiny%20QA%20Benchmark%2B%2B-blue"></a>
+    <a href="https://arxiv.org/abs/2505.12058"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.12058-b31b1b.svg"></a>
     <!-- Consider adding a GitHub Actions workflow badge if you have CI configured -->
     <!-- e.g., <a href="YOUR_WORKFLOW_LINK"><img alt="Build Status" src="YOUR_WORKFLOW_BADGE_SVG_LINK"></a> -->
 </div>
