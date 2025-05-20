@@ -30,6 +30,7 @@ tags:
 pretty_name: Tiny QA Benchmark++
 size_categories:
 - n<1K
+arxiv: 2505.12058
 ---
 
 # Tiny QA Benchmark++ (TQB++)
