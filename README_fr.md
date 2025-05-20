@@ -1,4 +1,3 @@
-\
 > [!NOTE]
 > Remarque : Ce document est une version traduite automatiquement et peut contenir des inexactitudes. Vos contributions pour améliorer la traduction sont les bienvenues !
 
