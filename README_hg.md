@@ -1,38 +1,39 @@
 ---
+language:
+  - en
+  - de
+  - ar
+  - ko
+  - fr
+  - pt
+  - zh
+  - ja
+  - es
+  - tr
+  - ru
 license: other
+size_categories:
+  - n<1K
+task_categories:
+  - question-answering
+task_ids:
+  - extractive-qa
+  - closed-book-qa
+pretty_name: Tiny QA Benchmark++
 license_name: eval-only-nc-nd
 license_link: >-
   https://github.com/vincentkoc/tiny_qa_benchmark_pp/blob/main/LICENCE.data_packs.md
-task_categories:
-- question-answering
-task_ids:
-- extractive-qa
-- closed-book-qa
-language:
-- en
-- de
-- ar
-- ko
-- fr
-- pt
-- zh
-- ja
-- es
-- tr
-- ru
 tags:
-- synthetic
-- qa
-- evaluation
-- benchmark
-- llmops
-- smoke-test
-pretty_name: Tiny QA Benchmark++
-size_categories:
-- n<1K
+  - synthetic
+  - qa
+  - evaluation
+  - benchmark
+  - llmops
+  - smoke-test
 arxiv: 2505.12058
 datasets:
   - vincentkoc/tiny_qa_benchmark
+library_name: tinyqabenchmarkpp
 ---
 
 # Tiny QA Benchmark++ (TQB++)
